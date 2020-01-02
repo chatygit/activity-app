@@ -32,7 +32,7 @@ export class AppComponent implements OnInit {
   dataSource: MatTableDataSource<CreditModel>;
 
   expandDataSource: MatTableDataSource<TotalByLocation>;
-  expandTableColumns: string[] = ['location', 'credit', 'debit'];
+  expandTableColumns: string[] = ['location', 'creditTotal', 'debitTotal'];
   expandedElement: TotalByLocation | null;
 
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
@@ -54,8 +54,7 @@ export class AppComponent implements OnInit {
       resp => {
         this.totalByLocation = resp.body;
         this.expandDataSource = new MatTableDataSource(resp.body);
-        console.log(this.totalByLocation);
-        this.totalAmount = this.totalByLocation.find(entry => entry.location == 'TOTAL').creditTotal;
+        this.totalAmount = this.totalByLocation.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
       }
     );
 

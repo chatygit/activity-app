@@ -1,27 +1,7 @@
-table {
-  width: 100%;
+
+table{
+  width: 50%;
 }
-
-.mat-form-field {
-  font-size: 14px;
-  width: 100%;
-}
-
-td,
-th {
-  width: 25%;
-}
-
-
-tr.mat-footer-row {
-  font-weight: bold;
-}
-
-mat-grid-tile{
-  overflow: auto;
-}
-
-
 tr.example-detail-row {
   height: 0;
 }
@@ -56,13 +36,5 @@ tr.example-element-row:not(.example-expanded-row):active {
   font-weight: bold;
   font-size: 40px;
   line-height: normal;
-}
-
-.example-element-description {
-  padding: 16px;
-}
-
-.example-element-description-attribution {
-  opacity: 0.5;
 }
 
