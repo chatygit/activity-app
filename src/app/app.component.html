@@ -5,44 +5,40 @@
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
       <mat-card-title>Here is your Credit Card Stats</mat-card-title>
-      <mat-card-subtitle>Total Amount :  {{totalAmount}}</mat-card-subtitle>
+      <mat-card-subtitle>Total Amount : {{totalAmount}}</mat-card-subtitle>
     </mat-card-header>
 
   </mat-card>
 
-  <!-- Expandable Table -->
+  <mat-grid-list cols="2" rowHeight="500px">
 
-  <table mat-table [dataSource]="expandDataSource" multiTemplateDataRows>
-    <ng-container matColumnDef="{{column}}" *ngFor="let column of expandTableColumns">
-      <th mat-header-cell *matHeaderCellDef> {{column}} </th>
-      <td mat-cell *matCellDef="let element"> {{element[column]}}</td>
-    </ng-container>
+    <mat-grid-tile>
+      <mat-selection-list #locSelect>
+        <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
+        {{tloc.location}}  
+        <span color="primary" style="font-weight: bold;">Debit : {{tloc.creditTotal | currency}}  </span> 
+        </mat-list-option>
+      </mat-selection-list>
+    </mat-grid-tile>
 
-    <!-- Expanded Content Column - The detail row is made up of this one column that spans across all columns -->
-    <ng-container matColumnDef="expandedDetail">
-      <td mat-cell *matCellDef="let element" [attr.colspan]="expandTableColumns.length">
-        <div class="example-element-detail" [@detailExpand]="element == expandedElement ? 'expanded' : 'collapsed'">
-          <div class="example-element-diagram">
-            <div class="example-element-location"> {{element.location}} </div>
-            <div class="example-element-credit"> {{element.creditTotal}} </div>
-            <div class="example-element-debit"> {{element.debitTotal}} </div>
-          </div>
-          <mat-list>
-            <mat-list-item *ngFor="let purchase of element.purchaseList"> {{purchase.credit}} </mat-list-item>
-           </mat-list>
-          
-        </div>
-      </td>
-    </ng-container>
+    <mat-grid-tile>
+      <p>
+        Options selected: {{locSelect.selectedOptions.selected.length}}
+      </p>
+      <ul>
+        <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
+          {{ valSelect.value.creditTotal }}
+        </li>
+      </ul>
+    </mat-grid-tile>
 
-    <tr mat-header-row *matHeaderRowDef="expandTableColumns"></tr>
-    <tr mat-row *matRowDef="let element; columns: expandTableColumns;" class="example-element-row"
-      [class.example-expanded-row]="expandedElement === element"
-      (click)="expandedElement = expandedElement === element ? null : element">
-    </tr>
-    <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
-  </table>
 
+  </mat-grid-list>
+
+
+
+
+  
 
 
 </div>
