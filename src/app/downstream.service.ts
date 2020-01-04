@@ -18,11 +18,19 @@ export class DownstreamService {
 
     }
 
-    getCreditMap(): Observable<HttpResponse<TotalByLocation[]>> {
+    getCreditMapLocation(year: number): Observable<HttpResponse<TotalByLocation[]>> {
 
         const headers = new HttpHeaders().set('authorization', 'test');
 
-        return this.http.get<TotalByLocation[]>('http://localhost:8080/credit/api/aggregate', { headers, observe: 'response' });
+        return this.http.get<TotalByLocation[]>('http://localhost:8080/credit/api/aggregate/location/'+ year, { headers, observe: 'response' });
+
+    }
+
+    getCreditMapYear(): Observable<HttpResponse<TotalByLocation[]>> {
+
+        const headers = new HttpHeaders().set('authorization', 'test');
+
+        return this.http.get<TotalByLocation[]>('http://localhost:8080/credit/api/aggregate/year', { headers, observe: 'response' });
 
     }
 

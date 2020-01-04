@@ -1,35 +1,53 @@
 <div class="container">
 
   <!--  Header Card  -->
-  <mat-card style="background-color: aquamarine;">
+  <mat-card class="header-card" style="background-color: aquamarine;">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
       <mat-card-title>Here is your Credit Card Stats</mat-card-title>
-      <mat-card-subtitle>Total Amount : {{totalAmount}}</mat-card-subtitle>
+      <mat-card-subtitle style="font-weight: bold;font-size: larger;font-style: italic;color: blueviolet;">Total Amount
+        : {{totalAmount | currency}}</mat-card-subtitle>
     </mat-card-header>
 
   </mat-card>
 
+  <!-- Some more meta crap-->
+  <mat-divider></mat-divider>
+  <p> Spending Grouped By Location and Year {{selectedYear}} </p>
+  <div class="year-button-row">
+    <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location" (click)="changeList(item.location)"><span style="background-color:hotpink;font-size: 15px;padding: 8px;" >  {{item.location}}  </span>  {{item.creditTotal | currency}}</button>
+  </div>
+
   <mat-grid-list cols="2" rowHeight="500px">
 
     <mat-grid-tile>
-      <mat-selection-list #locSelect>
+      <mat-selection-list class="loc-select-list" #locSelect
+        (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
-        {{tloc.location}}  
-        <span color="primary" style="font-weight: bold;">Debit : {{tloc.creditTotal | currency}}  </span> 
+          <p>
+            <span style="font-size: 10px;">{{tloc.location}} </span>
+            <span color="primary" style="font-weight: bold;"> {{tloc.creditTotal | currency}} </span>
+          </p>
         </mat-list-option>
       </mat-selection-list>
     </mat-grid-tile>
 
     <mat-grid-tile>
-      <p>
-        Options selected: {{locSelect.selectedOptions.selected.length}}
-      </p>
-      <ul>
-        <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
-          {{ valSelect.value.creditTotal }}
-        </li>
-      </ul>
+
+      <mat-card class="selected-card" style="background-color: aquamarine;">
+        <mat-card-header>
+          <div mat-card-avatar class="example-header-image"></div>
+          <mat-card-title>Options selected: {{locSelect.selectedOptions.selected.length}}</mat-card-title>
+          <mat-card-subtitle>Total Amount : {{selectedAmount | currency}}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+          <ul>
+            <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
+              {{ valSelect.value.location }} {{ valSelect.value.creditTotal | currency}}
+            </li>
+          </ul>
+        </mat-card-content>
+      </mat-card>
     </mat-grid-tile>
 
 
@@ -38,7 +56,7 @@
 
 
 
-  
+
 
 
 </div>
