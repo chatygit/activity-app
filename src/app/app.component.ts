@@ -16,6 +16,7 @@ export class AppComponent implements OnInit {
   selectedAmount: number;
   selectedYear: string;
   totalByYear: TotalByLocation[];
+  checked: boolean = false;
 
 
   constructor(private app: DownstreamService) { }
@@ -51,6 +52,34 @@ export class AppComponent implements OnInit {
         this.totalAmount = this.totalByLocation.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
       }
     );
+  }
+
+  sortList(list: TotalByLocation[], key: string) {
+    if (key == 'location') {
+      this.totalByLocation.sort(this.compareLocation);
+    } else {
+      this.totalByLocation.sort(this.compareCredit);
+    }
+  }
+
+  compareCredit(a: TotalByLocation, b: TotalByLocation) {
+    if (a.creditTotal < b.creditTotal) {
+      return -1;
+    }
+    if (a.creditTotal > b.creditTotal) {
+      return 1;
+    }
+    return 0;
+  }
+
+  compareLocation(a: TotalByLocation, b: TotalByLocation) {
+    if (a.location < b.location) {
+      return -1;
+    }
+    if (a.location > b.location) {
+      return 1;
+    }
+    return 0;
   }
 
 

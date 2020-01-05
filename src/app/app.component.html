@@ -4,7 +4,7 @@
   <mat-card class="header-card" style="background-color: aquamarine;">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title>Here is your Credit Card Stats</mat-card-title>
+      <mat-card-title>Credit Card : TD</mat-card-title>
       <mat-card-subtitle style="font-weight: bold;font-size: larger;font-style: italic;color: blueviolet;">Total Amount
         : {{totalAmount | currency}}</mat-card-subtitle>
     </mat-card-header>
@@ -13,9 +13,15 @@
 
   <!-- Some more meta crap-->
   <mat-divider></mat-divider>
-  <p> Spending Grouped By Location and Year {{selectedYear}} </p>
+  <p> In {{selectedYear}} you have purchages from <span *ngIf="totalByLocation"> {{totalByLocation.length}}  </span> different locations</p>
   <div class="year-button-row">
-    <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location" (click)="changeList(item.location)"><span style="background-color:hotpink;font-size: 15px;padding: 8px;" >  {{item.location}}  </span>  {{item.creditTotal | currency}}</button>
+    <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location"
+      (click)="changeList(item.location)">
+      <span style="background-color:hotpink;font-size: 15px;padding: 8px;"> {{item.location}} </span>
+      {{item.creditTotal | currency}}
+    </button>
+    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'location')">Location</button>
+    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'debit')">Debit</button>
   </div>
 
   <mat-grid-list cols="2" rowHeight="500px">
@@ -24,10 +30,10 @@
       <mat-selection-list class="loc-select-list" #locSelect
         (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
-          <p>
-            <span style="font-size: 10px;">{{tloc.location}} </span>
+          <h3>
+            <span style="font-size: 15px;font-style: initial;color: lightcoral;">{{tloc.location}} </span>
             <span color="primary" style="font-weight: bold;"> {{tloc.creditTotal | currency}} </span>
-          </p>
+          </h3>
         </mat-list-option>
       </mat-selection-list>
     </mat-grid-tile>
@@ -44,6 +50,9 @@
           <ul>
             <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
               {{ valSelect.value.location }} {{ valSelect.value.creditTotal | currency}}
+              <div *ngFor="let item of valSelect.value.purchaseList" style="color: lightcoral;">
+                {{item.date}} : {{item.credit}}
+              </div>
             </li>
           </ul>
         </mat-card-content>
