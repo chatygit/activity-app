@@ -1,0 +1,6584 @@
+[
+    {
+        "location": "PAYMENT - THANK YOU",
+        "creditTotal": 0,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-01",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1000.00"
+            },
+            {
+                "date": "2018-06-15",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1000.00"
+            },
+            {
+                "date": "2018-06-15",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1000.00"
+            },
+            {
+                "date": "2018-07-31",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1500"
+            },
+            {
+                "date": "2018-08-15",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "4000"
+            },
+            {
+                "date": "2018-08-31",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "2800.00"
+            },
+            {
+                "date": "2018-09-14",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "500.00"
+            },
+            {
+                "date": "2018-11-29",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1500.00"
+            },
+            {
+                "date": "2018-12-17",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1500.00"
+            },
+            {
+                "date": "2018-12-19",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1500.00"
+            },
+            {
+                "date": "2018-02-26",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "500.00"
+            },
+            {
+                "date": "2018-03-14",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "2500.00"
+            },
+            {
+                "date": "2018-03-20",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "500.00"
+            },
+            {
+                "date": "2018-04-27",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "500.00"
+            },
+            {
+                "date": "2018-05-15",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "2000.00"
+            },
+            {
+                "date": "2018-09-28",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1500.00"
+            },
+            {
+                "date": "2018-10-15",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "2000.00"
+            },
+            {
+                "date": "2018-03-28",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1000.00"
+            },
+            {
+                "date": "2018-04-12",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "750.00"
+            },
+            {
+                "date": "2018-01-11",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "568.00"
+            },
+            {
+                "date": "2018-07-31",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1500"
+            },
+            {
+                "date": "2018-08-15",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "4000"
+            },
+            {
+                "date": "2018-10-31",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1250.00"
+            },
+            {
+                "date": "2018-11-15",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "500.00"
+            },
+            {
+                "date": "2018-06-29",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1000.00"
+            },
+            {
+                "date": "2018-07-13",
+                "location": "PAYMENT - THANK YOU",
+                "credit": "",
+                "debit": "1200.00"
+            }
+        ]
+    },
+    {
+        "location": "INTEREST CHARGE - CASH",
+        "creditTotal": 0,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-22",
+                "location": "INTEREST CHARGE - CASH",
+                "credit": "0.07",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-24",
+                "location": "INTEREST CHARGE - CASH",
+                "credit": "0.02",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-22",
+                "location": "INTEREST CHARGE - CASH",
+                "credit": "0.07",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-22",
+                "location": "INTEREST CHARGE - CASH",
+                "credit": "0.07",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-22",
+                "location": "INTEREST CHARGE - CASH",
+                "credit": "0.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "INTEREST CHARGE - CASH",
+                "credit": "0.06",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZ*Vera168",
+        "creditTotal": 0,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-02",
+                "location": "AMZ*Vera168",
+                "credit": "",
+                "debit": "54.46"
+            }
+        ]
+    },
+    {
+        "location": "BPCL 0.75% CASHLESS IN",
+        "creditTotal": 0,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-20",
+                "location": "BPCL 0.75% CASHLESS IN",
+                "credit": "",
+                "debit": "0.63"
+            }
+        ]
+    },
+    {
+        "location": "APL*ITUNES.COM/BILL",
+        "creditTotal": 1,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-25",
+                "location": "APL*ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BOOTS 1145",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-06",
+                "location": "BOOTS 1145",
+                "credit": "3.31",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP H7ZWS HELP.UBER",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-18",
+                "location": "UBER TRIP H7ZWS HELP.UBER",
+                "credit": "3.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 2115 QTH",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-19",
+                "location": "TIM HORTONS 2115 QTH",
+                "credit": "3.13",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "VINIFERA",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-23",
+                "location": "VINIFERA",
+                "credit": "3.38",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 2387 QTH",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-01",
+                "location": "TIM HORTONS 2387 QTH",
+                "credit": "3.14",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "INK #4983 T3",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-05",
+                "location": "INK #4983 T3",
+                "credit": "3.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 1769 QTH",
+        "creditTotal": 4,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-04",
+                "location": "TIM HORTONS 1769 QTH",
+                "credit": "4.90",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP 6DGSC HELP.UBER",
+        "creditTotal": 4,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-22",
+                "location": "UBER TRIP 6DGSC HELP.UBER",
+                "credit": "4.98",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP B66AQ HELP.UBER",
+        "creditTotal": 4,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-22",
+                "location": "UBER TRIP B66AQ HELP.UBER",
+                "credit": "4.68",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP QYNCM HELP.UBER",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-14",
+                "location": "UBER TRIP QYNCM HELP.UBER",
+                "credit": "5.40",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CASUALFOOD C16",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-24",
+                "location": "CASUALFOOD C16",
+                "credit": "5.57",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "T1-TRANS-AIRSIDE",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-24",
+                "location": "T1-TRANS-AIRSIDE",
+                "credit": "5.63",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SHOPPERSDRUGMART0841",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-09",
+                "location": "SHOPPERSDRUGMART0841",
+                "credit": "5.63",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M22P51QJ2",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-31",
+                "location": "Amazon.ca*M22P51QJ2",
+                "credit": "5.64",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 1724 QTH",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-29",
+                "location": "TIM HORTONS 1724 QTH",
+                "credit": "5.63",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP F5CIA HELP.UBER",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-14",
+                "location": "UBER TRIP F5CIA HELP.UBER",
+                "credit": "5.55",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "KUFFLER & BUCHER GMBH",
+        "creditTotal": 6,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-01",
+                "location": "KUFFLER & BUCHER GMBH",
+                "credit": "6.36",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BEAVERTAILS TORONTO WATER",
+        "creditTotal": 6,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-20",
+                "location": "BEAVERTAILS TORONTO WATER",
+                "credit": "6.25",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M23K369V0",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-28",
+                "location": "Amazon.ca*M23K369V0",
+                "credit": "7.59",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "STARBUCKS E71 TPA",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-28",
+                "location": "STARBUCKS E71 TPA",
+                "credit": "3.73",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-28",
+                "location": "STARBUCKS E71 TPA",
+                "credit": "3.52",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP KNR27 HELP.UBER",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-04",
+                "location": "UBER TRIP KNR27 HELP.UBER",
+                "credit": "7.90",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 3020 QTH",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-27",
+                "location": "TIM HORTONS 3020 QTH",
+                "credit": "3.55",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-27",
+                "location": "TIM HORTONS 3020 QTH",
+                "credit": "3.55",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FOOD BASICS #620",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-08",
+                "location": "FOOD BASICS #620",
+                "credit": "7.35",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP 7NGF6 HELP.UBER",
+        "creditTotal": 8,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-12",
+                "location": "UBER TRIP 7NGF6 HELP.UBER",
+                "credit": "8.94",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SELECTA FRAPORT",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-24",
+                "location": "SELECTA FRAPORT",
+                "credit": "4.91",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-01",
+                "location": "SELECTA FRAPORT",
+                "credit": "4.89",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER   *TRIP JH7JV",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-20",
+                "location": "UBER   *TRIP JH7JV",
+                "credit": "9.14",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CINNABON-EGLINTON STATION",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-13",
+                "location": "CINNABON-EGLINTON STATION",
+                "credit": "9.02",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP MROUQ HELP.UBER",
+        "creditTotal": 10,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-02",
+                "location": "UBER TRIP MROUQ HELP.UBER",
+                "credit": "10.67",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CALIFORNIA THAI RESTAURAN",
+        "creditTotal": 10,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-01",
+                "location": "CALIFORNIA THAI RESTAURAN",
+                "credit": "10.04",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CASH ADVANCE FEE",
+        "creditTotal": 10,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-15",
+                "location": "CASH ADVANCE FEE",
+                "credit": "3.50",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-29",
+                "location": "CASH ADVANCE FEE",
+                "credit": "3.50",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-19",
+                "location": "CASH ADVANCE FEE",
+                "credit": "3.50",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MILLER TAVERN",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-15",
+                "location": "MILLER TAVERN",
+                "credit": "11.72",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER EATS BCVUK HELP.UBER",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-16",
+                "location": "UBER EATS BCVUK HELP.UBER",
+                "credit": "11.70",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FRESHWEST GRILL WP",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-26",
+                "location": "FRESHWEST GRILL WP",
+                "credit": "11.84",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS #4768",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-24",
+                "location": "TIM HORTONS #4768",
+                "credit": "5.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-24",
+                "location": "TIM HORTONS #4768",
+                "credit": "5.85",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "JDRF www.jdrf.ca",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-29",
+                "location": "JDRF www.jdrf.ca",
+                "credit": "11.50",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BURGER KING #2666",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-28",
+                "location": "BURGER KING #2666",
+                "credit": "11.19",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PHARMAPRIX #0062",
+        "creditTotal": 12,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-14",
+                "location": "PHARMAPRIX #0062",
+                "credit": "12.71",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP IC6F5 HELP.UBER",
+        "creditTotal": 12,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-14",
+                "location": "UBER TRIP IC6F5 HELP.UBER",
+                "credit": "9.71",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-14",
+                "location": "UBER TRIP IC6F5 HELP.UBER",
+                "credit": "3.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MERCATINO - TORONTO",
+        "creditTotal": 12,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-02",
+                "location": "MERCATINO - TORONTO",
+                "credit": "12.43",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "INS MARKET",
+        "creditTotal": 12,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-02-22",
+                "location": "INS MARKET",
+                "credit": "6.18",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-22",
+                "location": "INS MARKET",
+                "credit": "6.44",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TARGET PARK GROUP INC",
+        "creditTotal": 12,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-29",
+                "location": "TARGET PARK GROUP INC",
+                "credit": "6",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-29",
+                "location": "TARGET PARK GROUP INC",
+                "credit": "6",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MOBIL900 MAIN ST",
+        "creditTotal": 12,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-18",
+                "location": "MOBIL900 MAIN ST",
+                "credit": "12.74",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M02M63GP1",
+        "creditTotal": 13,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-29",
+                "location": "Amazon.ca*M02M63GP1",
+                "credit": "13.55",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP DJNNZ HELP.UBER",
+        "creditTotal": 13,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-24",
+                "location": "UBER TRIP DJNNZ HELP.UBER",
+                "credit": "3.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-24",
+                "location": "UBER TRIP DJNNZ HELP.UBER",
+                "credit": "10.47",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "GOGOINFLIGHT*",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-29",
+                "location": "GOGOINFLIGHT*",
+                "credit": "14.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P08574131D",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-22",
+                "location": "Spotify P08574131D",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P06C7445D6",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-22",
+                "location": "Spotify P06C7445D6",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P07EECBAB9",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-22",
+                "location": "Spotify P07EECBAB9",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P08C293620",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-22",
+                "location": "Spotify P08C293620",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P060E10A78",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-22",
+                "location": "Spotify P060E10A78",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P0556F2E14",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-22",
+                "location": "Spotify P0556F2E14",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P066CFDE49",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-22",
+                "location": "Spotify P066CFDE49",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P0787E9C56",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-22",
+                "location": "Spotify P0787E9C56",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "NAVRATNA",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-25",
+                "location": "NAVRATNA",
+                "credit": "14.03",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER   *TRIP H7ZWS",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-18",
+                "location": "UBER   *TRIP H7ZWS",
+                "credit": "14.76",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CHIPOTLE 1468",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-05",
+                "location": "CHIPOTLE 1468",
+                "credit": "14.13",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "THE MARKET HK TRAVEL",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-14",
+                "location": "THE MARKET HK TRAVEL",
+                "credit": "14.94",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P05B311654",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-22",
+                "location": "Spotify P05B311654",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMANO PASTA",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-20",
+                "location": "AMANO PASTA",
+                "credit": "14.30",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P04B3E46D0",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-22",
+                "location": "Spotify P04B3E46D0",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMARAVATHI HIGHWAY FAM",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-12",
+                "location": "AMARAVATHI HIGHWAY FAM",
+                "credit": "15.72",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 1402 QTH",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-30",
+                "location": "TIM HORTONS 1402 QTH",
+                "credit": "15.09",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UDEMY ONLINE COURSES",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-05",
+                "location": "UDEMY ONLINE COURSES",
+                "credit": "15.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M094D6HW1",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-03",
+                "location": "Amazon.ca*M094D6HW1",
+                "credit": "15.82",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AC ROUGE ON BOARD CAFE",
+        "creditTotal": 16,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-30",
+                "location": "AC ROUGE ON BOARD CAFE",
+                "credit": "16.95",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LCBO/RAO #614",
+        "creditTotal": 16,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-27",
+                "location": "LCBO/RAO #614",
+                "credit": "16.95",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 2238 QTH",
+        "creditTotal": 16,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-19",
+                "location": "TIM HORTONS 2238 QTH",
+                "credit": "16.75",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*MT6H363M2",
+        "creditTotal": 16,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-20",
+                "location": "AMZN Mktp CA*MT6H363M2",
+                "credit": "16.48",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "DHL EXPRESS CANADA LTD",
+        "creditTotal": 17,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-31",
+                "location": "DHL EXPRESS CANADA LTD",
+                "credit": "17.23",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "DOMINOS PIZZA",
+        "creditTotal": 17,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-15",
+                "location": "DOMINOS PIZZA",
+                "credit": "17.35",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M82FC61F2",
+        "creditTotal": 17,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-29",
+                "location": "AMZN Mktp CA*M82FC61F2",
+                "credit": "17.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M07QQ7NC2",
+        "creditTotal": 17,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-26",
+                "location": "Amazon.ca*M07QQ7NC2",
+                "credit": "17.84",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LOBLAW MLG #1007",
+        "creditTotal": 18,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-27",
+                "location": "LOBLAW MLG #1007",
+                "credit": "18.03",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ADYAR ANANDABHAVAN SWE",
+        "creditTotal": 18,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-27",
+                "location": "ADYAR ANANDABHAVAN SWE",
+                "credit": "4.65",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-27",
+                "location": "ADYAR ANANDABHAVAN SWE",
+                "credit": "13.62",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP QRKLZ HELP.UBER",
+        "creditTotal": 18,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-14",
+                "location": "UBER TRIP QRKLZ HELP.UBER",
+                "credit": "18.35",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS #3875# QPS",
+        "creditTotal": 18,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-14",
+                "location": "TIM HORTONS #3875# QPS",
+                "credit": "18.54",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*MT86N5570",
+        "creditTotal": 18,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-30",
+                "location": "Amazon.ca*MT86N5570",
+                "credit": "18.06",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SRI VENGAMAMBA DHABA",
+        "creditTotal": 19,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-30",
+                "location": "SRI VENGAMAMBA DHABA",
+                "credit": "19.63",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M239D1701",
+        "creditTotal": 19,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-27",
+                "location": "AMZN Mktp CA*M239D1701",
+                "credit": "19.14",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP TOEV2 HELP.UBER",
+        "creditTotal": 19,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-30",
+                "location": "UBER TRIP TOEV2 HELP.UBER",
+                "credit": "9.92",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-30",
+                "location": "UBER TRIP TOEV2 HELP.UBER",
+                "credit": "9.92",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "HOSP FOR SICK CHILDREN",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-15",
+                "location": "HOSP FOR SICK CHILDREN",
+                "credit": "20.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SHOPPERS DRUG MART #710",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-22",
+                "location": "SHOPPERS DRUG MART #710",
+                "credit": "20.98",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "DOUCE FRANCE INC",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-24",
+                "location": "DOUCE FRANCE INC",
+                "credit": "10.23",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-24",
+                "location": "DOUCE FRANCE INC",
+                "credit": "10.23",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "WWW.HOTSTAR.COM",
+        "creditTotal": 21,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-08",
+                "location": "WWW.HOTSTAR.COM",
+                "credit": "12.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-08",
+                "location": "WWW.HOTSTAR.COM",
+                "credit": "8.96",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M84YA4OH2",
+        "creditTotal": 21,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-15",
+                "location": "AMZN Mktp CA*M84YA4OH2",
+                "credit": "21.46",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "INTEREST CHARGE -PURCHASE",
+        "creditTotal": 21,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-22",
+                "location": "INTEREST CHARGE -PURCHASE",
+                "credit": "21.34",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M80GF7NV2",
+        "creditTotal": 21,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-22",
+                "location": "Amazon.ca*M80GF7NV2",
+                "credit": "21.87",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MILTON  PHOTOGRAPHIC",
+        "creditTotal": 22,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-22",
+                "location": "MILTON  PHOTOGRAPHIC",
+                "credit": "22.59",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ESSO 1515 MAIN ST E",
+        "creditTotal": 22,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-31",
+                "location": "ESSO 1515 MAIN ST E",
+                "credit": "22.29",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*MT1VI8322",
+        "creditTotal": 22,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-20",
+                "location": "AMZN Mktp CA*MT1VI8322",
+                "credit": "22.59",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "R & N GIBEAU ORANGE JULEP",
+        "creditTotal": 22,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-16",
+                "location": "R & N GIBEAU ORANGE JULEP",
+                "credit": "22.16",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M00ZZ9CZ0",
+        "creditTotal": 22,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-19",
+                "location": "Amazon.ca*M00ZZ9CZ0",
+                "credit": "22.21",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "YYZ BAHN SHOP",
+        "creditTotal": 23,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-08",
+                "location": "YYZ BAHN SHOP",
+                "credit": "11.84",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-08",
+                "location": "YYZ BAHN SHOP",
+                "credit": "11.84",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UBER TRIP IQXAO HELP.UBER",
+        "creditTotal": 23,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-13",
+                "location": "UBER TRIP IQXAO HELP.UBER",
+                "credit": "23.33",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M20H937K1",
+        "creditTotal": 24,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-28",
+                "location": "AMZN Mktp CA*M20H937K1",
+                "credit": "24.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CORSO T3",
+        "creditTotal": 24,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-05",
+                "location": "CORSO T3",
+                "credit": "24.24",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PETROCAN-620 THOMSON RD S",
+        "creditTotal": 24,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-03",
+                "location": "PETROCAN-620 THOMSON RD S",
+                "credit": "24.48",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "WIKIMEDIA",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-05",
+                "location": "WIKIMEDIA",
+                "credit": "25.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "A&W #4818 TRENTON SOUTH",
+        "creditTotal": 26,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-27",
+                "location": "A&W #4818 TRENTON SOUTH",
+                "credit": "13",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-27",
+                "location": "A&W #4818 TRENTON SOUTH",
+                "credit": "13",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "STARBUCKS 04524",
+        "creditTotal": 26,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-04",
+                "location": "STARBUCKS 04524",
+                "credit": "7.01",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-07",
+                "location": "STARBUCKS 04524",
+                "credit": "4.10",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "STARBUCKS 04524",
+                "credit": "2.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-31",
+                "location": "STARBUCKS 04524",
+                "credit": "2.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "STARBUCKS 04524",
+                "credit": "2.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-31",
+                "location": "STARBUCKS 04524",
+                "credit": "2.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-09",
+                "location": "STARBUCKS 04524",
+                "credit": "3.83",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "GONOE SUSHI - QUEENS QUAY",
+        "creditTotal": 27,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-25",
+                "location": "GONOE SUSHI - QUEENS QUAY",
+                "credit": "27.88",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "THE BEER STORE #2020",
+        "creditTotal": 27,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-12",
+                "location": "THE BEER STORE #2020",
+                "credit": "27.45",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PIZZA POULET EXPRESS",
+        "creditTotal": 27,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-01",
+                "location": "PIZZA POULET EXPRESS",
+                "credit": "27.01",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "GAURI CAR CENTER",
+        "creditTotal": 29,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-25",
+                "location": "GAURI CAR CENTER",
+                "credit": "29.12",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Skype",
+        "creditTotal": 29,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-13",
+                "location": "Skype",
+                "credit": "29.93",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MR. DUMPLING",
+        "creditTotal": 29,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-11",
+                "location": "MR. DUMPLING",
+                "credit": "15.80",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-20",
+                "location": "MR. DUMPLING",
+                "credit": "13.88",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M89L94XN2",
+        "creditTotal": 29,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-02",
+                "location": "Amazon.ca*M89L94XN2",
+                "credit": "29.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Spotify P07233F1DF",
+        "creditTotal": 29,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-22",
+                "location": "Spotify P07233F1DF",
+                "credit": "14.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-22",
+                "location": "Spotify P07233F1DF",
+                "credit": "14.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LS INTL PVT LTD_PMC_CHE",
+        "creditTotal": 30,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "LS INTL PVT LTD_PMC_CHE",
+                "credit": "15.22",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "LS INTL PVT LTD_PMC_CHE",
+                "credit": "15.22",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BURGER KING HK TRAVEL",
+        "creditTotal": 31,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-16",
+                "location": "BURGER KING HK TRAVEL",
+                "credit": "10.22",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-02",
+                "location": "BURGER KING HK TRAVEL",
+                "credit": "21.45",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 2068 QTH",
+        "creditTotal": 33,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-04",
+                "location": "TIM HORTONS 2068 QTH",
+                "credit": "9.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-08",
+                "location": "TIM HORTONS 2068 QTH",
+                "credit": "11.59",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-19",
+                "location": "TIM HORTONS 2068 QTH",
+                "credit": "3.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-06",
+                "location": "TIM HORTONS 2068 QTH",
+                "credit": "9.24",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "OPHELIE HATS",
+        "creditTotal": 34,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-15",
+                "location": "OPHELIE HATS",
+                "credit": "34.49",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M08YA1QW2",
+        "creditTotal": 34,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-07",
+                "location": "AMZN Mktp CA*M08YA1QW2",
+                "credit": "34.98",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M00I21V50",
+        "creditTotal": 34,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-02",
+                "location": "AMZN Mktp CA*M00I21V50",
+                "credit": "34.97",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "A&W TRENTON NORTH",
+        "creditTotal": 34,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-29",
+                "location": "A&W TRENTON NORTH",
+                "credit": "17.45",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-29",
+                "location": "A&W TRENTON NORTH",
+                "credit": "17.45",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PAYPAL *BOOTSTRAPDA",
+        "creditTotal": 35,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-25",
+                "location": "PAYPAL *BOOTSTRAPDA",
+                "credit": "35.09",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M24WV3WK0",
+        "creditTotal": 36,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-30",
+                "location": "AMZN Mktp CA*M24WV3WK0",
+                "credit": "36.95",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M05EW1HS1",
+        "creditTotal": 37,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-03",
+                "location": "Amazon.ca*M05EW1HS1",
+                "credit": "37.58",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "APL* ITUNES.COM/BILL",
+        "creditTotal": 38,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-25",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-25",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-23",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "28.24",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-25",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-25",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-25",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-25",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-25",
+                "location": "APL* ITUNES.COM/BILL",
+                "credit": "1.46",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "REXALL PHARMACY #8164",
+        "creditTotal": 38,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-27",
+                "location": "REXALL PHARMACY #8164",
+                "credit": "24.27",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-10",
+                "location": "REXALL PHARMACY #8164",
+                "credit": "4.47",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-19",
+                "location": "REXALL PHARMACY #8164",
+                "credit": "7.19",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-19",
+                "location": "REXALL PHARMACY #8164",
+                "credit": "2.14",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*MT5I63I22",
+        "creditTotal": 39,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-12",
+                "location": "AMZN Mktp CA*MT5I63I22",
+                "credit": "39.17",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "GO.SKYPE.COM/BILL",
+        "creditTotal": 39,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-13",
+                "location": "GO.SKYPE.COM/BILL",
+                "credit": "29.93",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-07",
+                "location": "GO.SKYPE.COM/BILL",
+                "credit": "10.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PAYPAL *TRAVELVISAG",
+        "creditTotal": 39,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-16",
+                "location": "PAYPAL *TRAVELVISAG",
+                "credit": "39.16",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BANH MI BOYS",
+        "creditTotal": 40,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-09",
+                "location": "BANH MI BOYS",
+                "credit": "27.12",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-24",
+                "location": "BANH MI BOYS",
+                "credit": "4.52",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-13",
+                "location": "BANH MI BOYS",
+                "credit": "8.48",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PIZZA NOVA 085",
+        "creditTotal": 41,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-21",
+                "location": "PIZZA NOVA 085",
+                "credit": "41.62",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FAMOUS PLAYER 7402QPS",
+        "creditTotal": 42,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-22",
+                "location": "FAMOUS PLAYER 7402QPS",
+                "credit": "42.64",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTON'S #5556",
+        "creditTotal": 42,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-30",
+                "location": "TIM HORTON'S #5556",
+                "credit": "3.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-07",
+                "location": "TIM HORTON'S #5556",
+                "credit": "3.19",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-05",
+                "location": "TIM HORTON'S #5556",
+                "credit": "6.87",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-10",
+                "location": "TIM HORTON'S #5556",
+                "credit": "3.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-02",
+                "location": "TIM HORTON'S #5556",
+                "credit": "5.05",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-03",
+                "location": "TIM HORTON'S #5556",
+                "credit": "6.41",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-30",
+                "location": "TIM HORTON'S #5556",
+                "credit": "3.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-12",
+                "location": "TIM HORTON'S #5556",
+                "credit": "9.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*MT2LI46Y2",
+        "creditTotal": 42,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-04",
+                "location": "AMZN Mktp CA*MT2LI46Y2",
+                "credit": "42.08",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LCBO/RAO #677",
+        "creditTotal": 43,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-16",
+                "location": "LCBO/RAO #677",
+                "credit": "10.50",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-20",
+                "location": "LCBO/RAO #677",
+                "credit": "33.45",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M03VZ4MZ2",
+        "creditTotal": 43,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-04",
+                "location": "AMZN Mktp CA*M03VZ4MZ2",
+                "credit": "43.97",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "THE BEER STORE #2369",
+        "creditTotal": 44,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-17",
+                "location": "THE BEER STORE #2369",
+                "credit": "44.95",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M882O0NL2",
+        "creditTotal": 45,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-22",
+                "location": "Amazon.ca*M882O0NL2",
+                "credit": "45.19",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "RORSCHACH BREWING COMPANY",
+        "creditTotal": 45,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-18",
+                "location": "RORSCHACH BREWING COMPANY",
+                "credit": "45.85",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FAST FRESH FOODS - WATER",
+        "creditTotal": 47,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-30",
+                "location": "FAST FRESH FOODS - WATER",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-07",
+                "location": "FAST FRESH FOODS - WATER",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-30",
+                "location": "FAST FRESH FOODS - WATER",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-07",
+                "location": "FAST FRESH FOODS - WATER",
+                "credit": "11.85",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M27BF5960",
+        "creditTotal": 47,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-27",
+                "location": "Amazon.ca*M27BF5960",
+                "credit": "47.42",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIRUPATI WINES & KAJU",
+        "creditTotal": 50,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-25",
+                "location": "TIRUPATI WINES & KAJU",
+                "credit": "41.51",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-26",
+                "location": "TIRUPATI WINES & KAJU",
+                "credit": "8.65",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "NAMMA VEEDU VASANTA BH",
+        "creditTotal": 50,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "NAMMA VEEDU VASANTA BH",
+                "credit": "25.08",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "NAMMA VEEDU VASANTA BH",
+                "credit": "25.08",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "EMIRATES AI 1760821361906",
+        "creditTotal": 50,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-06",
+                "location": "EMIRATES AI 1760821361906",
+                "credit": "50.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M29P15BF2",
+        "creditTotal": 52,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-29",
+                "location": "AMZN Mktp CA*M29P15BF2",
+                "credit": "52.67",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M05EN83C1",
+        "creditTotal": 54,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-25",
+                "location": "AMZN Mktp CA*M05EN83C1",
+                "credit": "54.46",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca*M85KT9RR2",
+        "creditTotal": 56,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-19",
+                "location": "Amazon.ca*M85KT9RR2",
+                "credit": "56.49",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*MT3TI5M00",
+        "creditTotal": 57,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-30",
+                "location": "AMZN Mktp CA*MT3TI5M00",
+                "credit": "57.61",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FAROOK STORE",
+        "creditTotal": 57,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-17",
+                "location": "FAROOK STORE",
+                "credit": "57.47",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "VINIFERA T1",
+        "creditTotal": 58,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-08",
+                "location": "VINIFERA T1",
+                "credit": "12.45",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-23",
+                "location": "VINIFERA T1",
+                "credit": "25.55",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-23",
+                "location": "VINIFERA T1",
+                "credit": "8.52",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-08",
+                "location": "VINIFERA T1",
+                "credit": "12.45",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MCDONALD'S #40732",
+        "creditTotal": 58,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-31",
+                "location": "MCDONALD'S #40732",
+                "credit": "29.14",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-14",
+                "location": "MCDONALD'S #40732",
+                "credit": "29.73",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SKYPE.COM/GO/BILL",
+        "creditTotal": 59,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-13",
+                "location": "SKYPE.COM/GO/BILL",
+                "credit": "29.93",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-13",
+                "location": "SKYPE.COM/GO/BILL",
+                "credit": "29.93",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M00NR9TF1",
+        "creditTotal": 60,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-26",
+                "location": "AMZN Mktp CA*M00NR9TF1",
+                "credit": "60.16",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M25BB05G2",
+        "creditTotal": 60,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-28",
+                "location": "AMZN Mktp CA*M25BB05G2",
+                "credit": "60.64",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS 3120 QTH",
+        "creditTotal": 61,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-08",
+                "location": "TIM HORTONS 3120 QTH",
+                "credit": "8.56",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-29",
+                "location": "TIM HORTONS 3120 QTH",
+                "credit": "15.97",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-29",
+                "location": "TIM HORTONS 3120 QTH",
+                "credit": "7.01",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-21",
+                "location": "TIM HORTONS 3120 QTH",
+                "credit": "15.77",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-17",
+                "location": "TIM HORTONS 3120 QTH",
+                "credit": "13.98",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UNION CHICKEN",
+        "creditTotal": 62,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-10",
+                "location": "UNION CHICKEN",
+                "credit": "62.54",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SOUTH I",
+        "creditTotal": 64,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-26",
+                "location": "SOUTH I",
+                "credit": "64.15",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SHELL 325 DUNDAS ST E",
+        "creditTotal": 69,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-19",
+                "location": "SHELL 325 DUNDAS ST E",
+                "credit": "69.80",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MOS MOS COFFEE",
+        "creditTotal": 70,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-11",
+                "location": "MOS MOS COFFEE",
+                "credit": "3.68",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-15",
+                "location": "MOS MOS COFFEE",
+                "credit": "7.91",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-26",
+                "location": "MOS MOS COFFEE",
+                "credit": "3.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-13",
+                "location": "MOS MOS COFFEE",
+                "credit": "7.68",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-24",
+                "location": "MOS MOS COFFEE",
+                "credit": "4.84",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-15",
+                "location": "MOS MOS COFFEE",
+                "credit": "6.26",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-23",
+                "location": "MOS MOS COFFEE",
+                "credit": "9.27",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-25",
+                "location": "MOS MOS COFFEE",
+                "credit": "4.63",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-29",
+                "location": "MOS MOS COFFEE",
+                "credit": "7.68",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-02",
+                "location": "MOS MOS COFFEE",
+                "credit": "6.64",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-19",
+                "location": "MOS MOS COFFEE",
+                "credit": "7.68",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MICROSOFT   *XBOX",
+        "creditTotal": 71,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-24",
+                "location": "MICROSOFT   *XBOX",
+                "credit": "41.80",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-24",
+                "location": "MICROSOFT   *XBOX",
+                "credit": "29.37",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "HIDE SIDE",
+        "creditTotal": 73,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-02",
+                "location": "HIDE SIDE",
+                "credit": "73.76",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TOWN CRIER PUB",
+        "creditTotal": 74,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-18",
+                "location": "TOWN CRIER PUB",
+                "credit": "74.27",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BHARAT PETROLEUM CORPO",
+        "creditTotal": 75,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-14",
+                "location": "BHARAT PETROLEUM CORPO",
+                "credit": "75.94",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LCBO/RAO #0001",
+        "creditTotal": 77,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-18",
+                "location": "LCBO/RAO #0001",
+                "credit": "77.25",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "HOTSTAR - 833-425-4250",
+        "creditTotal": 79,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-19",
+                "location": "HOTSTAR - 833-425-4250",
+                "credit": "79.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "STARBUCKS #23246#",
+        "creditTotal": 80,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-04",
+                "location": "STARBUCKS #23246#",
+                "credit": "9.83",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-10",
+                "location": "STARBUCKS #23246#",
+                "credit": "8.70",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-23",
+                "location": "STARBUCKS #23246#",
+                "credit": "7.63",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-27",
+                "location": "STARBUCKS #23246#",
+                "credit": "4.10",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-14",
+                "location": "STARBUCKS #23246#",
+                "credit": "2.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-16",
+                "location": "STARBUCKS #23246#",
+                "credit": "2.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-11",
+                "location": "STARBUCKS #23246#",
+                "credit": "8.31",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-14",
+                "location": "STARBUCKS #23246#",
+                "credit": "2.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-12",
+                "location": "STARBUCKS #23246#",
+                "credit": "7.18",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-05",
+                "location": "STARBUCKS #23246#",
+                "credit": "2.05",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-15",
+                "location": "STARBUCKS #23246#",
+                "credit": "4.86",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "STARBUCKS #23246#",
+                "credit": "8.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-03",
+                "location": "STARBUCKS #23246#",
+                "credit": "2.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-04",
+                "location": "STARBUCKS #23246#",
+                "credit": "2.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-20",
+                "location": "STARBUCKS #23246#",
+                "credit": "6.33",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "VILLA MADINA DIN049",
+        "creditTotal": 81,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-11",
+                "location": "VILLA MADINA DIN049",
+                "credit": "12.42",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-26",
+                "location": "VILLA MADINA DIN049",
+                "credit": "9.37",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-18",
+                "location": "VILLA MADINA DIN049",
+                "credit": "12.42",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-27",
+                "location": "VILLA MADINA DIN049",
+                "credit": "13.32",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-18",
+                "location": "VILLA MADINA DIN049",
+                "credit": "12.42",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-29",
+                "location": "VILLA MADINA DIN049",
+                "credit": "12.42",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-05",
+                "location": "VILLA MADINA DIN049",
+                "credit": "9.37",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SANDBAR ON THE BEACH",
+        "creditTotal": 87,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-20",
+                "location": "SANDBAR ON THE BEACH",
+                "credit": "87.94",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca Prime Member",
+        "creditTotal": 89,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-09",
+                "location": "Amazon.ca Prime Member",
+                "credit": "89.27",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA*M84WC2CR2",
+        "creditTotal": 89,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-14",
+                "location": "AMZN Mktp CA*M84WC2CR2",
+                "credit": "89.83",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BEST BUY.CA # 900",
+        "creditTotal": 90,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-24",
+                "location": "BEST BUY.CA # 900",
+                "credit": "90.38",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "A&W WATER PARK PLACE",
+        "creditTotal": 90,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-11",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "4.19",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-13",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "5.65",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-27",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "13.87",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-06",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "7.05",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-20",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "12.06",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-17",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "11.91",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-06",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "11.73",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-19",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "11.73",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-20",
+                "location": "A&W WATER PARK PLACE",
+                "credit": "12.06",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CORA DEJEUNER ET DINER",
+        "creditTotal": 91,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-30",
+                "location": "CORA DEJEUNER ET DINER",
+                "credit": "91.90",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LCBO/RAO #0007",
+        "creditTotal": 99,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-19",
+                "location": "LCBO/RAO #0007",
+                "credit": "23.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-16",
+                "location": "LCBO/RAO #0007",
+                "credit": "19.50",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-10",
+                "location": "LCBO/RAO #0007",
+                "credit": "57.40",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BOOSTER JUICE",
+        "creditTotal": 106,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-23",
+                "location": "BOOSTER JUICE",
+                "credit": "7.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-07",
+                "location": "BOOSTER JUICE",
+                "credit": "7.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-18",
+                "location": "BOOSTER JUICE",
+                "credit": "7.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-31",
+                "location": "BOOSTER JUICE",
+                "credit": "7.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-10",
+                "location": "BOOSTER JUICE",
+                "credit": "8.08",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-27",
+                "location": "BOOSTER JUICE",
+                "credit": "7.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-08",
+                "location": "BOOSTER JUICE",
+                "credit": "7.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-25",
+                "location": "BOOSTER JUICE",
+                "credit": "7.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-08",
+                "location": "BOOSTER JUICE",
+                "credit": "7.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-04",
+                "location": "BOOSTER JUICE",
+                "credit": "7.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-31",
+                "location": "BOOSTER JUICE",
+                "credit": "7.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-22",
+                "location": "BOOSTER JUICE",
+                "credit": "8.08",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-06",
+                "location": "BOOSTER JUICE",
+                "credit": "7.51",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "BOOSTER JUICE",
+                "credit": "7.29",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AI4-FIRKIN ON HARBOUR",
+        "creditTotal": 108,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-01",
+                "location": "AI4-FIRKIN ON HARBOUR",
+                "credit": "27.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-14",
+                "location": "AI4-FIRKIN ON HARBOUR",
+                "credit": "21.33",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-16",
+                "location": "AI4-FIRKIN ON HARBOUR",
+                "credit": "30.80",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-23",
+                "location": "AI4-FIRKIN ON HARBOUR",
+                "credit": "29.11",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AROMA - WATERPARK PLAC",
+        "creditTotal": 111,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-04",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "11.01",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-05",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "4.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-14",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "3.94",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-15",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "7.12",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-18",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "3.41",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-19",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "7.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "3.41",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "5.93",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-24",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "5.37",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-01",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "9.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-07",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "2.31",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-18",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "2.68",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-18",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "3.22",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-12",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "5.76",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-04",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "11.36",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-05",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "9.61",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "3.41",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "5.93",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-16",
+                "location": "AROMA - WATERPARK PLAC",
+                "credit": "5.37",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "UberBV",
+        "creditTotal": 115,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-12",
+                "location": "UberBV",
+                "credit": "14.79",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-15",
+                "location": "UberBV",
+                "credit": "100.84",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SQDC77022 L'ACADIE 77022",
+        "creditTotal": 119,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-15",
+                "location": "SQDC77022 L'ACADIE 77022",
+                "credit": "119.60",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ANNUAL FEE",
+        "creditTotal": 120,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-23",
+                "location": "ANNUAL FEE",
+                "credit": "120.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TOWN OF MILTON-LEISURE CN",
+        "creditTotal": 120,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-31",
+                "location": "TOWN OF MILTON-LEISURE CN",
+                "credit": "30.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-06",
+                "location": "TOWN OF MILTON-LEISURE CN",
+                "credit": "30.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-01",
+                "location": "TOWN OF MILTON-LEISURE CN",
+                "credit": "30.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-30",
+                "location": "TOWN OF MILTON-LEISURE CN",
+                "credit": "30.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "WAL-MART SUPERCENTER#1000",
+        "creditTotal": 122,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-29",
+                "location": "WAL-MART SUPERCENTER#1000",
+                "credit": "122.70",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ZARA.COM/CA",
+        "creditTotal": 124,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-03",
+                "location": "ZARA.COM/CA",
+                "credit": "124.28",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-08",
+                "location": "ZARA.COM/CA",
+                "credit": "",
+                "debit": "124.28"
+            }
+        ]
+    },
+    {
+        "location": "TIM HORTONS",
+        "creditTotal": 130,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-23",
+                "location": "TIM HORTONS",
+                "credit": "10.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-25",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-28",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-27",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-23",
+                "location": "TIM HORTONS",
+                "credit": "10.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-27",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-28",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-02",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-07",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-10",
+                "location": "TIM HORTONS",
+                "credit": "10.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-17",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-20",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-21",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-28",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-04",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-23",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-04",
+                "location": "TIM HORTONS",
+                "credit": "10.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-24",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-06",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-14",
+                "location": "TIM HORTONS",
+                "credit": "10.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "TIM HORTONS",
+                "credit": "5.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "OLG 1-800-387-0098",
+        "creditTotal": 130,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-10-12",
+                "location": "OLG 1-800-387-0098",
+                "credit": "15.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-26",
+                "location": "OLG 1-800-387-0098",
+                "credit": "100.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-18",
+                "location": "OLG 1-800-387-0098",
+                "credit": "15.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "NETFLIX.COM",
+        "creditTotal": 131,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-02",
+                "location": "NETFLIX.COM",
+                "credit": "10.99",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FLIGHTHUB.COM",
+        "creditTotal": 133,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-21",
+                "location": "FLIGHTHUB.COM",
+                "credit": "66.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-21",
+                "location": "FLIGHTHUB.COM",
+                "credit": "66.95",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AE.COM WEB PURCH",
+        "creditTotal": 136,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-01-02",
+                "location": "AE.COM WEB PURCH",
+                "credit": "136.44",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "OSMOWS GRILL",
+        "creditTotal": 136,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-23",
+                "location": "OSMOWS GRILL",
+                "credit": "7.12",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-18",
+                "location": "OSMOWS GRILL",
+                "credit": "10.16",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-30",
+                "location": "OSMOWS GRILL",
+                "credit": "20.03",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-06",
+                "location": "OSMOWS GRILL",
+                "credit": "7.12",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-14",
+                "location": "OSMOWS GRILL",
+                "credit": "6.35",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-15",
+                "location": "OSMOWS GRILL",
+                "credit": "9.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-17",
+                "location": "OSMOWS GRILL",
+                "credit": "10.16",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-30",
+                "location": "OSMOWS GRILL",
+                "credit": "20.03",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-24",
+                "location": "OSMOWS GRILL",
+                "credit": "7.12",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-17",
+                "location": "OSMOWS GRILL",
+                "credit": "29.07",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-25",
+                "location": "OSMOWS GRILL",
+                "credit": "10.16",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "VILLA MADINA",
+        "creditTotal": 143,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-31",
+                "location": "VILLA MADINA",
+                "credit": "24.50",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-24",
+                "location": "VILLA MADINA",
+                "credit": "11.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-19",
+                "location": "VILLA MADINA",
+                "credit": "11.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-08",
+                "location": "VILLA MADINA",
+                "credit": "11.97",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-14",
+                "location": "VILLA MADINA",
+                "credit": "12.64",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-02",
+                "location": "VILLA MADINA",
+                "credit": "11.97",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-05",
+                "location": "VILLA MADINA",
+                "credit": "11.30",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-24",
+                "location": "VILLA MADINA",
+                "credit": "11.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "VILLA MADINA",
+                "credit": "11.97",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-27",
+                "location": "VILLA MADINA",
+                "credit": "12.65",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-09",
+                "location": "VILLA MADINA",
+                "credit": "11.06",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "WRANGLER  PHOENIX",
+        "creditTotal": 157,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "WRANGLER  PHOENIX",
+                "credit": "78.69",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "WRANGLER  PHOENIX",
+                "credit": "78.69",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "TIPSY TOPSY WEAR",
+        "creditTotal": 164,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-28",
+                "location": "TIPSY TOPSY WEAR",
+                "credit": "112.47",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-28",
+                "location": "TIPSY TOPSY WEAR",
+                "credit": "51.68",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "JUST EAT",
+        "creditTotal": 165,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-02-22",
+                "location": "JUST EAT",
+                "credit": "24.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-23",
+                "location": "JUST EAT",
+                "credit": "23.64",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-25",
+                "location": "JUST EAT",
+                "credit": "24.58",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-27",
+                "location": "JUST EAT",
+                "credit": "22.73",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-01",
+                "location": "JUST EAT",
+                "credit": "22.86",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-03",
+                "location": "JUST EAT",
+                "credit": "23.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-08",
+                "location": "JUST EAT",
+                "credit": "23.96",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LIFE STYLE INTERNATION",
+        "creditTotal": 172,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "LIFE STYLE INTERNATION",
+                "credit": "86.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "LIFE STYLE INTERNATION",
+                "credit": "86.34",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BRASSERIE DIEU DU CIEL",
+        "creditTotal": 173,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-14",
+                "location": "BRASSERIE DIEU DU CIEL",
+                "credit": "173.10",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "DOMINOS PIZZA 10353",
+        "creditTotal": 175,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-20",
+                "location": "DOMINOS PIZZA 10353",
+                "credit": "31.53",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-04",
+                "location": "DOMINOS PIZZA 10353",
+                "credit": "53.26",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-10",
+                "location": "DOMINOS PIZZA 10353",
+                "credit": "39.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-13",
+                "location": "DOMINOS PIZZA 10353",
+                "credit": "50.55",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "RJ CORP LTD",
+        "creditTotal": 183,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "RJ CORP LTD",
+                "credit": "91.58",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "RJ CORP LTD",
+                "credit": "91.58",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "MOTOGP.COM",
+        "creditTotal": 184,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-13",
+                "location": "MOTOGP.COM",
+                "credit": "184.54",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FORTNINE CANADAMOTO",
+        "creditTotal": 185,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-10",
+                "location": "FORTNINE CANADAMOTO",
+                "credit": "185.31",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SURYA PETRO PLAZA",
+        "creditTotal": 186,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-20",
+                "location": "SURYA PETRO PLAZA",
+                "credit": "93.15",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-20",
+                "location": "SURYA PETRO PLAZA",
+                "credit": "93.15",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AIR CAN*    0142194308559",
+        "creditTotal": 194,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-05",
+                "location": "AIR CAN*    0142194308559",
+                "credit": "194.81",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "HOSTGATOR",
+        "creditTotal": 196,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-04",
+                "location": "HOSTGATOR",
+                "credit": "162.82",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-05",
+                "location": "HOSTGATOR",
+                "credit": "33.24",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "M D GARMENTS WORLD",
+        "creditTotal": 197,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "M D GARMENTS WORLD",
+                "credit": "98.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "M D GARMENTS WORLD",
+                "credit": "98.85",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "KHAN BBQ KABAB HOUSE",
+        "creditTotal": 198,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-05",
+                "location": "KHAN BBQ KABAB HOUSE",
+                "credit": "99.42",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-05",
+                "location": "KHAN BBQ KABAB HOUSE",
+                "credit": "99.42",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SHANGHAI 360",
+        "creditTotal": 200,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-04",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-04",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-20",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-22",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-27",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-08",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-23",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-27",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-04",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-15",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-25",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-01",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-12",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-22",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-03",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-02",
+                "location": "SHANGHAI 360",
+                "credit": "8.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-21",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-03",
+                "location": "SHANGHAI 360",
+                "credit": "10.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-11",
+                "location": "SHANGHAI 360",
+                "credit": "9.75",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BESTBUYCANADA.CA #898",
+        "creditTotal": 200,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-23",
+                "location": "BESTBUYCANADA.CA #898",
+                "credit": "200.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "POPULAR SHOE MART 1",
+        "creditTotal": 202,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-25",
+                "location": "POPULAR SHOE MART 1",
+                "credit": "128.58",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-25",
+                "location": "POPULAR SHOE MART 1",
+                "credit": "73.44",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LOBLAW TORONTO EGLINTO",
+        "creditTotal": 205,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-07",
+                "location": "LOBLAW TORONTO EGLINTO",
+                "credit": "63.83",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-15",
+                "location": "LOBLAW TORONTO EGLINTO",
+                "credit": "24.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-07",
+                "location": "LOBLAW TORONTO EGLINTO",
+                "credit": "63.83",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-03",
+                "location": "LOBLAW TORONTO EGLINTO",
+                "credit": "53.36",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ARVIND LIFESTYLE BRAND",
+        "creditTotal": 223,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "ARVIND LIFESTYLE BRAND",
+                "credit": "111.91",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "ARVIND LIFESTYLE BRAND",
+                "credit": "111.91",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PULLMAN",
+        "creditTotal": 232,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-15",
+                "location": "PULLMAN",
+                "credit": "232.71",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FIRKIN ON HARBOUR",
+        "creditTotal": 233,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-30",
+                "location": "FIRKIN ON HARBOUR",
+                "credit": "20.53",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-13",
+                "location": "FIRKIN ON HARBOUR",
+                "credit": "192.48",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-30",
+                "location": "FIRKIN ON HARBOUR",
+                "credit": "20.53",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ALDO",
+        "creditTotal": 241,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "ALDO",
+                "credit": "120.57",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "ALDO",
+                "credit": "120.57",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon *Marketplce CA",
+        "creditTotal": 250,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-04",
+                "location": "Amazon *Marketplce CA",
+                "credit": "20.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-17",
+                "location": "Amazon *Marketplce CA",
+                "credit": "24.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-26",
+                "location": "Amazon *Marketplce CA",
+                "credit": "27.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-21",
+                "location": "Amazon *Marketplce CA",
+                "credit": "22.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-14",
+                "location": "Amazon *Marketplce CA",
+                "credit": "10.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-16",
+                "location": "Amazon *Marketplce CA",
+                "credit": "26.71",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-04",
+                "location": "Amazon *Marketplce CA",
+                "credit": "25.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-24",
+                "location": "Amazon *Marketplce CA",
+                "credit": "49.27",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-27",
+                "location": "Amazon *Marketplce CA",
+                "credit": "16.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-17",
+                "location": "Amazon *Marketplce CA",
+                "credit": "25.36",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "HOLLISTER",
+        "creditTotal": 255,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-04",
+                "location": "HOLLISTER",
+                "credit": "175.15",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-21",
+                "location": "HOLLISTER",
+                "credit": "80.84",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "THE FRY",
+        "creditTotal": 262,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-05",
+                "location": "THE FRY",
+                "credit": "262.67",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SZECHUAN EXPRESS",
+        "creditTotal": 267,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-01",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-12",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.16",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-26",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "12.43",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-17",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-22",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "8.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-27",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "8.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-30",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "8.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-04",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-06",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "8.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-11",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "8.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-13",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-25",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-07",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-10",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "8.48",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-24",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-15",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-19",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-10",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "13.50",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.16",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-26",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "12.43",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-22",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-25",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "8.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-30",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-08",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-15",
+                "location": "SZECHUAN EXPRESS",
+                "credit": "10.74",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "WALMART.CA",
+        "creditTotal": 272,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-04-12",
+                "location": "WALMART.CA",
+                "credit": "155.23",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-07",
+                "location": "WALMART.CA",
+                "credit": "116.88",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "HOSP FOR SICK CHILDRE",
+        "creditTotal": 280,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-15",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "20.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-15",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "30",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-17",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "30.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-17",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "30.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-15",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "20.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-15",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "20.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-15",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "30.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-16",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "20.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-15",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "30",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-15",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "30.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-16",
+                "location": "HOSP FOR SICK CHILDRE",
+                "credit": "20.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "THE FOX",
+        "creditTotal": 283,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-07",
+                "location": "THE FOX",
+                "credit": "54.89",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "THE FOX",
+                "credit": "39.52",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-04",
+                "location": "THE FOX",
+                "credit": "55.60",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "THE FOX",
+                "credit": "39.52",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-25",
+                "location": "THE FOX",
+                "credit": "45.41",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "THE FOX",
+                "credit": "19.88",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-17",
+                "location": "THE FOX",
+                "credit": "28.20",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ZARA SQUARE ONE #9277",
+        "creditTotal": 291,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-27",
+                "location": "ZARA SQUARE ONE #9277",
+                "credit": "145.77",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-27",
+                "location": "ZARA SQUARE ONE #9277",
+                "credit": "145.77",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BULK BARN #508",
+        "creditTotal": 308,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-08",
+                "location": "BULK BARN #508",
+                "credit": "154.27",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-08",
+                "location": "BULK BARN #508",
+                "credit": "154.27",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "JIMMY THE GREEK",
+        "creditTotal": 343,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-22",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-29",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-05",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-11",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-14",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-31",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-10",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-18",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-23",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-29",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-07",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-10",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-26",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-13",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-24",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-30",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-28",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-09",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-16",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-09",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-02",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-03",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-31",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-23",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-01",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-09",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-13",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-06",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-19",
+                "location": "JIMMY THE GREEK",
+                "credit": "11.85",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "DOMINOS PIZZA 10287",
+        "creditTotal": 349,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-24",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "7.24",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-30",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "20.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-03",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "26.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-12",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "21.76",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-24",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "16.35",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-01",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "26.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-10",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "20.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-02",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "28.23",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-06",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "20.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-12",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "25.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-21",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "24.15",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-09",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "26.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-19",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "25.63",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-10",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "33.43",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-22",
+                "location": "DOMINOS PIZZA 10287",
+                "credit": "25.63",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "STARBUCKS CARD RELOAD",
+        "creditTotal": 350,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-03",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-21",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-24",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-08",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-21",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-08",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-19",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-10",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-17",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-21",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-07",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-11",
+                "location": "STARBUCKS CARD RELOAD",
+                "credit": "25.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BANANA REPUBLIC 3026",
+        "creditTotal": 372,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-27",
+                "location": "BANANA REPUBLIC 3026",
+                "credit": "186.45",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-27",
+                "location": "BANANA REPUBLIC 3026",
+                "credit": "186.45",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "FLEMINGO DUTY FREE SHO",
+        "creditTotal": 407,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "FLEMINGO DUTY FREE SHO",
+                "credit": "93.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-07",
+                "location": "FLEMINGO DUTY FREE SHO",
+                "credit": "220.65",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "FLEMINGO DUTY FREE SHO",
+                "credit": "93.34",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMSTERDAM BREWHOUSE",
+        "creditTotal": 436,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-03",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "40.86",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-21",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "49.63",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-23",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "32.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-09",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "23.71",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-26",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "35.26",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-11",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "24.33",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-04",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "32.32",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-13",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "44.18",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-13",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "24.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-19",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "87.47",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "AMSTERDAM BREWHOUSE",
+                "credit": "40.86",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "WAL*MART CANADA INC",
+        "creditTotal": 455,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-11-25",
+                "location": "WAL*MART CANADA INC",
+                "credit": "45.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-26",
+                "location": "WAL*MART CANADA INC",
+                "credit": "93.68",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-27",
+                "location": "WAL*MART CANADA INC",
+                "credit": "169.76",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-26",
+                "location": "WAL*MART CANADA INC",
+                "credit": "146.31",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AMZN Mktp CA",
+        "creditTotal": 464,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-01",
+                "location": "AMZN Mktp CA",
+                "credit": "20.16",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-01",
+                "location": "AMZN Mktp CA",
+                "credit": "25.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-04",
+                "location": "AMZN Mktp CA",
+                "credit": "137.72",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-06",
+                "location": "AMZN Mktp CA",
+                "credit": "9.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-07",
+                "location": "AMZN Mktp CA",
+                "credit": "25.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-04",
+                "location": "AMZN Mktp CA",
+                "credit": "24.85",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-13",
+                "location": "AMZN Mktp CA",
+                "credit": "",
+                "debit": "22.59"
+            },
+            {
+                "date": "2018-08-01",
+                "location": "AMZN Mktp CA",
+                "credit": "20.16",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-01",
+                "location": "AMZN Mktp CA",
+                "credit": "25.95",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-04",
+                "location": "AMZN Mktp CA",
+                "credit": "137.72",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-06",
+                "location": "AMZN Mktp CA",
+                "credit": "9.99",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-07",
+                "location": "AMZN Mktp CA",
+                "credit": "25.98",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ALDOSHOES.COM",
+        "creditTotal": 484,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-06",
+                "location": "ALDOSHOES.COM",
+                "credit": "181.88",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-23",
+                "location": "ALDOSHOES.COM",
+                "credit": "222.05",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-26",
+                "location": "ALDOSHOES.COM",
+                "credit": "",
+                "debit": "6.78"
+            },
+            {
+                "date": "2018-03-19",
+                "location": "ALDOSHOES.COM",
+                "credit": "80.66",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SP * SECRETLAB CA",
+        "creditTotal": 496,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-21",
+                "location": "SP * SECRETLAB CA",
+                "credit": "496.07",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-17",
+                "location": "SP * SECRETLAB CA",
+                "credit": "",
+                "debit": "496.07"
+            }
+        ]
+    },
+    {
+        "location": "CITIZEN&IMM-EAPPS ENLIGNE",
+        "creditTotal": 500,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-26",
+                "location": "CITIZEN&IMM-EAPPS ENLIGNE",
+                "credit": "100",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-20",
+                "location": "CITIZEN&IMM-EAPPS ENLIGNE",
+                "credit": "100",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-21",
+                "location": "CITIZEN&IMM-EAPPS ENLIGNE",
+                "credit": "100.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-26",
+                "location": "CITIZEN&IMM-EAPPS ENLIGNE",
+                "credit": "100",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-20",
+                "location": "CITIZEN&IMM-EAPPS ENLIGNE",
+                "credit": "100",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ABERCROMBIE & FITCH",
+        "creditTotal": 635,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-23",
+                "location": "ABERCROMBIE & FITCH",
+                "credit": "108.93",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-27",
+                "location": "ABERCROMBIE & FITCH",
+                "credit": "139.67",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-03",
+                "location": "ABERCROMBIE & FITCH",
+                "credit": "105.66",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-16",
+                "location": "ABERCROMBIE & FITCH",
+                "credit": "281.14",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "LCBO/RAO #631",
+        "creditTotal": 644,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-24",
+                "location": "LCBO/RAO #631",
+                "credit": "32.45",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-24",
+                "location": "LCBO/RAO #631",
+                "credit": "74.65",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-21",
+                "location": "LCBO/RAO #631",
+                "credit": "163.35",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-06",
+                "location": "LCBO/RAO #631",
+                "credit": "36.15",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-07",
+                "location": "LCBO/RAO #631",
+                "credit": "322.45",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-29",
+                "location": "LCBO/RAO #631",
+                "credit": "15.75",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ZARA.COM CANADA",
+        "creditTotal": 876,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-07-23",
+                "location": "ZARA.COM CANADA",
+                "credit": "213.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "ZARA.COM CANADA",
+                "credit": "",
+                "debit": "213.46"
+            },
+            {
+                "date": "2018-07-26",
+                "location": "ZARA.COM CANADA",
+                "credit": "224.7",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-26",
+                "location": "ZARA.COM CANADA",
+                "credit": "",
+                "debit": "213.46"
+            },
+            {
+                "date": "2018-07-23",
+                "location": "ZARA.COM CANADA",
+                "credit": "213.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "ZARA.COM CANADA",
+                "credit": "",
+                "debit": "213.46"
+            },
+            {
+                "date": "2018-07-26",
+                "location": "ZARA.COM CANADA",
+                "credit": "224.7",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-26",
+                "location": "ZARA.COM CANADA",
+                "credit": "",
+                "debit": "213.46"
+            }
+        ]
+    },
+    {
+        "location": "TELUS MOBILITY PREAUTH",
+        "creditTotal": 918,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "72.97",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-11",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "69.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "82.28",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "69.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "102.54",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-15",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "75.63",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "84.63",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "74.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "69.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-11",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "69.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "69.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-13",
+                "location": "TELUS MOBILITY PREAUTH",
+                "credit": "76.93",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "CITIZENSHIP & IMM ON-LINE",
+        "creditTotal": 1040,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-09-21",
+                "location": "CITIZENSHIP & IMM ON-LINE",
+                "credit": "1040.00",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AIR CAN*    0142196244794",
+        "creditTotal": 1120,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-15",
+                "location": "AIR CAN*    0142196244794",
+                "credit": "1120.45",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SKIPTHEDISHES.COM",
+        "creditTotal": 1236,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-30",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "",
+                "debit": "26.41"
+            },
+            {
+                "date": "2018-05-30",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.41",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-02",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "28.14",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-06",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "27.48",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-10",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.78",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-11",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "27.20",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-14",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.18",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-16",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.81",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-17",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.71",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-25",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "27.1",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-01",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "20.86",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-04",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "25.77",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-05",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "25.18",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-07",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "25.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-08",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "58.61",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-11",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "17.64",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-16",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "49.38",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-19",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "18.01",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-20",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "23.68",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-28",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "29.27",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-11",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.87",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-15",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "17.17",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-19",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "24.82",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-29",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "21.03",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-02",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "23.96",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-09",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "28.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-10",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "39.94",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-11",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "18.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-17",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "22.91",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-25",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.77",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-05",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "21.92",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-04",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.40",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-04",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "15.70",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-11",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "35.89",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-25",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "27.1",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-01",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-03",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "20.86",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-04",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "25.77",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-22",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "19.32",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-24",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "24.61",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-30",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-10",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "26.74",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "22.28",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-23",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "22.37",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-05",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "25.80",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-18",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "27.21",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-21",
+                "location": "SKIPTHEDISHES.COM",
+                "credit": "27.08",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "Amazon.ca",
+        "creditTotal": 1331,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-07",
+                "location": "Amazon.ca",
+                "credit": "14.42",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-07",
+                "location": "Amazon.ca",
+                "credit": "33.89",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-09",
+                "location": "Amazon.ca",
+                "credit": "16.90",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-17",
+                "location": "Amazon.ca",
+                "credit": "30.83",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-17",
+                "location": "Amazon.ca",
+                "credit": "7.89",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-18",
+                "location": "Amazon.ca",
+                "credit": "25.98",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "Amazon.ca",
+                "credit": "27.43",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "Amazon.ca",
+                "credit": "64.72",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "Amazon.ca",
+                "credit": "11.83",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-04",
+                "location": "Amazon.ca",
+                "credit": "13.26",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-05",
+                "location": "Amazon.ca",
+                "credit": "16.91",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-25",
+                "location": "Amazon.ca",
+                "credit": "",
+                "debit": "16.91"
+            },
+            {
+                "date": "2018-09-04",
+                "location": "Amazon.ca",
+                "credit": "7.88",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-09",
+                "location": "Amazon.ca",
+                "credit": "37.03",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-26",
+                "location": "Amazon.ca",
+                "credit": "30.38",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-28",
+                "location": "Amazon.ca",
+                "credit": "59.09",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-04",
+                "location": "Amazon.ca",
+                "credit": "35.49",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-24",
+                "location": "Amazon.ca",
+                "credit": "12.42",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-20",
+                "location": "Amazon.ca",
+                "credit": "28.75",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-05",
+                "location": "Amazon.ca",
+                "credit": "7.77",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-10",
+                "location": "Amazon.ca",
+                "credit": "19.81",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-17",
+                "location": "Amazon.ca",
+                "credit": "11.28",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-20",
+                "location": "Amazon.ca",
+                "credit": "14.02",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-20",
+                "location": "Amazon.ca",
+                "credit": "13.54",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-23",
+                "location": "Amazon.ca",
+                "credit": "7.31",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-02",
+                "location": "Amazon.ca",
+                "credit": "14.61",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-04",
+                "location": "Amazon.ca",
+                "credit": "16.69",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-05",
+                "location": "Amazon.ca",
+                "credit": "15.81",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-23",
+                "location": "Amazon.ca",
+                "credit": "27.43",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "Amazon.ca",
+                "credit": "64.72",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-02",
+                "location": "Amazon.ca",
+                "credit": "11.83",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-04",
+                "location": "Amazon.ca",
+                "credit": "13.26",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-05",
+                "location": "Amazon.ca",
+                "credit": "16.91",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-22",
+                "location": "Amazon.ca",
+                "credit": "",
+                "debit": "19.81"
+            },
+            {
+                "date": "2018-06-25",
+                "location": "Amazon.ca",
+                "credit": "30.48",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-05",
+                "location": "Amazon.ca",
+                "credit": "30.25",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-07",
+                "location": "Amazon.ca",
+                "credit": "31.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-16",
+                "location": "Amazon.ca",
+                "credit": "8.86",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-16",
+                "location": "Amazon.ca",
+                "credit": "37.46",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-16",
+                "location": "Amazon.ca",
+                "credit": "34.88",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-16",
+                "location": "Amazon.ca",
+                "credit": "42.88",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-17",
+                "location": "Amazon.ca",
+                "credit": "385.23",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BELL CANADA (OB)",
+        "creditTotal": 1427,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-06-15",
+                "location": "BELL CANADA (OB)",
+                "credit": "203.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-15",
+                "location": "BELL CANADA (OB)",
+                "credit": "107.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-17",
+                "location": "BELL CANADA (OB)",
+                "credit": "107.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-13",
+                "location": "BELL CANADA (OB)",
+                "credit": "107.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-15",
+                "location": "BELL CANADA (OB)",
+                "credit": "84.69",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-15",
+                "location": "BELL CANADA (OB)",
+                "credit": "90.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-17",
+                "location": "BELL CANADA (OB)",
+                "credit": "107.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-17",
+                "location": "BELL CANADA (OB)",
+                "credit": "90.34",
+                "debit": ""
+            },
+            {
+                "date": "2018-01-16",
+                "location": "BELL CANADA (OB)",
+                "credit": "197.69",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-15",
+                "location": "BELL CANADA (OB)",
+                "credit": "107.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-13",
+                "location": "BELL CANADA (OB)",
+                "credit": "107.29",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-17",
+                "location": "BELL CANADA (OB)",
+                "credit": "117.47",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "EMIRATES AI 1762887435647",
+        "creditTotal": 1466,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-12-05",
+                "location": "EMIRATES AI 1762887435647",
+                "credit": "1466.24",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "ZARA INDIA-9184",
+        "creditTotal": 1746,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "ZARA INDIA-9184",
+                "credit": "658.06",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "ZARA INDIA-9184",
+                "credit": "215.11",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "ZARA INDIA-9184",
+                "credit": "658.06",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "ZARA INDIA-9184",
+                "credit": "215.11",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "AIR CANADA  0145324911011",
+        "creditTotal": 1907,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-03-13",
+                "location": "AIR CANADA  0145324911011",
+                "credit": "1907.07",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "BRITISH A   1252781227588",
+        "creditTotal": 1996,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-21",
+                "location": "BRITISH A   1252781227588",
+                "credit": "1996.96",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "SUGAN LIFESTYLE",
+        "creditTotal": 2027,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-08-10",
+                "location": "SUGAN LIFESTYLE",
+                "credit": "1013.64",
+                "debit": ""
+            },
+            {
+                "date": "2018-08-10",
+                "location": "SUGAN LIFESTYLE",
+                "credit": "1013.64",
+                "debit": ""
+            }
+        ]
+    },
+    {
+        "location": "PRESTO",
+        "creditTotal": 3000,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2018-05-29",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-14",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-24",
+                "location": "PRESTO",
+                "credit": "150",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-06",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-09-18",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-11-22",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-12-04",
+                "location": "PRESTO",
+                "credit": "300.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-02-28",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-03-14",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-30",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-05-11",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-09",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-03",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-04-16",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-24",
+                "location": "PRESTO",
+                "credit": "150",
+                "debit": ""
+            },
+            {
+                "date": "2018-10-22",
+                "location": "PRESTO",
+                "credit": "300.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-06-27",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            },
+            {
+                "date": "2018-07-11",
+                "location": "PRESTO",
+                "credit": "150.00",
+                "debit": ""
+            }
+        ]
+    }
+]

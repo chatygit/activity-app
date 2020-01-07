@@ -1,0 +1,4978 @@
+[
+    {
+        "location": " CASH INTEREST ",
+        "creditTotal": 0,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-24",
+                "location": " CASH INTEREST ",
+                "credit": "0.33",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 3143 QTH TORONTO ",
+        "creditTotal": 1,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-12",
+                "location": " TIM HORTONS 3143 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " GATEWAY NEWSSTANDS #123 NORTH ",
+        "creditTotal": 2,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-16",
+                "location": " GATEWAY NEWSSTANDS #123 NORTH ",
+                "credit": "2.50",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 3333 QPS TORONTO ",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-04",
+                "location": " TIM HORTONS 3333 QPS TORONTO ",
+                "credit": "3.51",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WASHINGTON DULLES 1748A DULLES ",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-12",
+                "location": " WASHINGTON DULLES 1748A DULLES ",
+                "credit": "3.58",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 1712 QTH MISSISSAUGA ",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-09",
+                "location": " TIM HORTONS 1712 QTH MISSISSAUGA ",
+                "credit": "3.14",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 2555 QTH MISSISSAUGA ",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-17",
+                "location": " TIM HORTONS 2555 QTH MISSISSAUGA ",
+                "credit": "3.65",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS T1 LANDSIDE ",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-12",
+                "location": " TIM HORTONS T1 LANDSIDE ",
+                "credit": "3.06",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 3021 QTH TORONTO ",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-20",
+                "location": " TIM HORTONS 3021 QTH TORONTO ",
+                "credit": "3.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " RELAY #4954 MISSISSAUGA ",
+        "creditTotal": 3,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-10",
+                "location": " RELAY #4954 MISSISSAUGA ",
+                "credit": "3.38",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KALPASI HERNDON ",
+        "creditTotal": 4,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-11",
+                "location": " KALPASI HERNDON ",
+                "credit": "4.60",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " COCA COLA BRAMPTON ON BRAMPTON ",
+        "creditTotal": 4,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-17",
+                "location": " COCA COLA BRAMPTON ON BRAMPTON ",
+                "credit": "4.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-28",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": "5.19",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 1531 QTH MISSISSAUGA ",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-09",
+                "location": " TIM HORTONS 1531 QTH MISSISSAUGA ",
+                "credit": "5.49",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " 6311GREAT CANADIAN BAG ",
+        "creditTotal": 5,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-10",
+                "location": " 6311GREAT CANADIAN BAG ",
+                "credit": "5.28",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CASH ADVANCE FEE ( 2X$ 3.50) ",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-24",
+                "location": " CASH ADVANCE FEE ( 2X$ 3.50) ",
+                "credit": "7.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SUBWAY 00485268 HERNDON ",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-11",
+                "location": " SUBWAY 00485268 HERNDON ",
+                "credit": "7.10",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CARIBBEAN QUEEN TORONTO ",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-11",
+                "location": " CARIBBEAN QUEEN TORONTO ",
+                "credit": "7.78",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TERIYAKI EXP J043 QFF TORONTO ",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-04",
+                "location": " TERIYAKI EXP J043 QFF TORONTO ",
+                "credit": "7.90",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WWW.NETFLIX.COM INTERNET ",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-23",
+                "location": " WWW.NETFLIX.COM INTERNET ",
+                "credit": "7.99",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": "7.99",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BACARO ITALIAN EATERY TORONTO ",
+        "creditTotal": 7,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-23",
+                "location": " BACARO ITALIAN EATERY TORONTO ",
+                "credit": "7.90",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " STARBUCKS #22836# TORONTO ",
+        "creditTotal": 8,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-26",
+                "location": " STARBUCKS #22836# TORONTO ",
+                "credit": "4.15",
+                "debit": null
+            },
+            {
+                "date": "2015-05-01",
+                "location": " STARBUCKS #22836# TORONTO ",
+                "credit": "4.15",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 0233 QTH MISSISSAUGA ",
+        "creditTotal": 8,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-19",
+                "location": " TIM HORTONS 0233 QTH MISSISSAUGA ",
+                "credit": "8.16",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SKYPE COMMUNICATIO LUXEMBOURG ",
+        "creditTotal": 8,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-25",
+                "location": " SKYPE COMMUNICATIO LUXEMBOURG ",
+                "credit": "8.99",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 3493 QTH ETOBICOKE ",
+        "creditTotal": 8,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-02-08",
+                "location": " TIM HORTONS 3493 QTH ETOBICOKE ",
+                "credit": "8.28",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SHOPPERS DRUG MART #710 MILTON ",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-02",
+                "location": " SHOPPERS DRUG MART #710 MILTON ",
+                "credit": "5.07",
+                "debit": null
+            },
+            {
+                "date": "2015-11-17",
+                "location": " SHOPPERS DRUG MART #710 MILTON ",
+                "credit": "4.85",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KFC/TACO BELL WOODBRIDGE ",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-30",
+                "location": " KFC/TACO BELL WOODBRIDGE ",
+                "credit": "9.55",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SUBWAY SANDWICHES AQPSND ",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-09-21",
+                "location": " SUBWAY SANDWICHES AQPSND ",
+                "credit": "9.85",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SUBWAY SANDWICHES TORONTO ",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-24",
+                "location": " SUBWAY SANDWICHES TORONTO ",
+                "credit": "9.44",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MCDONALD'S #4397 MILTON ",
+        "creditTotal": 9,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-07",
+                "location": " MCDONALD'S #4397 MILTON ",
+                "credit": "9.92",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SHELL 2435 FINCH AVE W NORTH YORK ",
+        "creditTotal": 10,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-28",
+                "location": " SHELL 2435 FINCH AVE W NORTH YORK ",
+                "credit": "10.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MILTON HALAL MEAT AND TAK MILTON ",
+        "creditTotal": 10,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-09-29",
+                "location": " MILTON HALAL MEAT AND TAK MILTON ",
+                "credit": "10.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 2276 QTH MISSISSAUGA ",
+        "creditTotal": 10,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-15",
+                "location": " TIM HORTONS 2276 QTH MISSISSAUGA ",
+                "credit": "6.34",
+                "debit": null
+            },
+            {
+                "date": "2015-05-19",
+                "location": " TIM HORTONS 2276 QTH MISSISSAUGA ",
+                "credit": "3.96",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " ESSO 3100 MAJOR MACKENZIE MAPLE ",
+        "creditTotal": 10,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-17",
+                "location": " ESSO 3100 MAJOR MACKENZIE MAPLE ",
+                "credit": "10.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WM SUPERCENTER #2038 STERLING ",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-11",
+                "location": " WM SUPERCENTER #2038 STERLING ",
+                "credit": "11.06",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " 7-ELEVEN 16091 HERNDON ",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-12",
+                "location": " 7-ELEVEN 16091 HERNDON ",
+                "credit": "11.90",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WAL-MART STORE#1151 NORTH YORK ",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-07",
+                "location": " WAL-MART STORE#1151 NORTH YORK ",
+                "credit": "11.27",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BRUCE PENINSULA PARK TOBERMORY ",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-30",
+                "location": " BRUCE PENINSULA PARK TOBERMORY ",
+                "credit": "11.70",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MCALLISTER'S DELI HERNDON ",
+        "creditTotal": 11,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-10",
+                "location": " MCALLISTER'S DELI HERNDON ",
+                "credit": "11.52",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " RADICE LAKESIDE VILLAGE I SAUBLE ",
+        "creditTotal": 12,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-31",
+                "location": " RADICE LAKESIDE VILLAGE I SAUBLE ",
+                "credit": "12.17",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CHIPOTLE 0777 STERLING ",
+        "creditTotal": 13,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-11",
+                "location": " CHIPOTLE 0777 STERLING ",
+                "credit": "13.23",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SHOPPERSDRUGMART1344 MILTON ",
+        "creditTotal": 13,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-09",
+                "location": " SHOPPERSDRUGMART1344 MILTON ",
+                "credit": "13.06",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " REGENCY CAB, INC TAXI ",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-10",
+                "location": " REGENCY CAB, INC TAXI ",
+                "credit": "14.83",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PITA & GRILL MILTON ",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-06",
+                "location": " PITA & GRILL MILTON ",
+                "credit": "14.67",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BURGER KING #3187 NORTH YORK ",
+        "creditTotal": 14,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-04",
+                "location": " BURGER KING #3187 NORTH YORK ",
+                "credit": "14.77",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SAUBLE PHARMACY 516036 SAUBLE ",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-31",
+                "location": " SAUBLE PHARMACY 516036 SAUBLE ",
+                "credit": "15.22",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " STARBUCKS 03999 TORONTO ",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-18",
+                "location": " STARBUCKS 03999 TORONTO ",
+                "credit": "15.20",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LOUISIANA CHICKEN MILTON ",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-08",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": "15.35",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " ESSO 1515 MAIN ST E MILTON ",
+        "creditTotal": 15,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-20",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": "15.35",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PETROCAN-620 THOMSON RD S MILTON ",
+        "creditTotal": 16,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-08",
+                "location": " PETROCAN-620 THOMSON RD S MILTON ",
+                "credit": "7.35",
+                "debit": null
+            },
+            {
+                "date": "2015-06-02",
+                "location": " PETROCAN-620 THOMSON RD S MILTON ",
+                "credit": "9.16",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " POPEYE'S TORONTO ",
+        "creditTotal": 16,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-02-13",
+                "location": " POPEYE'S TORONTO ",
+                "credit": "16.48",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " YORK CINEMA RICHMOND ",
+        "creditTotal": 16,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-10-30",
+                "location": " YORK CINEMA RICHMOND ",
+                "credit": "16.63",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SUBWAY SANDWICHES NORTH YORK ",
+        "creditTotal": 17,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-22",
+                "location": " SUBWAY SANDWICHES NORTH YORK ",
+                "credit": "10.11",
+                "debit": null
+            },
+            {
+                "date": "2015-05-30",
+                "location": " SUBWAY SANDWICHES NORTH YORK ",
+                "credit": "7.05",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MCDONALD'S #8237 Q04 NORTH YORK ",
+        "creditTotal": 17,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-11",
+                "location": " MCDONALD'S #8237 Q04 NORTH YORK ",
+                "credit": "17.65",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "creditTotal": 18,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-10-31",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": "18.35",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MANCHU WOK # 2742 TORONTO ",
+        "creditTotal": 18,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-22",
+                "location": " MANCHU WOK # 2742 TORONTO ",
+                "credit": "9.03",
+                "debit": null
+            },
+            {
+                "date": "2015-05-08",
+                "location": " MANCHU WOK # 2742 TORONTO ",
+                "credit": "9.03",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " FIRST CHOICE # 5081 MILTON ",
+        "creditTotal": 19,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-01",
+                "location": " FIRST CHOICE # 5081 MILTON ",
+                "credit": "19.15",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BOURBON STREET GRILL TORONTO ",
+        "creditTotal": 19,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-06",
+                "location": " BOURBON STREET GRILL TORONTO ",
+                "credit": "8.56",
+                "debit": null
+            },
+            {
+                "date": "2015-09-24",
+                "location": " BOURBON STREET GRILL TORONTO ",
+                "credit": "11.22",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS #1703 HEPWORTH ",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-30",
+                "location": " TIM HORTONS #1703 HEPWORTH ",
+                "credit": "20.82",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MNR SAUBLE FALLS PP POS WIARTON ",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-31",
+                "location": " MNR SAUBLE FALLS PP POS WIARTON ",
+                "credit": "20.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WIKIMEDIA SAN FRANCISC ",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-24",
+                "location": " WIKIMEDIA SAN FRANCISC ",
+                "credit": "20.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PETROCAN-2821 WESTON RD NORTH ",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-08",
+                "location": " PETROCAN-2821 WESTON RD NORTH ",
+                "credit": "20.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " METRO #702 ETOBICOKE ",
+        "creditTotal": 20,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-26",
+                "location": " METRO #702 ETOBICOKE ",
+                "credit": "20.99",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " GRACE O'MALLEYS IRISH PUB ",
+        "creditTotal": 21,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-02",
+                "location": " GRACE O'MALLEYS IRISH PUB ",
+                "credit": "21.39",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KABUL HALAL MEAT SUPERMAR ",
+        "creditTotal": 22,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-31",
+                "location": " KABUL HALAL MEAT SUPERMAR ",
+                "credit": "22.60",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " HUSKY MILTON HUSKY #42 MILTON ",
+        "creditTotal": 22,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-26",
+                "location": " HUSKY MILTON HUSKY #42 MILTON ",
+                "credit": "22.55",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PIZZA PIZZA LTD TORONTO ",
+        "creditTotal": 23,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-09",
+                "location": " PIZZA PIZZA LTD TORONTO ",
+                "credit": "23.14",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WENDY'S MISSISSAUGA ",
+        "creditTotal": 23,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-09",
+                "location": " WENDY'S MISSISSAUGA ",
+                "credit": "9.14",
+                "debit": null
+            },
+            {
+                "date": "2015-09-16",
+                "location": " WENDY'S MISSISSAUGA ",
+                "credit": "13.98",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MARKETPLACE - METROCENTRE ",
+        "creditTotal": 24,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-01",
+                "location": " MARKETPLACE - METROCENTRE ",
+                "credit": "6.37",
+                "debit": null
+            },
+            {
+                "date": "2015-12-21",
+                "location": " MARKETPLACE - METROCENTRE ",
+                "credit": "7.48",
+                "debit": null
+            },
+            {
+                "date": "2015-06-12",
+                "location": " MARKETPLACE - METROCENTRE ",
+                "credit": "6.88",
+                "debit": null
+            },
+            {
+                "date": "2015-06-18",
+                "location": " MARKETPLACE - METROCENTRE ",
+                "credit": "3.91",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " UNION YORK WEST TEAMWAY-G ",
+        "creditTotal": 24,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-08",
+                "location": " UNION YORK WEST TEAMWAY-G ",
+                "credit": "8.25",
+                "debit": null
+            },
+            {
+                "date": "2015-06-02",
+                "location": " UNION YORK WEST TEAMWAY-G ",
+                "credit": "8.25",
+                "debit": null
+            },
+            {
+                "date": "2015-06-17",
+                "location": " UNION YORK WEST TEAMWAY-G ",
+                "credit": "8.25",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CANADA'S WONDERLAND-RESAL ",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-17",
+                "location": " CANADA'S WONDERLAND-RESAL ",
+                "credit": "19.20",
+                "debit": null
+            },
+            {
+                "date": "2015-05-17",
+                "location": " CANADA'S WONDERLAND-RESAL ",
+                "credit": "6.20",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " GATEWAY NEWSTANDS # 70 TORONTO ",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-23",
+                "location": " GATEWAY NEWSTANDS # 70 TORONTO ",
+                "credit": "13.75",
+                "debit": null
+            },
+            {
+                "date": "2015-12-21",
+                "location": " GATEWAY NEWSTANDS # 70 TORONTO ",
+                "credit": "11.85",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " POPEYE'S CHICKEN AND SEA NORTH ",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-02",
+                "location": " POPEYE'S CHICKEN AND SEA NORTH ",
+                "credit": "25.97",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " ESSO 3514 WESTON ROAD NORTH YORK ",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-30",
+                "location": " ESSO 3514 WESTON ROAD NORTH YORK ",
+                "credit": "20.00",
+                "debit": null
+            },
+            {
+                "date": "2015-05-16",
+                "location": " ESSO 3514 WESTON ROAD NORTH YORK ",
+                "credit": "5.65",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CHIPOTLE MEXICAN GRILL TORONTO ",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-23",
+                "location": " CHIPOTLE MEXICAN GRILL TORONTO ",
+                "credit": "25.22",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " FAMOUS PLAYER 7406QPS TORONTO ",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-05",
+                "location": " FAMOUS PLAYER 7406QPS TORONTO ",
+                "credit": "20.50",
+                "debit": null
+            },
+            {
+                "date": "2015-05-09",
+                "location": " FAMOUS PLAYER 7406QPS TORONTO ",
+                "credit": "4.51",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SKYPE 44870835190 ",
+        "creditTotal": 25,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-17",
+                "location": " SKYPE 44870835190 ",
+                "credit": "25.62",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+        "creditTotal": 26,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-29",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": "11.04",
+                "debit": null
+            },
+            {
+                "date": "2015-01-18",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": "3.51",
+                "debit": null
+            },
+            {
+                "date": "2015-01-05",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": "10.87",
+                "debit": null
+            },
+            {
+                "date": "2015-06-26",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": "1.05",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MCDONALD'S #8674 Q04 MAPLE ",
+        "creditTotal": 26,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-17",
+                "location": " MCDONALD'S #8674 Q04 MAPLE ",
+                "credit": "26.59",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KARAHI POINT ETOBICOKE ",
+        "creditTotal": 27,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-04",
+                "location": " KARAHI POINT ETOBICOKE ",
+                "credit": "27.65",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MCDONALD'S #8325 Q04 TORONTO ",
+        "creditTotal": 27,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-25",
+                "location": " MCDONALD'S #8325 Q04 TORONTO ",
+                "credit": "27.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MCDONALD'S #16637 Q04 NORTH YORK ",
+        "creditTotal": 27,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-25",
+                "location": " MCDONALD'S #16637 Q04 NORTH YORK ",
+                "credit": "14.41",
+                "debit": null
+            },
+            {
+                "date": "2015-06-11",
+                "location": " MCDONALD'S #16637 Q04 NORTH YORK ",
+                "credit": "13.28",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WAL-MART SUPERCENTER#3055 ",
+        "creditTotal": 28,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-18",
+                "location": " WAL-MART SUPERCENTER#3055 ",
+                "credit": "28.25",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CHEAPOAIR.CA AIR CHEAPOAIR.CA ",
+        "creditTotal": 29,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-02",
+                "location": " CHEAPOAIR.CA AIR CHEAPOAIR.CA ",
+                "credit": "29.70",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2362 ETOBICOKE ",
+        "creditTotal": 29,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-17",
+                "location": " THE BEER STORE #2362 ETOBICOKE ",
+                "credit": "29.40",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MARRIOTT SUITES DULLE F&B ",
+        "creditTotal": 30,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-12",
+                "location": " MARRIOTT SUITES DULLE F&B ",
+                "credit": "30.05",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BURGER KING #3230 ORILLIA ",
+        "creditTotal": 31,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-18",
+                "location": " BURGER KING #3230 ORILLIA ",
+                "credit": "31.06",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PLASTIQ MUNICIPALITIES MISSISSAUGA ",
+        "creditTotal": 31,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-01",
+                "location": " PLASTIQ MUNICIPALITIES MISSISSAUGA ",
+                "credit": "31.00",
+                "debit": null
+            },
+            {
+                "date": "2015-08-01",
+                "location": " PLASTIQ MUNICIPALITIES MISSISSAUGA ",
+                "credit": "0.62",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " FOODLAND 7185 TOBERMORY ",
+        "creditTotal": 31,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-31",
+                "location": " FOODLAND 7185 TOBERMORY ",
+                "credit": "31.97",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WOK OF ASIA ETOBICOKE ",
+        "creditTotal": 33,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-21",
+                "location": " WOK OF ASIA ETOBICOKE ",
+                "credit": "33.67",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WALMART PORTRAITS21000 MILTON ",
+        "creditTotal": 33,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-02",
+                "location": " WALMART PORTRAITS21000 MILTON ",
+                "credit": "33.89",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " FUTURE SHOP #71 MISSISSAUGA ",
+        "creditTotal": 33,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-12",
+                "location": " FUTURE SHOP #71 MISSISSAUGA ",
+                "credit": "33.89",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PETROCAN-825 WALKERS LINE ",
+        "creditTotal": 35,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-25",
+                "location": " PETROCAN-825 WALKERS LINE ",
+                "credit": "35.01",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " GINOS PIZZA NORTH YORK ",
+        "creditTotal": 36,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-02-13",
+                "location": " GINOS PIZZA NORTH YORK ",
+                "credit": "24.82",
+                "debit": null
+            },
+            {
+                "date": "2015-02-14",
+                "location": " GINOS PIZZA NORTH YORK ",
+                "credit": "12.14",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "creditTotal": 36,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-23",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": "19.20",
+                "debit": null
+            },
+            {
+                "date": "2015-09-19",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": "16.94",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " AIR CANADA 0142155584808 ",
+        "creditTotal": 37,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-20",
+                "location": " AIR CANADA 0142155584808 ",
+                "credit": "37.10",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " HOLLISTER #30076 TORONTO ",
+        "creditTotal": 40,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-14",
+                "location": " HOLLISTER #30076 TORONTO ",
+                "credit": "40.80",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LCBO/RAO #0029 WIARTON ",
+        "creditTotal": 40,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-31",
+                "location": " LCBO/RAO #0029 WIARTON ",
+                "credit": "40.60",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " STAPLES STORE #265 MILTON ",
+        "creditTotal": 41,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-20",
+                "location": " STAPLES STORE #265 MILTON ",
+                "credit": "33.02",
+                "debit": null
+            },
+            {
+                "date": "2015-11-11",
+                "location": " STAPLES STORE #265 MILTON ",
+                "credit": "8.35",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KHAN BBQ KABAB HOUSE ",
+        "creditTotal": 42,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-12",
+                "location": " KHAN BBQ KABAB HOUSE ",
+                "credit": "20.32",
+                "debit": null
+            },
+            {
+                "date": "2015-07-16",
+                "location": " KHAN BBQ KABAB HOUSE ",
+                "credit": "22.58",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WAL-MART SUPERCENTER#1139 ",
+        "creditTotal": 45,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-08",
+                "location": " WAL-MART SUPERCENTER#1139 ",
+                "credit": "45.65",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " DUNDAS FRUITS & VEGETA ",
+        "creditTotal": 46,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-14",
+                "location": " DUNDAS FRUITS & VEGETA ",
+                "credit": "46.63",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2020 MILTON ",
+        "creditTotal": 47,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-11",
+                "location": " THE BEER STORE #2020 MILTON ",
+                "credit": "25.95",
+                "debit": null
+            },
+            {
+                "date": "2015-08-24",
+                "location": " THE BEER STORE #2020 MILTON ",
+                "credit": "21.70",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LCBO/RAO #0362 ETOBICOKE ",
+        "creditTotal": 48,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-05",
+                "location": " LCBO/RAO #0362 ETOBICOKE ",
+                "credit": "48.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "creditTotal": 48,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-23",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "3.06",
+                "debit": null
+            },
+            {
+                "date": "2015-11-26",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "3.06",
+                "debit": null
+            },
+            {
+                "date": "2015-11-30",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "3.06",
+                "debit": null
+            },
+            {
+                "date": "2015-10-27",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-11-05",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-11-09",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-11-10",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-11-16",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-11-18",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-11-20",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-09-24",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-09-24",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            },
+            {
+                "date": "2015-09-25",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "9.10",
+                "debit": null
+            },
+            {
+                "date": "2015-09-02",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "3.40",
+                "debit": null
+            },
+            {
+                "date": "2015-09-03",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "5.41",
+                "debit": null
+            },
+            {
+                "date": "2015-09-04",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "4.04",
+                "debit": null
+            },
+            {
+                "date": "2015-09-21",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": "1.70",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " UNITED 0162922051800 800-932-2732 ",
+        "creditTotal": 49,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-12",
+                "location": " UNITED 0162922051800 800-932-2732 ",
+                "credit": "49.36",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " HUSKY SWEET RIVER HUSK CONCORD ",
+        "creditTotal": 50,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-18",
+                "location": " HUSKY SWEET RIVER HUSK CONCORD ",
+                "credit": "50.80",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " FACEBOOK 2RMPV7EYX2 www.fb.me/cc ",
+        "creditTotal": 50,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-28",
+                "location": " FACEBOOK 2RMPV7EYX2 www.fb.me/cc ",
+                "credit": "50.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "creditTotal": 51,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-26",
+                "location": " BOOSTERJUICE 106 TORONTO ",
+                "credit": "6.38",
+                "debit": null
+            },
+            {
+                "date": "2015-12-17",
+                "location": " BOOSTERJUICE 106 TORONTO ",
+                "credit": "6.38",
+                "debit": null
+            },
+            {
+                "date": "2015-05-25",
+                "location": " BOOSTERJUICE 106 TORONTO ",
+                "credit": "6.38",
+                "debit": null
+            },
+            {
+                "date": "2015-06-11",
+                "location": " BOOSTERJUICE 106 TORONTO ",
+                "credit": "6.38",
+                "debit": null
+            },
+            {
+                "date": "2015-02-11",
+                "location": " BOOSTERJUICE 106 TORONTO ",
+                "credit": "6.38",
+                "debit": null
+            },
+            {
+                "date": "2015-02-23",
+                "location": " BOOSTERJUICE 106 TORONTO ",
+                "credit": "6.38",
+                "debit": null
+            },
+            {
+                "date": "2015-03-03",
+                "location": " BOOSTERJUICE 106 TORONTO ",
+                "credit": "12.77",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LCBO/RAO #0408 TORONTO ",
+        "creditTotal": 53,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-13",
+                "location": " LCBO/RAO #0408 TORONTO ",
+                "credit": "53.40",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LONGO'S # 25 MILTON ",
+        "creditTotal": 59,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-09",
+                "location": " LONGO'S # 25 MILTON ",
+                "credit": "59.12",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " THE NILGIRIS INC SCARBOROUGH ",
+        "creditTotal": 61,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-03",
+                "location": " THE NILGIRIS INC SCARBOROUGH ",
+                "credit": "61.55",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PIZZA PIZZA # 57 ETOBICOKE ",
+        "creditTotal": 73,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-24",
+                "location": " PIZZA PIZZA # 57 ETOBICOKE ",
+                "credit": "29.22",
+                "debit": null
+            },
+            {
+                "date": "2015-07-26",
+                "location": " PIZZA PIZZA # 57 ETOBICOKE ",
+                "credit": "44.21",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PHARMA PLUS DRUGMARTS LTD ",
+        "creditTotal": 79,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-15",
+                "location": " PHARMA PLUS DRUGMARTS LTD ",
+                "credit": "18.61",
+                "debit": null
+            },
+            {
+                "date": "2015-07-22",
+                "location": " PHARMA PLUS DRUGMARTS LTD ",
+                "credit": "18.36",
+                "debit": null
+            },
+            {
+                "date": "2015-07-27",
+                "location": " PHARMA PLUS DRUGMARTS LTD ",
+                "credit": "10.82",
+                "debit": null
+            },
+            {
+                "date": "2015-06-22",
+                "location": " PHARMA PLUS DRUGMARTS LTD ",
+                "credit": "12.15",
+                "debit": null
+            },
+            {
+                "date": "2015-07-03",
+                "location": " PHARMA PLUS DRUGMARTS LTD ",
+                "credit": "11.29",
+                "debit": null
+            },
+            {
+                "date": "2015-05-05",
+                "location": " PHARMA PLUS DRUGMARTS LTD ",
+                "credit": "8.23",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SEARS CANADA DIRECT 1 800 267327 ",
+        "creditTotal": 80,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-14",
+                "location": " SEARS CANADA DIRECT 1 800 267327 ",
+                "credit": "80.16",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " NEW THIARA SUPERMARKET MILTON ",
+        "creditTotal": 81,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-09",
+                "location": " NEW THIARA SUPERMARKET MILTON ",
+                "credit": "81.82",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "creditTotal": 83,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-28",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": "23.95",
+                "debit": null
+            },
+            {
+                "date": "2015-06-08",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": "19.95",
+                "debit": null
+            },
+            {
+                "date": "2015-05-08",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": "19.95",
+                "debit": null
+            },
+            {
+                "date": "2015-11-11",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": "19.95",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BULK BARN #508 MILTON ",
+        "creditTotal": 85,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-10-02",
+                "location": " BULK BARN #508 MILTON ",
+                "credit": "85.09",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " RETAIL INTEREST ",
+        "creditTotal": 87,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-24",
+                "location": " RETAIL INTEREST ",
+                "credit": "35.42",
+                "debit": null
+            },
+            {
+                "date": "2015-01-12",
+                "location": " RETAIL INTEREST ",
+                "credit": "6.56",
+                "debit": null
+            },
+            {
+                "date": "2015-05-22",
+                "location": " RETAIL INTEREST ",
+                "credit": "22.86",
+                "debit": null
+            },
+            {
+                "date": "2015-11-23",
+                "location": " RETAIL INTEREST ",
+                "credit": "1.92",
+                "debit": null
+            },
+            {
+                "date": "2015-10-22",
+                "location": " RETAIL INTEREST ",
+                "credit": "20.24",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CANADA'S WONDERLAND-ESALE MAPLE ",
+        "creditTotal": 87,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-18",
+                "location": " CANADA'S WONDERLAND-ESALE MAPLE ",
+                "credit": "87.33",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " AIR CANADA 0142155585071 ",
+        "creditTotal": 87,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-20",
+                "location": " AIR CANADA 0142155585071 ",
+                "credit": "87.86",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TORNADO VAPES MILTON ",
+        "creditTotal": 90,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-11",
+                "location": " TORNADO VAPES MILTON ",
+                "credit": "90.33",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PATEL BROTHERS ETOBICOKE ",
+        "creditTotal": 92,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-09-06",
+                "location": " PATEL BROTHERS ETOBICOKE ",
+                "credit": "92.06",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "creditTotal": 92,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-20",
+                "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+                "credit": "14.00",
+                "debit": null
+            },
+            {
+                "date": "2015-03-25",
+                "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+                "credit": "8.99",
+                "debit": null
+            },
+            {
+                "date": "2015-12-14",
+                "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+                "credit": "25.62",
+                "debit": null
+            },
+            {
+                "date": "2015-01-25",
+                "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+                "credit": "8.99",
+                "debit": null
+            },
+            {
+                "date": "2015-02-25",
+                "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+                "credit": "8.99",
+                "debit": null
+            },
+            {
+                "date": "2015-09-14",
+                "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+                "credit": "25.62",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "creditTotal": 94,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-12",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "3.40",
+                "debit": null
+            },
+            {
+                "date": "2015-08-12",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "5.64",
+                "debit": null
+            },
+            {
+                "date": "2015-08-17",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "7.56",
+                "debit": null
+            },
+            {
+                "date": "2015-08-19",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "10.31",
+                "debit": null
+            },
+            {
+                "date": "2015-08-23",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "3.70",
+                "debit": null
+            },
+            {
+                "date": "2015-12-04",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "6.79",
+                "debit": null
+            },
+            {
+                "date": "2015-12-04",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "11.24",
+                "debit": null
+            },
+            {
+                "date": "2015-11-13",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "3.40",
+                "debit": null
+            },
+            {
+                "date": "2015-11-14",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "3.68",
+                "debit": null
+            },
+            {
+                "date": "2015-11-21",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "13.12",
+                "debit": null
+            },
+            {
+                "date": "2015-09-27",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "3.95",
+                "debit": null
+            },
+            {
+                "date": "2015-08-30",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "11.16",
+                "debit": null
+            },
+            {
+                "date": "2015-09-09",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "2.34",
+                "debit": null
+            },
+            {
+                "date": "2015-09-17",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "3.26",
+                "debit": null
+            },
+            {
+                "date": "2015-09-20",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": "5.34",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BENCH #101 TORONTO ",
+        "creditTotal": 100,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-14",
+                "location": " BENCH #101 TORONTO ",
+                "credit": "100.86",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2372 NORTH YORK ",
+        "creditTotal": 105,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-17",
+                "location": " THE BEER STORE #2372 NORTH YORK ",
+                "credit": "44.00",
+                "debit": null
+            },
+            {
+                "date": "2015-01-23",
+                "location": " THE BEER STORE #2372 NORTH YORK ",
+                "credit": "25.95",
+                "debit": null
+            },
+            {
+                "date": "2015-06-19",
+                "location": " THE BEER STORE #2372 NORTH YORK ",
+                "credit": "35.35",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " UNITED 0162922094361 800-932-2732 ",
+        "creditTotal": 105,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-13",
+                "location": " UNITED 0162922094361 800-932-2732 ",
+                "credit": "105.96",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " U-HAUL MIZA BUSINESS S MILTON ",
+        "creditTotal": 108,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-25",
+                "location": " U-HAUL MIZA BUSINESS S MILTON ",
+                "credit": "62.21",
+                "debit": null
+            },
+            {
+                "date": "2015-08-26",
+                "location": " U-HAUL MIZA BUSINESS S MILTON ",
+                "credit": "45.92",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BAR B Q TONITE MISSISSAUGA ",
+        "creditTotal": 109,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-08",
+                "location": " BAR B Q TONITE MISSISSAUGA ",
+                "credit": "109.50",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " HAKKA NO.1 RESTAURANT NORTH ",
+        "creditTotal": 113,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-03",
+                "location": " HAKKA NO.1 RESTAURANT NORTH ",
+                "credit": "28.02",
+                "debit": null
+            },
+            {
+                "date": "2015-07-04",
+                "location": " HAKKA NO.1 RESTAURANT NORTH ",
+                "credit": "62.07",
+                "debit": null
+            },
+            {
+                "date": "2015-06-14",
+                "location": " HAKKA NO.1 RESTAURANT NORTH ",
+                "credit": "15.71",
+                "debit": null
+            },
+            {
+                "date": "2015-09-06",
+                "location": " HAKKA NO.1 RESTAURANT NORTH ",
+                "credit": "7.86",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " ANNUAL FEE ",
+        "creditTotal": 120,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-22",
+                "location": " ANNUAL FEE ",
+                "credit": "120.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " GAP CANADA 9834 TORONTO ",
+        "creditTotal": 122,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-10",
+                "location": " GAP CANADA 9834 TORONTO ",
+                "credit": "122.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " FLEMINGO DUTY FREE SHO CHENNAI ",
+        "creditTotal": 123,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-10-04",
+                "location": " FLEMINGO DUTY FREE SHO CHENNAI ",
+                "credit": "123.80",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " GAP CANADA ONLINE BOLTON ",
+        "creditTotal": 125,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-03",
+                "location": " GAP CANADA ONLINE BOLTON ",
+                "credit": "125.33",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TTC DOWNSVIEW STATION TORONTO ",
+        "creditTotal": 133,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-02-01",
+                "location": " TTC DOWNSVIEW STATION TORONTO ",
+                "credit": "133.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SOUP NUTSY TORONTO ",
+        "creditTotal": 133,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-01",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-04-08",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "11.51",
+                "debit": null
+            },
+            {
+                "date": "2015-04-20",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-08-07",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-02-06",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-07-02",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "9.03",
+                "debit": null
+            },
+            {
+                "date": "2015-06-19",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "9.03",
+                "debit": null
+            },
+            {
+                "date": "2015-02-26",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-03-04",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-05-06",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-05-13",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            },
+            {
+                "date": "2015-09-25",
+                "location": " SOUP NUTSY TORONTO ",
+                "credit": "10.38",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "creditTotal": 134,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-14",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "16.97",
+                "debit": null
+            },
+            {
+                "date": "2015-03-21",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "20.93",
+                "debit": null
+            },
+            {
+                "date": "2015-03-29",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "7.90",
+                "debit": null
+            },
+            {
+                "date": "2015-06-22",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "25.32",
+                "debit": null
+            },
+            {
+                "date": "2015-07-06",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "6.78",
+                "debit": null
+            },
+            {
+                "date": "2015-02-24",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "29.61",
+                "debit": null
+            },
+            {
+                "date": "2015-05-16",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "8.46",
+                "debit": null
+            },
+            {
+                "date": "2015-09-23",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": "18.89",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BENCH #199 MONT-ROYAL ",
+        "creditTotal": 135,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-14",
+                "location": " BENCH #199 MONT-ROYAL ",
+                "credit": "135.59",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WAL-MART STORE#3105 TORONTO ",
+        "creditTotal": 137,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-03",
+                "location": " WAL-MART STORE#3105 TORONTO ",
+                "credit": "13.32",
+                "debit": null
+            },
+            {
+                "date": "2015-05-07",
+                "location": " WAL-MART STORE#3105 TORONTO ",
+                "credit": "124.28",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " RCSS MILTON #2810 MILTON ",
+        "creditTotal": 138,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-07",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": "52.49",
+                "debit": null
+            },
+            {
+                "date": "2015-08-08",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": "27.11",
+                "debit": null
+            },
+            {
+                "date": "2015-11-24",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": "9.02",
+                "debit": null
+            },
+            {
+                "date": "2015-09-11",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": "50.04",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MTO DRIVETEST N78 TORONTO ",
+        "creditTotal": 146,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-28",
+                "location": " MTO DRIVETEST N78 TORONTO ",
+                "credit": "146.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MILTON GO STATION 241 MILTON ",
+        "creditTotal": 150,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-27",
+                "location": " MILTON GO STATION 241 MILTON ",
+                "credit": "150.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " FOSSIL STORES INC NORTH YORK ",
+        "creditTotal": 150,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-06-21",
+                "location": " FOSSIL STORES INC NORTH YORK ",
+                "credit": "150.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LCBO/RAO #0360 NORTH YORK ",
+        "creditTotal": 150,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-24",
+                "location": " LCBO/RAO #0360 NORTH YORK ",
+                "credit": "150.85",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " GAP ONLINE 800-427-7895 ",
+        "creditTotal": 150,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-26",
+                "location": " GAP ONLINE 800-427-7895 ",
+                "credit": "79.04",
+                "debit": null
+            },
+            {
+                "date": "2015-05-15",
+                "location": " GAP ONLINE 800-427-7895 ",
+                "credit": "71.09",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "creditTotal": 160,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-22",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "10.31",
+                "debit": null
+            },
+            {
+                "date": "2015-08-24",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "31.92",
+                "debit": null
+            },
+            {
+                "date": "2015-02-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "10.02",
+                "debit": null
+            },
+            {
+                "date": "2015-01-12",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "8.86",
+                "debit": null
+            },
+            {
+                "date": "2015-07-22",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "17.96",
+                "debit": null
+            },
+            {
+                "date": "2015-06-22",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "20.03",
+                "debit": null
+            },
+            {
+                "date": "2015-03-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "8.48",
+                "debit": null
+            },
+            {
+                "date": "2015-05-22",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "9.68",
+                "debit": null
+            },
+            {
+                "date": "2015-11-23",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "11.48",
+                "debit": null
+            },
+            {
+                "date": "2015-10-22",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "20.52",
+                "debit": null
+            },
+            {
+                "date": "2015-09-22",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": "11.23",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BURGER KING #16521 TORONTO ",
+        "creditTotal": 179,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-10",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "1.67",
+                "debit": null
+            },
+            {
+                "date": "2015-03-11",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "3.86",
+                "debit": null
+            },
+            {
+                "date": "2015-03-30",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "5.65",
+                "debit": null
+            },
+            {
+                "date": "2015-04-09",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "8.13",
+                "debit": null
+            },
+            {
+                "date": "2015-07-22",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "6.52",
+                "debit": null
+            },
+            {
+                "date": "2015-11-23",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "4.07",
+                "debit": null
+            },
+            {
+                "date": "2015-06-23",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "3.65",
+                "debit": null
+            },
+            {
+                "date": "2015-06-24",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "6.08",
+                "debit": null
+            },
+            {
+                "date": "2015-06-30",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "6.52",
+                "debit": null
+            },
+            {
+                "date": "2015-07-07",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "5.95",
+                "debit": null
+            },
+            {
+                "date": "2015-05-21",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "8.13",
+                "debit": null
+            },
+            {
+                "date": "2015-06-18",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "8.65",
+                "debit": null
+            },
+            {
+                "date": "2015-02-27",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "8.13",
+                "debit": null
+            },
+            {
+                "date": "2015-03-02",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "9.26",
+                "debit": null
+            },
+            {
+                "date": "2015-03-03",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "8.13",
+                "debit": null
+            },
+            {
+                "date": "2015-04-21",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "6.64",
+                "debit": null
+            },
+            {
+                "date": "2015-04-30",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "6.64",
+                "debit": null
+            },
+            {
+                "date": "2015-05-04",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "8.13",
+                "debit": null
+            },
+            {
+                "date": "2015-05-07",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "6.77",
+                "debit": null
+            },
+            {
+                "date": "2015-05-14",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "7.88",
+                "debit": null
+            },
+            {
+                "date": "2015-05-19",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "6.77",
+                "debit": null
+            },
+            {
+                "date": "2015-10-27",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "4.83",
+                "debit": null
+            },
+            {
+                "date": "2015-10-27",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "2.72",
+                "debit": null
+            },
+            {
+                "date": "2015-10-29",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "5.41",
+                "debit": null
+            },
+            {
+                "date": "2015-10-29",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "3.68",
+                "debit": null
+            },
+            {
+                "date": "2015-11-05",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "1.67",
+                "debit": null
+            },
+            {
+                "date": "2015-11-18",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "5.64",
+                "debit": null
+            },
+            {
+                "date": "2015-11-20",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "5.64",
+                "debit": null
+            },
+            {
+                "date": "2015-09-25",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "3.65",
+                "debit": null
+            },
+            {
+                "date": "2015-09-28",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "3.44",
+                "debit": null
+            },
+            {
+                "date": "2015-10-01",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "3.44",
+                "debit": null
+            },
+            {
+                "date": "2015-09-16",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": "1.67",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BEST BUY #927 TORONTO ",
+        "creditTotal": 180,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-14",
+                "location": " BEST BUY #927 TORONTO ",
+                "credit": "180.79",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "creditTotal": 189,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-27",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": "22.50",
+                "debit": null
+            },
+            {
+                "date": "2015-04-04",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": "20.90",
+                "debit": null
+            },
+            {
+                "date": "2015-04-11",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": "32.85",
+                "debit": null
+            },
+            {
+                "date": "2015-04-13",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": "42.45",
+                "debit": null
+            },
+            {
+                "date": "2015-06-28",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": "30.00",
+                "debit": null
+            },
+            {
+                "date": "2015-05-30",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": "19.20",
+                "debit": null
+            },
+            {
+                "date": "2015-04-25",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": "21.10",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LCBO/RAO #631 MILTON ",
+        "creditTotal": 190,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-22",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": "63.80",
+                "debit": null
+            },
+            {
+                "date": "2015-12-20",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": "25.70",
+                "debit": null
+            },
+            {
+                "date": "2015-11-16",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": "33.55",
+                "debit": null
+            },
+            {
+                "date": "2015-11-20",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": "25.20",
+                "debit": null
+            },
+            {
+                "date": "2015-09-11",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": "32.45",
+                "debit": null
+            },
+            {
+                "date": "2015-09-17",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": "9.95",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "creditTotal": 191,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-25",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": "38.95",
+                "debit": null
+            },
+            {
+                "date": "2015-01-30",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": "39.95",
+                "debit": null
+            },
+            {
+                "date": "2015-06-25",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": "15.00",
+                "debit": null
+            },
+            {
+                "date": "2015-05-21",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": "34.95",
+                "debit": null
+            },
+            {
+                "date": "2015-06-14",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": "25.95",
+                "debit": null
+            },
+            {
+                "date": "2015-05-19",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": "14.00",
+                "debit": null
+            },
+            {
+                "date": "2015-09-14",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": "22.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " AE COM WEB PURCH HOOFDOORP ",
+        "creditTotal": 196,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-10",
+                "location": " AE COM WEB PURCH HOOFDOORP ",
+                "credit": "68.34",
+                "debit": null
+            },
+            {
+                "date": "2015-09-25",
+                "location": " AE COM WEB PURCH HOOFDOORP ",
+                "credit": "127.69",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TOBERMORY RESORT INN & ",
+        "creditTotal": 200,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-30",
+                "location": " TOBERMORY RESORT INN & ",
+                "credit": "200.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CSC*US EMBASSY MRV FEE 703-889-2611 ",
+        "creditTotal": 215,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-04",
+                "location": " CSC*US EMBASSY MRV FEE 703-889-2611 ",
+                "credit": "215.95",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " LCBO/RAO #0001 NORTH YORK ",
+        "creditTotal": 231,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-26",
+                "location": " LCBO/RAO #0001 NORTH YORK ",
+                "credit": "29.95",
+                "debit": null
+            },
+            {
+                "date": "2015-06-30",
+                "location": " LCBO/RAO #0001 NORTH YORK ",
+                "credit": "81.00",
+                "debit": null
+            },
+            {
+                "date": "2015-05-25",
+                "location": " LCBO/RAO #0001 NORTH YORK ",
+                "credit": "23.80",
+                "debit": null
+            },
+            {
+                "date": "2015-06-11",
+                "location": " LCBO/RAO #0001 NORTH YORK ",
+                "credit": "29.95",
+                "debit": null
+            },
+            {
+                "date": "2015-04-26",
+                "location": " LCBO/RAO #0001 NORTH YORK ",
+                "credit": "66.80",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WORLD EDUCATION SERVIC ",
+        "creditTotal": 233,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-10-28",
+                "location": " WORLD EDUCATION SERVIC ",
+                "credit": "233.91",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "creditTotal": 246,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-18",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": "66.37",
+                "debit": null
+            },
+            {
+                "date": "2015-12-17",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": "45.14",
+                "debit": null
+            },
+            {
+                "date": "2015-11-18",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": "45.14",
+                "debit": null
+            },
+            {
+                "date": "2015-10-20",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": "45.14",
+                "debit": null
+            },
+            {
+                "date": "2015-09-17",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": "45.14",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "creditTotal": 249,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-10",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.84",
+                "debit": null
+            },
+            {
+                "date": "2015-03-11",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-03-11",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.84",
+                "debit": null
+            },
+            {
+                "date": "2015-03-16",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.84",
+                "debit": null
+            },
+            {
+                "date": "2015-03-24",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-03-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-03-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.65",
+                "debit": null
+            },
+            {
+                "date": "2015-04-01",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-06",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-07",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-08",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-10",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-10",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-13",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "2.97",
+                "debit": null
+            },
+            {
+                "date": "2015-04-14",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.07",
+                "debit": null
+            },
+            {
+                "date": "2015-04-15",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-16",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-17",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-20",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.07",
+                "debit": null
+            },
+            {
+                "date": "2015-04-21",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.07",
+                "debit": null
+            },
+            {
+                "date": "2015-07-27",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-07-29",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "5.11",
+                "debit": null
+            },
+            {
+                "date": "2015-08-04",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.26",
+                "debit": null
+            },
+            {
+                "date": "2015-08-05",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-08-06",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-11-23",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.26",
+                "debit": null
+            },
+            {
+                "date": "2015-11-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "2.03",
+                "debit": null
+            },
+            {
+                "date": "2015-01-12",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.58",
+                "debit": null
+            },
+            {
+                "date": "2015-01-13",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-01-26",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-01-26",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "5.63",
+                "debit": null
+            },
+            {
+                "date": "2015-01-27",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-01-28",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-03",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-04",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-04",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.58",
+                "debit": null
+            },
+            {
+                "date": "2015-02-06",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-01-05",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-01-06",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-01-09",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-23",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-25",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-29",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "2.34",
+                "debit": null
+            },
+            {
+                "date": "2015-07-06",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-07-08",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-07-09",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "10.87",
+                "debit": null
+            },
+            {
+                "date": "2015-07-09",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-07-14",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-07-15",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-07-17",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-07-20",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-07-21",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "2.34",
+                "debit": null
+            },
+            {
+                "date": "2015-05-25",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "4.19",
+                "debit": null
+            },
+            {
+                "date": "2015-05-25",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.14",
+                "debit": null
+            },
+            {
+                "date": "2015-05-27",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.83",
+                "debit": null
+            },
+            {
+                "date": "2015-05-28",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-01",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-03",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-10",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "2.03",
+                "debit": null
+            },
+            {
+                "date": "2015-06-19",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "4.15",
+                "debit": null
+            },
+            {
+                "date": "2015-02-11",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-17",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-18",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-23",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-25",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-26",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-02-27",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-03-03",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-03-04",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.50",
+                "debit": null
+            },
+            {
+                "date": "2015-03-05",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-22",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-23",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-24",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-28",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-04-29",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.07",
+                "debit": null
+            },
+            {
+                "date": "2015-04-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "2.79",
+                "debit": null
+            },
+            {
+                "date": "2015-05-04",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-05-04",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.58",
+                "debit": null
+            },
+            {
+                "date": "2015-05-06",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "2.79",
+                "debit": null
+            },
+            {
+                "date": "2015-05-06",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.51",
+                "debit": null
+            },
+            {
+                "date": "2015-05-11",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-05-12",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-05-14",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.07",
+                "debit": null
+            },
+            {
+                "date": "2015-05-19",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.38",
+                "debit": null
+            },
+            {
+                "date": "2015-05-20",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "4.15",
+                "debit": null
+            },
+            {
+                "date": "2015-05-21",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "3.11",
+                "debit": null
+            },
+            {
+                "date": "2015-10-27",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-10-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-10-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-11-02",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-11-02",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "7.33",
+                "debit": null
+            },
+            {
+                "date": "2015-11-12",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "5.97",
+                "debit": null
+            },
+            {
+                "date": "2015-11-16",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "5.97",
+                "debit": null
+            },
+            {
+                "date": "2015-09-23",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-09-30",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            },
+            {
+                "date": "2015-09-10",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.75",
+                "debit": null
+            },
+            {
+                "date": "2015-09-16",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": "1.90",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "creditTotal": 262,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-03",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "11.29",
+                "debit": null
+            },
+            {
+                "date": "2015-02-04",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "33.89",
+                "debit": null
+            },
+            {
+                "date": "2015-02-04",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "33.89",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "11.29",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "5.64",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "27.11",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "5.64",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "9.03",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "5.64",
+                "debit": null
+            },
+            {
+                "date": "2015-02-20",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "28.46",
+                "debit": null
+            },
+            {
+                "date": "2015-09-03",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "22.36",
+                "debit": null
+            },
+            {
+                "date": "2015-09-03",
+                "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+                "credit": "67.79",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "creditTotal": 268,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-06",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "9.71",
+                "debit": null
+            },
+            {
+                "date": "2015-07-23",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-07-27",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-07-29",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-12-18",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-07-08",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-07-16",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "16.48",
+                "debit": null
+            },
+            {
+                "date": "2015-07-20",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-05-28",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-06-01",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-06-02",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-06-08",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-06-09",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-06-11",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-06-17",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-04-24",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.91",
+                "debit": null
+            },
+            {
+                "date": "2015-04-27",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "9.71",
+                "debit": null
+            },
+            {
+                "date": "2015-05-01",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-05-05",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "9.71",
+                "debit": null
+            },
+            {
+                "date": "2015-05-12",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-05-15",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-05-20",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-10-30",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.69",
+                "debit": null
+            },
+            {
+                "date": "2015-09-21",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-09-23",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-09-28",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-09-03",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-09-08",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-09-10",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-09-14",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            },
+            {
+                "date": "2015-09-16",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": "8.23",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " MARRIOTT SUITES WA DUL HERNDON ",
+        "creditTotal": 278,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-13",
+                "location": " MARRIOTT SUITES WA DUL HERNDON ",
+                "credit": "278.29",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TTC WILSON STATION NORTH YORK ",
+        "creditTotal": 283,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-02-26",
+                "location": " TTC WILSON STATION NORTH YORK ",
+                "credit": "283.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " AIR CANADA 0149665279136 WINNIPEG ",
+        "creditTotal": 287,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-11-12",
+                "location": " AIR CANADA 0149665279136 WINNIPEG ",
+                "credit": "287.32",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KOODO WOODBINE #2150 ETOBICOKE ",
+        "creditTotal": 310,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-26",
+                "location": " KOODO WOODBINE #2150 ETOBICOKE ",
+                "credit": "310.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " UNITED AIR 0169783611821 ",
+        "creditTotal": 331,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-01",
+                "location": " UNITED AIR 0169783611821 ",
+                "credit": "331.10",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " THE HOME DEPOT #7241 MILTON ",
+        "creditTotal": 362,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-28",
+                "location": " THE HOME DEPOT #7241 MILTON ",
+                "credit": "23.48",
+                "debit": null
+            },
+            {
+                "date": "2015-08-02",
+                "location": " THE HOME DEPOT #7241 MILTON ",
+                "credit": "109.59",
+                "debit": null
+            },
+            {
+                "date": "2015-08-02",
+                "location": " THE HOME DEPOT #7241 MILTON ",
+                "credit": "48.46",
+                "debit": null
+            },
+            {
+                "date": "2015-08-08",
+                "location": " THE HOME DEPOT #7241 MILTON ",
+                "credit": "84.69",
+                "debit": null
+            },
+            {
+                "date": "2015-08-08",
+                "location": " THE HOME DEPOT #7241 MILTON ",
+                "credit": "56.91",
+                "debit": null
+            },
+            {
+                "date": "2015-09-21",
+                "location": " THE HOME DEPOT #7241 MILTON ",
+                "credit": "39.82",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " IKEA NORTH YORK NORTH YORK ",
+        "creditTotal": 371,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-25",
+                "location": " IKEA NORTH YORK NORTH YORK ",
+                "credit": "371.77",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " IKEA VAUGHAN CONCORD ",
+        "creditTotal": 380,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-15",
+                "location": " IKEA VAUGHAN CONCORD ",
+                "credit": "155.59",
+                "debit": null
+            },
+            {
+                "date": "2015-07-19",
+                "location": " IKEA VAUGHAN CONCORD ",
+                "credit": "224.82",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " UNITED 0162473451741 800-932-2732 ",
+        "creditTotal": 382,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-12-12",
+                "location": " UNITED 0162473451741 800-932-2732 ",
+                "credit": "382.97",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SUNNY FOODMART ETOBICOKE ",
+        "creditTotal": 420,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-26",
+                "location": " SUNNY FOODMART ETOBICOKE ",
+                "credit": "184.65",
+                "debit": null
+            },
+            {
+                "date": "2015-02-07",
+                "location": " SUNNY FOODMART ETOBICOKE ",
+                "credit": "58.69",
+                "debit": null
+            },
+            {
+                "date": "2015-07-11",
+                "location": " SUNNY FOODMART ETOBICOKE ",
+                "credit": "21.91",
+                "debit": null
+            },
+            {
+                "date": "2015-07-11",
+                "location": " SUNNY FOODMART ETOBICOKE ",
+                "credit": "155.50",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "creditTotal": 435,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-24",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "3.41",
+                "debit": null
+            },
+            {
+                "date": "2015-03-25",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-03-26",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "9.43",
+                "debit": null
+            },
+            {
+                "date": "2015-03-31",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "9.43",
+                "debit": null
+            },
+            {
+                "date": "2015-04-02",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "7.46",
+                "debit": null
+            },
+            {
+                "date": "2015-04-06",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "1.16",
+                "debit": null
+            },
+            {
+                "date": "2015-04-07",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-04-13",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-04-14",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "9.32",
+                "debit": null
+            },
+            {
+                "date": "2015-04-15",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "9.32",
+                "debit": null
+            },
+            {
+                "date": "2015-04-16",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "9.43",
+                "debit": null
+            },
+            {
+                "date": "2015-04-17",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-07-21",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-07-30",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-08-05",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.73",
+                "debit": null
+            },
+            {
+                "date": "2015-11-30",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-01-12",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-01-13",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-01-15",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-01-22",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "4.92",
+                "debit": null
+            },
+            {
+                "date": "2015-01-27",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-01-28",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "10.33",
+                "debit": null
+            },
+            {
+                "date": "2015-02-03",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-02-04",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-12-10",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-12-12",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "10.57",
+                "debit": null
+            },
+            {
+                "date": "2015-12-16",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-12-17",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-12-22",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-12-23",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-12-29",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.41",
+                "debit": null
+            },
+            {
+                "date": "2015-01-05",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "4.92",
+                "debit": null
+            },
+            {
+                "date": "2015-01-06",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-01-07",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-06-22",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-06-29",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-07-03",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-07-06",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-07-17",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-05-27",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-06-03",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "9.49",
+                "debit": null
+            },
+            {
+                "date": "2015-06-12",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-06-15",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "4.92",
+                "debit": null
+            },
+            {
+                "date": "2015-02-11",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-02-12",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-02-18",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-02-23",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.16",
+                "debit": null
+            },
+            {
+                "date": "2015-02-25",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-03-05",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-04-22",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "9.43",
+                "debit": null
+            },
+            {
+                "date": "2015-04-28",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-04-29",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-11-10",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-11-17",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-09-30",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            },
+            {
+                "date": "2015-10-01",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "6.73",
+                "debit": null
+            },
+            {
+                "date": "2015-09-02",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": "8.08",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " ABERCROMBIE AMSTERDAM ",
+        "creditTotal": 483,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-14",
+                "location": " ABERCROMBIE AMSTERDAM ",
+                "credit": "100.34",
+                "debit": null
+            },
+            {
+                "date": "2015-11-28",
+                "location": " ABERCROMBIE AMSTERDAM ",
+                "credit": "206.23",
+                "debit": null
+            },
+            {
+                "date": "2015-04-24",
+                "location": " ABERCROMBIE AMSTERDAM ",
+                "credit": "79.67",
+                "debit": null
+            },
+            {
+                "date": "2015-09-24",
+                "location": " ABERCROMBIE AMSTERDAM ",
+                "credit": "97.75",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "creditTotal": 492,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-04",
+                "location": " ABERCROMBIE & FITC AMSTERDAM ",
+                "credit": "45.77",
+                "debit": null
+            },
+            {
+                "date": "2015-04-04",
+                "location": " ABERCROMBIE & FITC AMSTERDAM ",
+                "credit": "66.04",
+                "debit": null
+            },
+            {
+                "date": "2015-01-09",
+                "location": " ABERCROMBIE & FITC AMSTERDAM ",
+                "credit": "62.85",
+                "debit": null
+            },
+            {
+                "date": "2015-01-09",
+                "location": " ABERCROMBIE & FITC AMSTERDAM ",
+                "credit": "67.13",
+                "debit": null
+            },
+            {
+                "date": "2015-09-23",
+                "location": " ABERCROMBIE & FITC AMSTERDAM ",
+                "credit": "250.81",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CENTRA FOOD MARKET NORTH YORK ",
+        "creditTotal": 512,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-21",
+                "location": " CENTRA FOOD MARKET NORTH YORK ",
+                "credit": "181.78",
+                "debit": null
+            },
+            {
+                "date": "2015-12-31",
+                "location": " CENTRA FOOD MARKET NORTH YORK ",
+                "credit": "12.16",
+                "debit": null
+            },
+            {
+                "date": "2015-01-04",
+                "location": " CENTRA FOOD MARKET NORTH YORK ",
+                "credit": "59.07",
+                "debit": null
+            },
+            {
+                "date": "2015-06-28",
+                "location": " CENTRA FOOD MARKET NORTH YORK ",
+                "credit": "127.71",
+                "debit": null
+            },
+            {
+                "date": "2015-05-26",
+                "location": " CENTRA FOOD MARKET NORTH YORK ",
+                "credit": "132.02",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "creditTotal": 521,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-02",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": "108.13",
+                "debit": null
+            },
+            {
+                "date": "2015-08-19",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": "181.01",
+                "debit": null
+            },
+            {
+                "date": "2015-11-25",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": "38.34",
+                "debit": null
+            },
+            {
+                "date": "2015-12-09",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": "36.94",
+                "debit": null
+            },
+            {
+                "date": "2015-11-02",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": "26.69",
+                "debit": null
+            },
+            {
+                "date": "2015-10-02",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": "103.71",
+                "debit": null
+            },
+            {
+                "date": "2015-08-24",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": "27.14",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " WAL-MART SUPERCENTER#3740 ",
+        "creditTotal": 572,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-26",
+                "location": " WAL-MART SUPERCENTER#3740 ",
+                "credit": "202.10",
+                "debit": null
+            },
+            {
+                "date": "2015-02-08",
+                "location": " WAL-MART SUPERCENTER#3740 ",
+                "credit": "370.64",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "creditTotal": 649,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-19",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "62.15",
+                "debit": null
+            },
+            {
+                "date": "2015-12-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "73.45",
+                "debit": null
+            },
+            {
+                "date": "2015-07-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "62.15",
+                "debit": null
+            },
+            {
+                "date": "2015-06-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "62.15",
+                "debit": null
+            },
+            {
+                "date": "2015-02-13",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "62.15",
+                "debit": null
+            },
+            {
+                "date": "2015-05-15",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "62.15",
+                "debit": null
+            },
+            {
+                "date": "2015-11-14",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "192.10",
+                "debit": null
+            },
+            {
+                "date": "2015-10-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": "73.45",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " TTC ST ANDREW STATION TORONTO ",
+        "creditTotal": 699,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-01",
+                "location": " TTC ST ANDREW STATION TORONTO ",
+                "credit": "141.50",
+                "debit": null
+            },
+            {
+                "date": "2015-12-29",
+                "location": " TTC ST ANDREW STATION TORONTO ",
+                "credit": "133.75",
+                "debit": null
+            },
+            {
+                "date": "2015-06-30",
+                "location": " TTC ST ANDREW STATION TORONTO ",
+                "credit": "141.50",
+                "debit": null
+            },
+            {
+                "date": "2015-05-29",
+                "location": " TTC ST ANDREW STATION TORONTO ",
+                "credit": "141.50",
+                "debit": null
+            },
+            {
+                "date": "2015-04-30",
+                "location": " TTC ST ANDREW STATION TORONTO ",
+                "credit": "141.50",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PRESTO TORONTO ",
+        "creditTotal": 750,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-09",
+                "location": " PRESTO TORONTO ",
+                "credit": "200.00",
+                "debit": null
+            },
+            {
+                "date": "2015-12-18",
+                "location": " PRESTO TORONTO ",
+                "credit": "100.00",
+                "debit": null
+            },
+            {
+                "date": "2015-10-27",
+                "location": " PRESTO TORONTO ",
+                "credit": "300.00",
+                "debit": null
+            },
+            {
+                "date": "2015-09-23",
+                "location": " PRESTO TORONTO ",
+                "credit": "150.00",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " CDN TIRE STORE #00294 ETOBICOKE ",
+        "creditTotal": 858,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-07-16",
+                "location": " CDN TIRE STORE #00294 ETOBICOKE ",
+                "credit": "858.73",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " KOODO AIRTIME SCARBOROUGH ",
+        "creditTotal": 869,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-04-01",
+                "location": " KOODO AIRTIME SCARBOROUGH ",
+                "credit": "62.15",
+                "debit": null
+            },
+            {
+                "date": "2015-08-01",
+                "location": " KOODO AIRTIME SCARBOROUGH ",
+                "credit": "102.07",
+                "debit": null
+            },
+            {
+                "date": "2015-12-13",
+                "location": " KOODO AIRTIME SCARBOROUGH ",
+                "credit": "79.10",
+                "debit": null
+            },
+            {
+                "date": "2015-01-03",
+                "location": " KOODO AIRTIME SCARBOROUGH ",
+                "credit": "552.66",
+                "debit": null
+            },
+            {
+                "date": "2015-09-23",
+                "location": " KOODO AIRTIME SCARBOROUGH ",
+                "credit": "73.45",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " SAUDIA AIR 0659314255855 NORTH YORK ",
+        "creditTotal": 1003,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-04",
+                "location": " SAUDIA AIR 0659314255855 NORTH YORK ",
+                "credit": "1003.01",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " DELL CANADA INC 800-WWWDELL ",
+        "creditTotal": 1441,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-05-26",
+                "location": " DELL CANADA INC 800-WWWDELL ",
+                "credit": "1345.54",
+                "debit": null
+            },
+            {
+                "date": "2015-05-15",
+                "location": " DELL CANADA INC 800-WWWDELL ",
+                "credit": "16.95",
+                "debit": null
+            },
+            {
+                "date": "2015-05-16",
+                "location": " DELL CANADA INC 800-WWWDELL ",
+                "credit": "79.08",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " EMIRATES AI 1760218698259 NORTH ",
+        "creditTotal": 1470,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-01-12",
+                "location": " EMIRATES AI 1760218698259 NORTH ",
+                "credit": "1470.36",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " APPLE ONLINE STORE 800-676-2775 ",
+        "creditTotal": 2687,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-03-17",
+                "location": " APPLE ONLINE STORE 800-676-2775 ",
+                "credit": "1343.57",
+                "debit": null
+            },
+            {
+                "date": "2015-05-28",
+                "location": " APPLE ONLINE STORE 800-676-2775 ",
+                "credit": "1343.57",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " IKEA HOME SHOPPING/ECOMM ",
+        "creditTotal": 5826,
+        "debitTotal": null,
+        "purchaseList": [
+            {
+                "date": "2015-08-18",
+                "location": " IKEA HOME SHOPPING/ECOMM ",
+                "credit": "1788.11",
+                "debit": null
+            },
+            {
+                "date": "2015-07-20",
+                "location": " IKEA HOME SHOPPING/ECOMM ",
+                "credit": "4038.47",
+                "debit": null
+            }
+        ]
+    }
+]
