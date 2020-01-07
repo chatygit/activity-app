@@ -28,7 +28,7 @@ export class AppComponent implements OnInit {
      * 
      */
 
-    this.app.getCreditMapYear().subscribe(
+    this.app.getCreditMapYearLocal().subscribe(
       resp => {
         this.totalByYear = resp.body;
         this.selectedYear = this.totalByYear[0].location;
@@ -45,7 +45,7 @@ export class AppComponent implements OnInit {
   }
 
   changeList(year) {
-    this.app.getCreditMapLocation(year).subscribe(
+    this.app.getCreditDataLocal(year).subscribe(
       resp => {
         this.selectedYear = year;
         this.totalByLocation = resp.body;

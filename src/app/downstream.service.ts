@@ -10,6 +10,15 @@ export class DownstreamService {
     constructor(private http: HttpClient) {
     }
 
+    getCreditDataLocal(year): Observable<HttpResponse<CreditModel[]>> {
+
+        const headers = new HttpHeaders().set('authorization', 'test');
+
+        return this.http.get<CreditModel[]>('assets/old-data/visa-' + year + '.json', { headers, observe: 'response' });
+
+    }
+
+
     getCreditData(): Observable<HttpResponse<CreditModel[]>> {
 
         const headers = new HttpHeaders().set('authorization', 'test');
@@ -31,6 +40,14 @@ export class DownstreamService {
         const headers = new HttpHeaders().set('authorization', 'test');
 
         return this.http.get<TotalByLocation[]>('http://localhost:8080/credit/api/aggregate/year', { headers, observe: 'response' });
+
+    }
+
+    getCreditMapYearLocal(): Observable<HttpResponse<TotalByLocation[]>> {
+
+        const headers = new HttpHeaders().set('authorization', 'test');
+
+        return this.http.get<TotalByLocation[]>('assets/old-data/aggregate-year.json', { headers, observe: 'response' });
 
     }
 

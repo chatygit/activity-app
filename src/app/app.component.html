@@ -51,7 +51,7 @@
             <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
               {{ valSelect.value.location }} {{ valSelect.value.creditTotal | currency}}
               <div *ngFor="let item of valSelect.value.purchaseList" style="color: lightcoral;">
-                {{item.date}} : {{item.credit}}
+                {{item.date | date}} :  Credit : {{item.credit}}  Debit : {{item.debit}}
               </div>
             </li>
           </ul>
