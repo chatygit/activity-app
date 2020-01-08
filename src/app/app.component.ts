@@ -47,6 +47,7 @@ export class AppComponent implements OnInit {
   changeList(year) {
     this.app.getCreditDataLocal(year).subscribe(
       resp => {
+        this.selectedAmount = 0;
         this.selectedYear = year;
         this.totalByLocation = resp.body;
         this.totalAmount = this.totalByLocation.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
