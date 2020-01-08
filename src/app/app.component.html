@@ -19,7 +19,7 @@
     <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location"
       (click)="changeList(item.location)">
       <span style="background-color:hotpink;font-size: 15px;padding: 2px;"> {{item.location}} </span>
-      {{item.creditTotal | currency}}
+       Debit : {{item.creditTotal | currency}}  Credit : {{item.debitTotal | currency}}
     </button>
   </div>
 
@@ -27,6 +27,7 @@
     Sort By
     <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'location')">Location</button>
     <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'debit')">Debit</button>
+    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'credit')">Credit</button>
   </div>
 
   <mat-grid-list cols="2" rowHeight="750px">
@@ -35,7 +36,7 @@
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
           <h4 mat-line>{{tloc.location}} </h4>
-          <p mat-line> {{tloc.creditTotal | currency}} </p>
+          <p mat-line>  Debit : {{tloc.debitTotal | currency}}  Credit : {{tloc.creditTotal | currency}}  </p>
         </mat-list-option>
       </mat-selection-list>
     </mat-grid-tile>
@@ -46,14 +47,14 @@
         <mat-card-header>
           <div mat-card-avatar class="example-header-image"></div>
           <mat-card-title>Options selected: {{locSelect.selectedOptions.selected.length}}</mat-card-title>
-          <mat-card-subtitle>Total Amount : {{selectedAmount | currency}}</mat-card-subtitle>
+          <mat-card-subtitle>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}}</mat-card-subtitle>
         </mat-card-header>
         <mat-card-content>
           <ul>
             <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
-              {{ valSelect.value.location }} {{ valSelect.value.creditTotal | currency}}
+              {{ valSelect.value.location }} Debit {{ valSelect.value.debitTotal | currency}} Credit {{ valSelect.value.creditTotal | currency}}
               <div *ngFor="let item of valSelect.value.purchaseList" style="color: lightcoral;">
-                {{item.date | date}} : Credit : {{item.credit}} Debit : {{item.debit}}
+                {{item.date | date}} : Debit : {{item.debit}} Credit : {{item.credit}}
               </div>
             </li>
           </ul>

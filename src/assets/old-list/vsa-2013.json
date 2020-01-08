@@ -1,0 +1,698 @@
+[
+    {
+        "date": "2013-03-19",
+        "location": " CIC EN LIGNE ON-LINE OTTAWA ",
+        "credit": "150.00",
+        "debit": null
+    },
+    {
+        "date": "2013-03-23",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": "112.85",
+        "debit": null
+    },
+    {
+        "date": "2013-03-25",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "300.00"
+    },
+    {
+        "date": "2013-03-28",
+        "location": " VESTA *CHATR 888-278-5588 ",
+        "credit": "28.25",
+        "debit": null
+    },
+    {
+        "date": "2013-04-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-04-02",
+        "location": " PAYPAL *PHONE CARDS 4029357733 ",
+        "credit": "5.99",
+        "debit": null
+    },
+    {
+        "date": "2013-04-02",
+        "location": " A EAGLE OUTFTR00006593 OTTAWA ",
+        "credit": "132.24",
+        "debit": null
+    },
+    {
+        "date": "2013-04-08",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "140.00"
+    },
+    {
+        "date": "2013-04-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "3.27",
+        "debit": null
+    },
+    {
+        "date": "2013-07-29",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "11.00"
+    },
+    {
+        "date": "2013-08-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-08-01",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "40.00"
+    },
+    {
+        "date": "2013-08-12",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "4.57",
+        "debit": null
+    },
+    {
+        "date": "2013-08-12",
+        "location": " RETAIL INTEREST ",
+        "credit": "16.96",
+        "debit": null
+    },
+    {
+        "date": "2013-11-12",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "6000.00"
+    },
+    {
+        "date": "2013-11-12",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "50.00"
+    },
+    {
+        "date": "2013-11-12",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "450.00"
+    },
+    {
+        "date": "2013-11-18",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "300.00"
+    },
+    {
+        "date": "2013-11-18",
+        "location": " BELL MONTREAL ",
+        "credit": "50.79",
+        "debit": null
+    },
+    {
+        "date": "2013-11-22",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": "118.50",
+        "debit": null
+    },
+    {
+        "date": "2013-12-01",
+        "location": " ROGERS *690563028 888-764-3771 ",
+        "credit": "216.00",
+        "debit": null
+    },
+    {
+        "date": "2013-12-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-11-28",
+        "location": " AE COM WEB PURCH HOOFDOORP ",
+        "credit": "63.43",
+        "debit": null
+    },
+    {
+        "date": "2013-11-29",
+        "location": " SKYPE SKYPE.COM ",
+        "credit": "8.99",
+        "debit": null
+    },
+    {
+        "date": "2013-12-04",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "200.00"
+    },
+    {
+        "date": "2013-12-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "4.75",
+        "debit": null
+    },
+    {
+        "date": "2013-12-10",
+        "location": " RETAIL INTEREST ",
+        "credit": "18.57",
+        "debit": null
+    },
+    {
+        "date": "2013-01-16",
+        "location": " BURGER KING #12824 ETOBICOKE ",
+        "credit": "12.62",
+        "debit": null
+    },
+    {
+        "date": "2013-01-21",
+        "location": " BEST BUY #927 TORONTO ",
+        "credit": "172.10",
+        "debit": null
+    },
+    {
+        "date": "2013-01-21",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "20.00"
+    },
+    {
+        "date": "2013-01-29",
+        "location": " PAYPAL *PHONE CARDS 4029357733 ",
+        "credit": "5.99",
+        "debit": null
+    },
+    {
+        "date": "2013-01-30",
+        "location": " TIM HORTONS #4271# QTH TORONTO ",
+        "credit": "1.94",
+        "debit": null
+    },
+    {
+        "date": "2013-02-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-02-05",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "119.00"
+    },
+    {
+        "date": "2013-02-06",
+        "location": " BURGER KING #12824 ETOBICOKE ",
+        "credit": "10.37",
+        "debit": null
+    },
+    {
+        "date": "2013-02-07",
+        "location": " BURGER KING #12824 ETOBICOKE ",
+        "credit": "14.44",
+        "debit": null
+    },
+    {
+        "date": "2013-02-11",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "4.03",
+        "debit": null
+    },
+    {
+        "date": "2013-02-11",
+        "location": " RETAIL INTEREST ",
+        "credit": "4.52",
+        "debit": null
+    },
+    {
+        "date": "2013-12-15",
+        "location": " PUBLIC MOBILE INC. TORONTO ",
+        "credit": "101.70",
+        "debit": null
+    },
+    {
+        "date": "2013-12-18",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "100.00"
+    },
+    {
+        "date": "2013-01-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-01-02",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "100.00"
+    },
+    {
+        "date": "2013-01-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "3.57",
+        "debit": null
+    },
+    {
+        "date": "2013-01-10",
+        "location": " RETAIL INTEREST ",
+        "credit": "6.82",
+        "debit": null
+    },
+    {
+        "date": "2013-06-10",
+        "location": " BEST BUY.CA # 899 RICHMOND ",
+        "credit": "566.68",
+        "debit": null
+    },
+    {
+        "date": "2013-06-10",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "400.00"
+    },
+    {
+        "date": "2013-06-10",
+        "location": " BEST BUY.CA # 899 RICHMOND ",
+        "credit": "566.68",
+        "debit": null
+    },
+    {
+        "date": "2013-06-14",
+        "location": " THE BEER STORE #2362 ETOBICOKE ",
+        "credit": "33.95",
+        "debit": null
+    },
+    {
+        "date": "2013-06-16",
+        "location": " SEARS CDA WOODBINE CENTRE ",
+        "credit": "81.35",
+        "debit": null
+    },
+    {
+        "date": "2013-06-17",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "400.00"
+    },
+    {
+        "date": "2013-06-18",
+        "location": " TORONTO DUTY FREE CATE ",
+        "credit": "11.95",
+        "debit": null
+    },
+    {
+        "date": "2013-06-17",
+        "location": " WAL-MART STORE#1151 NORTH YORK ",
+        "credit": "132.97",
+        "debit": null
+    },
+    {
+        "date": "2013-06-20",
+        "location": " PAYPAL *CELLUNLOCKE 4029357733 ",
+        "credit": "26.16",
+        "debit": null
+    },
+    {
+        "date": "2013-07-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-07-05",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "300.00"
+    },
+    {
+        "date": "2013-07-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "8.38",
+        "debit": null
+    },
+    {
+        "date": "2013-05-11",
+        "location": " LCBO/RAO #0186 NORTH YORK ",
+        "credit": "41.90",
+        "debit": null
+    },
+    {
+        "date": "2013-05-10",
+        "location": " TIM HORTONS #2743# QTH NORTH YORK ",
+        "credit": "1.94",
+        "debit": null
+    },
+    {
+        "date": "2013-05-21",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "30.00"
+    },
+    {
+        "date": "2013-05-24",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "200.00"
+    },
+    {
+        "date": "2013-06-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-05-31",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": "33.95",
+        "debit": null
+    },
+    {
+        "date": "2013-06-02",
+        "location": " HOLLISTERCO.CA 866-426-1285 ",
+        "credit": "117.52",
+        "debit": null
+    },
+    {
+        "date": "2013-06-07",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "300.00"
+    },
+    {
+        "date": "2013-06-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "3.49",
+        "debit": null
+    },
+    {
+        "date": "2013-06-10",
+        "location": " RETAIL INTEREST ",
+        "credit": "4.75",
+        "debit": null
+    },
+    {
+        "date": "2013-02-14",
+        "location": " PUBLIC MOBILE INC. TORONTO ",
+        "credit": "50.85",
+        "debit": null
+    },
+    {
+        "date": "2013-02-19",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "20.00"
+    },
+    {
+        "date": "2013-02-27",
+        "location": " BURGER KING #12824 ETOBICOKE ",
+        "credit": "10.37",
+        "debit": null
+    },
+    {
+        "date": "2013-02-27",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "300.00"
+    },
+    {
+        "date": "2013-02-28",
+        "location": " LCBO/RAO #0408 TORONTO ",
+        "credit": "82.65",
+        "debit": null
+    },
+    {
+        "date": "2013-02-28",
+        "location": " VALUE MOBILE (YORK GAT NORTH ",
+        "credit": "28.25",
+        "debit": null
+    },
+    {
+        "date": "2013-03-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-03-07",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "130.00"
+    },
+    {
+        "date": "2013-03-08",
+        "location": " HOSTGATOR.COM PS://SIGNUP. ",
+        "credit": "137.43",
+        "debit": null
+    },
+    {
+        "date": "2013-03-08",
+        "location": " BURGER KING #12824 ETOBICOKE ",
+        "credit": "14.44",
+        "debit": null
+    },
+    {
+        "date": "2013-03-11",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "3.28",
+        "debit": null
+    },
+    {
+        "date": "2013-03-11",
+        "location": " RETAIL INTEREST ",
+        "credit": "0.60",
+        "debit": null
+    },
+    {
+        "date": "2013-04-24",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "15.00"
+    },
+    {
+        "date": "2013-04-26",
+        "location": " BURGER KING #12824 ETOBICOKE ",
+        "credit": "14.44",
+        "debit": null
+    },
+    {
+        "date": "2013-04-29",
+        "location": " LCBO/RAO #0362 ETOBICOKE ",
+        "credit": "44.95",
+        "debit": null
+    },
+    {
+        "date": "2013-04-29",
+        "location": " AE CANADA 00009290 TORONTO ",
+        "credit": "47.65",
+        "debit": null
+    },
+    {
+        "date": "2013-04-29",
+        "location": " AE CANADA 00009290 TORONTO -",
+        "credit": null,
+        "debit": "33.81"
+    },
+    {
+        "date": "2013-05-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-05-04",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": "30.95",
+        "debit": null
+    },
+    {
+        "date": "2013-05-05",
+        "location": " CIC EN LIGNE ON-LINE OTTAWA ",
+        "credit": "150.00",
+        "debit": null
+    },
+    {
+        "date": "2013-05-06",
+        "location": " TIM HORTONS #2743# QTH NORTH YORK ",
+        "credit": "2.74",
+        "debit": null
+    },
+    {
+        "date": "2013-05-07",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "100.00"
+    },
+    {
+        "date": "2013-05-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "3.14",
+        "debit": null
+    },
+    {
+        "date": "2013-05-10",
+        "location": " RETAIL INTEREST ",
+        "credit": "5.38",
+        "debit": null
+    },
+    {
+        "date": "2013-10-12",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": "29.85",
+        "debit": null
+    },
+    {
+        "date": "2013-10-16",
+        "location": " BELL MONTREAL ",
+        "credit": "52.49",
+        "debit": null
+    },
+    {
+        "date": "2013-10-26",
+        "location": " THE BEER STORE #2012 MISSISSAUGA ",
+        "credit": "17.80",
+        "debit": null
+    },
+    {
+        "date": "2013-10-25",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "500.00"
+    },
+    {
+        "date": "2013-10-26",
+        "location": " WAL-MART SUPERCENTER#1137 ",
+        "credit": "15.82",
+        "debit": null
+    },
+    {
+        "date": "2013-10-30",
+        "location": " GOOGLE *Voice GOOGLE.COM/C ",
+        "credit": "10.00",
+        "debit": null
+    },
+    {
+        "date": "2013-11-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-11-09",
+        "location": " HUMBER COLLEGE - REGIS TORONTO ",
+        "credit": "6740.41",
+        "debit": null
+    },
+    {
+        "date": "2013-11-12",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "16.39",
+        "debit": null
+    },
+    {
+        "date": "2013-11-12",
+        "location": " OVERLIMIT FEE NOV 12, 2013 ",
+        "credit": "25.00",
+        "debit": null
+    },
+    {
+        "date": "2013-11-12",
+        "location": " RETAIL INTEREST ",
+        "credit": "14.51",
+        "debit": null
+    },
+    {
+        "date": "2013-09-10",
+        "location": " LOCALPHONE LTD SHEFFIELD ",
+        "credit": "10.63",
+        "debit": null
+    },
+    {
+        "date": "2013-09-08",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": "116.96",
+        "debit": null
+    },
+    {
+        "date": "2013-09-12",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": "116.39",
+        "debit": null
+    },
+    {
+        "date": "2013-09-17",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "250.00"
+    },
+    {
+        "date": "2013-09-17",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": "122.44",
+        "debit": null
+    },
+    {
+        "date": "2013-09-20",
+        "location": " BELL VERDUN ",
+        "credit": "75.65",
+        "debit": null
+    },
+    {
+        "date": "2013-09-22",
+        "location": " VIRGIN MOBILE CANADA - OT TORONTO ",
+        "credit": "142.82",
+        "debit": null
+    },
+    {
+        "date": "2013-10-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-10-01",
+        "location": " LOCALPHONE LTD SHEFFIELD ",
+        "credit": "10.59",
+        "debit": null
+    },
+    {
+        "date": "2013-10-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "7.44",
+        "debit": null
+    },
+    {
+        "date": "2013-10-10",
+        "location": " RETAIL INTEREST ",
+        "credit": "1.25",
+        "debit": null
+    },
+    {
+        "date": "2013-08-29",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": null,
+        "debit": "90.00"
+    },
+    {
+        "date": "2013-09-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": "7.99",
+        "debit": null
+    },
+    {
+        "date": "2013-09-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": "4.02",
+        "debit": null
+    },
+    {
+        "date": "2013-09-10",
+        "location": " RETAIL INTEREST ",
+        "credit": "4.79",
+        "debit": null
+    }
+]

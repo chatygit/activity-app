@@ -12,21 +12,22 @@ import { MatListOption } from '@angular/material/list';
 export class AppComponent implements OnInit {
 
   totalByLocation: TotalByLocation[];
-  totalAmount: number;
-  selectedAmount: number;
-  selectedYear: string;
   totalByYear: TotalByLocation[];
+
+  totalCreditAmount: number;
+  totalDebitAmount: number;
+  selectedCreditAmount: number;
+  selectedDebitAmount: number;
+  selectedYear: string;
+
   checked: boolean = false;
+
 
 
   constructor(private app: DownstreamService) { }
 
   ngOnInit() {
 
-    /**
-     *   
-     * 
-     */
 
     this.app.getCreditMapYearLocal().subscribe(
       resp => {
@@ -36,21 +37,26 @@ export class AppComponent implements OnInit {
       }
     );
 
+
+
   }
 
 
 
   onLocationSelect(options: MatListOption[]) {
-    this.selectedAmount = options.map(optn => optn.value.creditTotal).reduce((a, b) => a + b, 0);
+    this.selectedDebitAmount = options.map(optn => optn.value.debitTotal).reduce((a, b) => a + b, 0);
+    this.selectedCreditAmount = options.map(optn => optn.value.creditTotal).reduce((a, b) => a + b, 0);
   }
 
   changeList(year) {
     this.app.getCreditDataLocal(year).subscribe(
       resp => {
-        this.selectedAmount = 0;
+        this.selectedDebitAmount = 0;
+        this.selectedDebitAmount = 0;
         this.selectedYear = year;
         this.totalByLocation = resp.body;
-        this.totalAmount = this.totalByLocation.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
+        this.totalDebitAmount = this.totalByLocation.map(row => row.debitTotal).reduce((a, b) => a + b, 0);
+        this.totalCreditAmount = this.totalByLocation.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
       }
     );
   }
@@ -58,6 +64,8 @@ export class AppComponent implements OnInit {
   sortList(list: TotalByLocation[], key: string) {
     if (key == 'location') {
       this.totalByLocation.sort(this.compareLocation);
+    } else if (key == 'debit') {
+      this.totalByLocation.sort(this.compareDebit)
     } else {
       this.totalByLocation.sort(this.compareCredit);
     }
@@ -68,6 +76,16 @@ export class AppComponent implements OnInit {
       return -1;
     }
     if (a.creditTotal > b.creditTotal) {
+      return 1;
+    }
+    return 0;
+  }
+
+  compareDebit(a: TotalByLocation, b: TotalByLocation) {
+    if (a.debitTotal < b.debitTotal) {
+      return -1;
+    }
+    if (a.debitTotal > b.debitTotal) {
       return 1;
     }
     return 0;

@@ -1,801 +1,983 @@
 [
     {
-        "location": " TIM HORTONS #4271# QTH TORONTO ",
-        "creditTotal": 1,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-01-30",
-                "location": " TIM HORTONS #4271# QTH TORONTO ",
-                "credit": "1.94",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " TIM HORTONS #2743# QTH NORTH YORK ",
-        "creditTotal": 4,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-05-10",
-                "location": " TIM HORTONS #2743# QTH NORTH YORK ",
-                "credit": "1.94",
-                "debit": null
-            },
-            {
-                "date": "2013-05-06",
-                "location": " TIM HORTONS #2743# QTH NORTH YORK ",
-                "credit": "2.74",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " SKYPE SKYPE.COM ",
-        "creditTotal": 8,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-11-29",
-                "location": " SKYPE SKYPE.COM ",
-                "credit": "8.99",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " GOOGLE *Voice GOOGLE.COM/C ",
-        "creditTotal": 10,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-10-30",
-                "location": " GOOGLE *Voice GOOGLE.COM/C ",
-                "credit": "10.00",
-                "debit": null
-            }
-        ]
-    },
-    {
         "location": " PAYPAL *PHONE CARDS 4029357733 ",
-        "creditTotal": 11,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 11,
         "purchaseList": [
             {
                 "date": "2013-04-02",
                 "location": " PAYPAL *PHONE CARDS 4029357733 ",
-                "credit": "5.99",
-                "debit": null
+                "credit": null,
+                "debit": "5.99"
             },
             {
                 "date": "2013-01-29",
                 "location": " PAYPAL *PHONE CARDS 4029357733 ",
-                "credit": "5.99",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " TORONTO DUTY FREE CATE ",
-        "creditTotal": 11,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-06-18",
-                "location": " TORONTO DUTY FREE CATE ",
-                "credit": "11.95",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " WAL-MART SUPERCENTER#1137 ",
-        "creditTotal": 15,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-10-26",
-                "location": " WAL-MART SUPERCENTER#1137 ",
-                "credit": "15.82",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " THE BEER STORE #2012 MISSISSAUGA ",
-        "creditTotal": 17,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-10-26",
-                "location": " THE BEER STORE #2012 MISSISSAUGA ",
-                "credit": "17.80",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " LOCALPHONE LTD SHEFFIELD ",
-        "creditTotal": 21,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-09-10",
-                "location": " LOCALPHONE LTD SHEFFIELD ",
-                "credit": "10.63",
-                "debit": null
-            },
-            {
-                "date": "2013-10-01",
-                "location": " LOCALPHONE LTD SHEFFIELD ",
-                "credit": "10.59",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " OVERLIMIT FEE NOV 12, 2013 ",
-        "creditTotal": 25,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-11-12",
-                "location": " OVERLIMIT FEE NOV 12, 2013 ",
-                "credit": "25.00",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " PAYPAL *CELLUNLOCKE 4029357733 ",
-        "creditTotal": 26,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-06-20",
-                "location": " PAYPAL *CELLUNLOCKE 4029357733 ",
-                "credit": "26.16",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " VESTA *CHATR 888-278-5588 ",
-        "creditTotal": 28,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-03-28",
-                "location": " VESTA *CHATR 888-278-5588 ",
-                "credit": "28.25",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " VALUE MOBILE (YORK GAT NORTH ",
-        "creditTotal": 28,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-02-28",
-                "location": " VALUE MOBILE (YORK GAT NORTH ",
-                "credit": "28.25",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " THE BEER STORE #2362 ETOBICOKE ",
-        "creditTotal": 33,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-06-14",
-                "location": " THE BEER STORE #2362 ETOBICOKE ",
-                "credit": "33.95",
-                "debit": null
+                "credit": null,
+                "debit": "5.99"
             }
         ]
     },
     {
         "location": " LCBO/RAO #0186 NORTH YORK ",
-        "creditTotal": 41,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 41,
         "purchaseList": [
             {
                 "date": "2013-05-11",
                 "location": " LCBO/RAO #0186 NORTH YORK ",
-                "credit": "41.90",
-                "debit": null
+                "credit": null,
+                "debit": "41.90"
             }
         ]
     },
     {
         "location": " LCBO/RAO #0362 ETOBICOKE ",
-        "creditTotal": 44,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 44,
         "purchaseList": [
             {
                 "date": "2013-04-29",
                 "location": " LCBO/RAO #0362 ETOBICOKE ",
-                "credit": "44.95",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " AE CANADA 00009290 TORONTO ",
-        "creditTotal": 47,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-04-29",
-                "location": " AE CANADA 00009290 TORONTO ",
-                "credit": "47.65",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " AE COM WEB PURCH HOOFDOORP ",
-        "creditTotal": 63,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-11-28",
-                "location": " AE COM WEB PURCH HOOFDOORP ",
-                "credit": "63.43",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " BALANCE PROTECTION (INCL TAX) ",
-        "creditTotal": 66,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-04-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "3.27",
-                "debit": null
-            },
-            {
-                "date": "2013-08-12",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "4.57",
-                "debit": null
-            },
-            {
-                "date": "2013-12-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "4.75",
-                "debit": null
-            },
-            {
-                "date": "2013-02-11",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "4.03",
-                "debit": null
-            },
-            {
-                "date": "2013-01-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "3.57",
-                "debit": null
-            },
-            {
-                "date": "2013-07-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "8.38",
-                "debit": null
-            },
-            {
-                "date": "2013-06-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "3.49",
-                "debit": null
-            },
-            {
-                "date": "2013-03-11",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "3.28",
-                "debit": null
-            },
-            {
-                "date": "2013-05-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "3.14",
-                "debit": null
-            },
-            {
-                "date": "2013-11-12",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "16.39",
-                "debit": null
-            },
-            {
-                "date": "2013-10-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "7.44",
-                "debit": null
-            },
-            {
-                "date": "2013-09-10",
-                "location": " BALANCE PROTECTION (INCL TAX) ",
-                "credit": "4.02",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " BELL VERDUN ",
-        "creditTotal": 75,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-09-20",
-                "location": " BELL VERDUN ",
-                "credit": "75.65",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " BURGER KING #12824 ETOBICOKE ",
-        "creditTotal": 76,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-01-16",
-                "location": " BURGER KING #12824 ETOBICOKE ",
-                "credit": "12.62",
-                "debit": null
-            },
-            {
-                "date": "2013-02-06",
-                "location": " BURGER KING #12824 ETOBICOKE ",
-                "credit": "10.37",
-                "debit": null
-            },
-            {
-                "date": "2013-02-07",
-                "location": " BURGER KING #12824 ETOBICOKE ",
-                "credit": "14.44",
-                "debit": null
-            },
-            {
-                "date": "2013-02-27",
-                "location": " BURGER KING #12824 ETOBICOKE ",
-                "credit": "10.37",
-                "debit": null
-            },
-            {
-                "date": "2013-03-08",
-                "location": " BURGER KING #12824 ETOBICOKE ",
-                "credit": "14.44",
-                "debit": null
-            },
-            {
-                "date": "2013-04-26",
-                "location": " BURGER KING #12824 ETOBICOKE ",
-                "credit": "14.44",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " RETAIL INTEREST ",
-        "creditTotal": 78,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-08-12",
-                "location": " RETAIL INTEREST ",
-                "credit": "16.96",
-                "debit": null
-            },
-            {
-                "date": "2013-12-10",
-                "location": " RETAIL INTEREST ",
-                "credit": "18.57",
-                "debit": null
-            },
-            {
-                "date": "2013-02-11",
-                "location": " RETAIL INTEREST ",
-                "credit": "4.52",
-                "debit": null
-            },
-            {
-                "date": "2013-01-10",
-                "location": " RETAIL INTEREST ",
-                "credit": "6.82",
-                "debit": null
-            },
-            {
-                "date": "2013-06-10",
-                "location": " RETAIL INTEREST ",
-                "credit": "4.75",
-                "debit": null
-            },
-            {
-                "date": "2013-03-11",
-                "location": " RETAIL INTEREST ",
-                "credit": "0.60",
-                "debit": null
-            },
-            {
-                "date": "2013-05-10",
-                "location": " RETAIL INTEREST ",
-                "credit": "5.38",
-                "debit": null
-            },
-            {
-                "date": "2013-11-12",
-                "location": " RETAIL INTEREST ",
-                "credit": "14.51",
-                "debit": null
-            },
-            {
-                "date": "2013-10-10",
-                "location": " RETAIL INTEREST ",
-                "credit": "1.25",
-                "debit": null
-            },
-            {
-                "date": "2013-09-10",
-                "location": " RETAIL INTEREST ",
-                "credit": "4.79",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " SEARS CDA WOODBINE CENTRE ",
-        "creditTotal": 81,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-06-16",
-                "location": " SEARS CDA WOODBINE CENTRE ",
-                "credit": "81.35",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " LCBO/RAO #0408 TORONTO ",
-        "creditTotal": 82,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-02-28",
-                "location": " LCBO/RAO #0408 TORONTO ",
-                "credit": "82.65",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " NETFLIX.COM 866-716-0414 ",
-        "creditTotal": 95,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-04-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-08-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-12-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-02-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-01-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-07-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-06-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-03-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-05-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-11-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-10-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            },
-            {
-                "date": "2013-09-01",
-                "location": " NETFLIX.COM 866-716-0414 ",
-                "credit": "7.99",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " BELL MONTREAL ",
-        "creditTotal": 103,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-11-18",
-                "location": " BELL MONTREAL ",
-                "credit": "50.79",
-                "debit": null
-            },
-            {
-                "date": "2013-10-16",
-                "location": " BELL MONTREAL ",
-                "credit": "52.49",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " HOLLISTERCO.CA 866-426-1285 ",
-        "creditTotal": 117,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-06-02",
-                "location": " HOLLISTERCO.CA 866-426-1285 ",
-                "credit": "117.52",
-                "debit": null
+                "credit": null,
+                "debit": "44.95"
             }
         ]
     },
     {
         "location": " WAL-MART STORE#1151 NORTH YORK ",
-        "creditTotal": 132,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 132,
         "purchaseList": [
             {
                 "date": "2013-06-17",
                 "location": " WAL-MART STORE#1151 NORTH YORK ",
-                "credit": "132.97",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " A EAGLE OUTFTR00006593 OTTAWA ",
-        "creditTotal": 132,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-04-02",
-                "location": " A EAGLE OUTFTR00006593 OTTAWA ",
-                "credit": "132.24",
-                "debit": null
+                "credit": null,
+                "debit": "132.97"
             }
         ]
     },
     {
         "location": " HOSTGATOR.COM PS://SIGNUP. ",
-        "creditTotal": 137,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 137,
         "purchaseList": [
             {
                 "date": "2013-03-08",
                 "location": " HOSTGATOR.COM PS://SIGNUP. ",
-                "credit": "137.43",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " VIRGIN MOBILE CANADA - OT TORONTO ",
-        "creditTotal": 142,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-09-22",
-                "location": " VIRGIN MOBILE CANADA - OT TORONTO ",
-                "credit": "142.82",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " PUBLIC MOBILE INC. TORONTO ",
-        "creditTotal": 152,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-12-15",
-                "location": " PUBLIC MOBILE INC. TORONTO ",
-                "credit": "101.70",
-                "debit": null
-            },
-            {
-                "date": "2013-02-14",
-                "location": " PUBLIC MOBILE INC. TORONTO ",
-                "credit": "50.85",
-                "debit": null
+                "credit": null,
+                "debit": "137.43"
             }
         ]
     },
     {
         "location": " BEST BUY #927 TORONTO ",
-        "creditTotal": 172,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 172,
         "purchaseList": [
             {
                 "date": "2013-01-21",
                 "location": " BEST BUY #927 TORONTO ",
-                "credit": "172.10",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " THE BEER STORE #2369 NORTH YORK ",
-        "creditTotal": 207,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-03-23",
-                "location": " THE BEER STORE #2369 NORTH YORK ",
-                "credit": "112.85",
-                "debit": null
-            },
-            {
-                "date": "2013-05-31",
-                "location": " THE BEER STORE #2369 NORTH YORK ",
-                "credit": "33.95",
-                "debit": null
-            },
-            {
-                "date": "2013-05-04",
-                "location": " THE BEER STORE #2369 NORTH YORK ",
-                "credit": "30.95",
-                "debit": null
-            },
-            {
-                "date": "2013-10-12",
-                "location": " THE BEER STORE #2369 NORTH YORK ",
-                "credit": "29.85",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " ROGERS *690563028 888-764-3771 ",
-        "creditTotal": 216,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-12-01",
-                "location": " ROGERS *690563028 888-764-3771 ",
-                "credit": "216.00",
-                "debit": null
-            }
-        ]
-    },
-    {
-        "location": " CIC EN LIGNE ON-LINE OTTAWA ",
-        "creditTotal": 300,
-        "debitTotal": null,
-        "purchaseList": [
-            {
-                "date": "2013-03-19",
-                "location": " CIC EN LIGNE ON-LINE OTTAWA ",
-                "credit": "150.00",
-                "debit": null
-            },
-            {
-                "date": "2013-05-05",
-                "location": " CIC EN LIGNE ON-LINE OTTAWA ",
-                "credit": "150.00",
-                "debit": null
+                "credit": null,
+                "debit": "172.10"
             }
         ]
     },
     {
         "location": " ABERCROMBIE & FITC AMSTERDAM ",
-        "creditTotal": 474,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 474,
         "purchaseList": [
             {
                 "date": "2013-11-22",
                 "location": " ABERCROMBIE & FITC AMSTERDAM ",
-                "credit": "118.50",
-                "debit": null
+                "credit": null,
+                "debit": "118.50"
             },
             {
                 "date": "2013-09-08",
                 "location": " ABERCROMBIE & FITC AMSTERDAM ",
-                "credit": "116.96",
-                "debit": null
+                "credit": null,
+                "debit": "116.96"
             },
             {
                 "date": "2013-09-12",
                 "location": " ABERCROMBIE & FITC AMSTERDAM ",
-                "credit": "116.39",
-                "debit": null
+                "credit": null,
+                "debit": "116.39"
             },
             {
                 "date": "2013-09-17",
                 "location": " ABERCROMBIE & FITC AMSTERDAM ",
-                "credit": "122.44",
-                "debit": null
+                "credit": null,
+                "debit": "122.44"
+            }
+        ]
+    },
+    {
+        "location": " TORONTO DUTY FREE CATE ",
+        "creditTotal": 0,
+        "debitTotal": 11,
+        "purchaseList": [
+            {
+                "date": "2013-06-18",
+                "location": " TORONTO DUTY FREE CATE ",
+                "credit": null,
+                "debit": "11.95"
+            }
+        ]
+    },
+    {
+        "location": " RETAIL INTEREST ",
+        "creditTotal": 0,
+        "debitTotal": 78,
+        "purchaseList": [
+            {
+                "date": "2013-08-12",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "16.96"
+            },
+            {
+                "date": "2013-12-10",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "18.57"
+            },
+            {
+                "date": "2013-02-11",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "4.52"
+            },
+            {
+                "date": "2013-01-10",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "6.82"
+            },
+            {
+                "date": "2013-06-10",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "4.75"
+            },
+            {
+                "date": "2013-03-11",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "0.60"
+            },
+            {
+                "date": "2013-05-10",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "5.38"
+            },
+            {
+                "date": "2013-11-12",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "14.51"
+            },
+            {
+                "date": "2013-10-10",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "1.25"
+            },
+            {
+                "date": "2013-09-10",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "4.79"
+            }
+        ]
+    },
+    {
+        "location": " ROGERS *690563028 888-764-3771 ",
+        "creditTotal": 0,
+        "debitTotal": 216,
+        "purchaseList": [
+            {
+                "date": "2013-12-01",
+                "location": " ROGERS *690563028 888-764-3771 ",
+                "credit": null,
+                "debit": "216.00"
+            }
+        ]
+    },
+    {
+        "location": " BURGER KING #12824 ETOBICOKE ",
+        "creditTotal": 0,
+        "debitTotal": 76,
+        "purchaseList": [
+            {
+                "date": "2013-01-16",
+                "location": " BURGER KING #12824 ETOBICOKE ",
+                "credit": null,
+                "debit": "12.62"
+            },
+            {
+                "date": "2013-02-06",
+                "location": " BURGER KING #12824 ETOBICOKE ",
+                "credit": null,
+                "debit": "10.37"
+            },
+            {
+                "date": "2013-02-07",
+                "location": " BURGER KING #12824 ETOBICOKE ",
+                "credit": null,
+                "debit": "14.44"
+            },
+            {
+                "date": "2013-02-27",
+                "location": " BURGER KING #12824 ETOBICOKE ",
+                "credit": null,
+                "debit": "10.37"
+            },
+            {
+                "date": "2013-03-08",
+                "location": " BURGER KING #12824 ETOBICOKE ",
+                "credit": null,
+                "debit": "14.44"
+            },
+            {
+                "date": "2013-04-26",
+                "location": " BURGER KING #12824 ETOBICOKE ",
+                "credit": null,
+                "debit": "14.44"
+            }
+        ]
+    },
+    {
+        "location": " SEARS CDA WOODBINE CENTRE ",
+        "creditTotal": 0,
+        "debitTotal": 81,
+        "purchaseList": [
+            {
+                "date": "2013-06-16",
+                "location": " SEARS CDA WOODBINE CENTRE ",
+                "credit": null,
+                "debit": "81.35"
             }
         ]
     },
     {
         "location": " BEST BUY.CA # 899 RICHMOND ",
-        "creditTotal": 1133,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 1133,
         "purchaseList": [
             {
                 "date": "2013-06-10",
                 "location": " BEST BUY.CA # 899 RICHMOND ",
-                "credit": "566.68",
-                "debit": null
+                "credit": null,
+                "debit": "566.68"
             },
             {
                 "date": "2013-06-10",
                 "location": " BEST BUY.CA # 899 RICHMOND ",
-                "credit": "566.68",
-                "debit": null
+                "credit": null,
+                "debit": "566.68"
+            }
+        ]
+    },
+    {
+        "location": " VESTA *CHATR 888-278-5588 ",
+        "creditTotal": 0,
+        "debitTotal": 28,
+        "purchaseList": [
+            {
+                "date": "2013-03-28",
+                "location": " VESTA *CHATR 888-278-5588 ",
+                "credit": null,
+                "debit": "28.25"
+            }
+        ]
+    },
+    {
+        "location": " LOCALPHONE LTD SHEFFIELD ",
+        "creditTotal": 0,
+        "debitTotal": 21,
+        "purchaseList": [
+            {
+                "date": "2013-09-10",
+                "location": " LOCALPHONE LTD SHEFFIELD ",
+                "credit": null,
+                "debit": "10.63"
+            },
+            {
+                "date": "2013-10-01",
+                "location": " LOCALPHONE LTD SHEFFIELD ",
+                "credit": null,
+                "debit": "10.59"
+            }
+        ]
+    },
+    {
+        "location": " LCBO/RAO #0408 TORONTO ",
+        "creditTotal": 0,
+        "debitTotal": 82,
+        "purchaseList": [
+            {
+                "date": "2013-02-28",
+                "location": " LCBO/RAO #0408 TORONTO ",
+                "credit": null,
+                "debit": "82.65"
+            }
+        ]
+    },
+    {
+        "location": " AE CANADA 00009290 TORONTO ",
+        "creditTotal": 0,
+        "debitTotal": 47,
+        "purchaseList": [
+            {
+                "date": "2013-04-29",
+                "location": " AE CANADA 00009290 TORONTO ",
+                "credit": null,
+                "debit": "47.65"
+            }
+        ]
+    },
+    {
+        "location": " OVERLIMIT FEE NOV 12, 2013 ",
+        "creditTotal": 0,
+        "debitTotal": 25,
+        "purchaseList": [
+            {
+                "date": "2013-11-12",
+                "location": " OVERLIMIT FEE NOV 12, 2013 ",
+                "credit": null,
+                "debit": "25.00"
+            }
+        ]
+    },
+    {
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "creditTotal": 0,
+        "debitTotal": 95,
+        "purchaseList": [
+            {
+                "date": "2013-04-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-08-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-12-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-02-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-01-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-07-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-06-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-03-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-05-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-11-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-10-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            },
+            {
+                "date": "2013-09-01",
+                "location": " NETFLIX.COM 866-716-0414 ",
+                "credit": null,
+                "debit": "7.99"
+            }
+        ]
+    },
+    {
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "creditTotal": 0,
+        "debitTotal": 66,
+        "purchaseList": [
+            {
+                "date": "2013-04-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "3.27"
+            },
+            {
+                "date": "2013-08-12",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "4.57"
+            },
+            {
+                "date": "2013-12-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "4.75"
+            },
+            {
+                "date": "2013-02-11",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "4.03"
+            },
+            {
+                "date": "2013-01-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "3.57"
+            },
+            {
+                "date": "2013-07-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "8.38"
+            },
+            {
+                "date": "2013-06-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "3.49"
+            },
+            {
+                "date": "2013-03-11",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "3.28"
+            },
+            {
+                "date": "2013-05-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "3.14"
+            },
+            {
+                "date": "2013-11-12",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "16.39"
+            },
+            {
+                "date": "2013-10-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "7.44"
+            },
+            {
+                "date": "2013-09-10",
+                "location": " BALANCE PROTECTION (INCL TAX) ",
+                "credit": null,
+                "debit": "4.02"
+            }
+        ]
+    },
+    {
+        "location": " HOLLISTERCO.CA 866-426-1285 ",
+        "creditTotal": 0,
+        "debitTotal": 117,
+        "purchaseList": [
+            {
+                "date": "2013-06-02",
+                "location": " HOLLISTERCO.CA 866-426-1285 ",
+                "credit": null,
+                "debit": "117.52"
+            }
+        ]
+    },
+    {
+        "location": " BELL VERDUN ",
+        "creditTotal": 0,
+        "debitTotal": 75,
+        "purchaseList": [
+            {
+                "date": "2013-09-20",
+                "location": " BELL VERDUN ",
+                "credit": null,
+                "debit": "75.65"
+            }
+        ]
+    },
+    {
+        "location": " AE COM WEB PURCH HOOFDOORP ",
+        "creditTotal": 0,
+        "debitTotal": 63,
+        "purchaseList": [
+            {
+                "date": "2013-11-28",
+                "location": " AE COM WEB PURCH HOOFDOORP ",
+                "credit": null,
+                "debit": "63.43"
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "creditTotal": 0,
+        "debitTotal": 207,
+        "purchaseList": [
+            {
+                "date": "2013-03-23",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": null,
+                "debit": "112.85"
+            },
+            {
+                "date": "2013-05-31",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": null,
+                "debit": "33.95"
+            },
+            {
+                "date": "2013-05-04",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": null,
+                "debit": "30.95"
+            },
+            {
+                "date": "2013-10-12",
+                "location": " THE BEER STORE #2369 NORTH YORK ",
+                "credit": null,
+                "debit": "29.85"
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2362 ETOBICOKE ",
+        "creditTotal": 0,
+        "debitTotal": 33,
+        "purchaseList": [
+            {
+                "date": "2013-06-14",
+                "location": " THE BEER STORE #2362 ETOBICOKE ",
+                "credit": null,
+                "debit": "33.95"
+            }
+        ]
+    },
+    {
+        "location": " VALUE MOBILE (YORK GAT NORTH ",
+        "creditTotal": 0,
+        "debitTotal": 28,
+        "purchaseList": [
+            {
+                "date": "2013-02-28",
+                "location": " VALUE MOBILE (YORK GAT NORTH ",
+                "credit": null,
+                "debit": "28.25"
+            }
+        ]
+    },
+    {
+        "location": " PUBLIC MOBILE INC. TORONTO ",
+        "creditTotal": 0,
+        "debitTotal": 152,
+        "purchaseList": [
+            {
+                "date": "2013-12-15",
+                "location": " PUBLIC MOBILE INC. TORONTO ",
+                "credit": null,
+                "debit": "101.70"
+            },
+            {
+                "date": "2013-02-14",
+                "location": " PUBLIC MOBILE INC. TORONTO ",
+                "credit": null,
+                "debit": "50.85"
+            }
+        ]
+    },
+    {
+        "location": " SKYPE SKYPE.COM ",
+        "creditTotal": 0,
+        "debitTotal": 8,
+        "purchaseList": [
+            {
+                "date": "2013-11-29",
+                "location": " SKYPE SKYPE.COM ",
+                "credit": null,
+                "debit": "8.99"
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS #2743# QTH NORTH YORK ",
+        "creditTotal": 0,
+        "debitTotal": 4,
+        "purchaseList": [
+            {
+                "date": "2013-05-10",
+                "location": " TIM HORTONS #2743# QTH NORTH YORK ",
+                "credit": null,
+                "debit": "1.94"
+            },
+            {
+                "date": "2013-05-06",
+                "location": " TIM HORTONS #2743# QTH NORTH YORK ",
+                "credit": null,
+                "debit": "2.74"
+            }
+        ]
+    },
+    {
+        "location": " BELL MONTREAL ",
+        "creditTotal": 0,
+        "debitTotal": 103,
+        "purchaseList": [
+            {
+                "date": "2013-11-18",
+                "location": " BELL MONTREAL ",
+                "credit": null,
+                "debit": "50.79"
+            },
+            {
+                "date": "2013-10-16",
+                "location": " BELL MONTREAL ",
+                "credit": null,
+                "debit": "52.49"
+            }
+        ]
+    },
+    {
+        "location": " GOOGLE *Voice GOOGLE.COM/C ",
+        "creditTotal": 0,
+        "debitTotal": 10,
+        "purchaseList": [
+            {
+                "date": "2013-10-30",
+                "location": " GOOGLE *Voice GOOGLE.COM/C ",
+                "credit": null,
+                "debit": "10.00"
+            }
+        ]
+    },
+    {
+        "location": " CIC EN LIGNE ON-LINE OTTAWA ",
+        "creditTotal": 0,
+        "debitTotal": 300,
+        "purchaseList": [
+            {
+                "date": "2013-03-19",
+                "location": " CIC EN LIGNE ON-LINE OTTAWA ",
+                "credit": null,
+                "debit": "150.00"
+            },
+            {
+                "date": "2013-05-05",
+                "location": " CIC EN LIGNE ON-LINE OTTAWA ",
+                "credit": null,
+                "debit": "150.00"
+            }
+        ]
+    },
+    {
+        "location": " THE BEER STORE #2012 MISSISSAUGA ",
+        "creditTotal": 0,
+        "debitTotal": 17,
+        "purchaseList": [
+            {
+                "date": "2013-10-26",
+                "location": " THE BEER STORE #2012 MISSISSAUGA ",
+                "credit": null,
+                "debit": "17.80"
+            }
+        ]
+    },
+    {
+        "location": " A EAGLE OUTFTR00006593 OTTAWA ",
+        "creditTotal": 0,
+        "debitTotal": 132,
+        "purchaseList": [
+            {
+                "date": "2013-04-02",
+                "location": " A EAGLE OUTFTR00006593 OTTAWA ",
+                "credit": null,
+                "debit": "132.24"
+            }
+        ]
+    },
+    {
+        "location": " WAL-MART SUPERCENTER#1137 ",
+        "creditTotal": 0,
+        "debitTotal": 15,
+        "purchaseList": [
+            {
+                "date": "2013-10-26",
+                "location": " WAL-MART SUPERCENTER#1137 ",
+                "credit": null,
+                "debit": "15.82"
+            }
+        ]
+    },
+    {
+        "location": " TIM HORTONS #4271# QTH TORONTO ",
+        "creditTotal": 0,
+        "debitTotal": 1,
+        "purchaseList": [
+            {
+                "date": "2013-01-30",
+                "location": " TIM HORTONS #4271# QTH TORONTO ",
+                "credit": null,
+                "debit": "1.94"
+            }
+        ]
+    },
+    {
+        "location": " PAYPAL *CELLUNLOCKE 4029357733 ",
+        "creditTotal": 0,
+        "debitTotal": 26,
+        "purchaseList": [
+            {
+                "date": "2013-06-20",
+                "location": " PAYPAL *CELLUNLOCKE 4029357733 ",
+                "credit": null,
+                "debit": "26.16"
             }
         ]
     },
     {
         "location": " HUMBER COLLEGE - REGIS TORONTO ",
-        "creditTotal": 6740,
-        "debitTotal": null,
+        "creditTotal": 0,
+        "debitTotal": 6740,
         "purchaseList": [
             {
                 "date": "2013-11-09",
                 "location": " HUMBER COLLEGE - REGIS TORONTO ",
-                "credit": "6740.41",
+                "credit": null,
+                "debit": "6740.41"
+            }
+        ]
+    },
+    {
+        "location": " VIRGIN MOBILE CANADA - OT TORONTO ",
+        "creditTotal": 0,
+        "debitTotal": 142,
+        "purchaseList": [
+            {
+                "date": "2013-09-22",
+                "location": " VIRGIN MOBILE CANADA - OT TORONTO ",
+                "credit": null,
+                "debit": "142.82"
+            }
+        ]
+    },
+    {
+        "location": " AE CANADA 00009290 TORONTO -",
+        "creditTotal": 33,
+        "debitTotal": 0,
+        "purchaseList": [
+            {
+                "date": "2013-04-29",
+                "location": " AE CANADA 00009290 TORONTO -",
+                "credit": "33.81",
+                "debit": null
+            }
+        ]
+    },
+    {
+        "location": " PAYMENT - THANK YOU -",
+        "creditTotal": 10865,
+        "debitTotal": 0,
+        "purchaseList": [
+            {
+                "date": "2013-03-25",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "300.00",
+                "debit": null
+            },
+            {
+                "date": "2013-04-08",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "140.00",
+                "debit": null
+            },
+            {
+                "date": "2013-07-29",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "11.00",
+                "debit": null
+            },
+            {
+                "date": "2013-08-01",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "40.00",
+                "debit": null
+            },
+            {
+                "date": "2013-11-12",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "6000.00",
+                "debit": null
+            },
+            {
+                "date": "2013-11-12",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "50.00",
+                "debit": null
+            },
+            {
+                "date": "2013-11-12",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "450.00",
+                "debit": null
+            },
+            {
+                "date": "2013-11-18",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "300.00",
+                "debit": null
+            },
+            {
+                "date": "2013-12-04",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "200.00",
+                "debit": null
+            },
+            {
+                "date": "2013-01-21",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "20.00",
+                "debit": null
+            },
+            {
+                "date": "2013-02-05",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "119.00",
+                "debit": null
+            },
+            {
+                "date": "2013-12-18",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "100.00",
+                "debit": null
+            },
+            {
+                "date": "2013-01-02",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "100.00",
+                "debit": null
+            },
+            {
+                "date": "2013-06-10",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "400.00",
+                "debit": null
+            },
+            {
+                "date": "2013-06-17",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "400.00",
+                "debit": null
+            },
+            {
+                "date": "2013-07-05",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "300.00",
+                "debit": null
+            },
+            {
+                "date": "2013-05-21",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "30.00",
+                "debit": null
+            },
+            {
+                "date": "2013-05-24",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "200.00",
+                "debit": null
+            },
+            {
+                "date": "2013-06-07",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "300.00",
+                "debit": null
+            },
+            {
+                "date": "2013-02-19",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "20.00",
+                "debit": null
+            },
+            {
+                "date": "2013-02-27",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "300.00",
+                "debit": null
+            },
+            {
+                "date": "2013-03-07",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "130.00",
+                "debit": null
+            },
+            {
+                "date": "2013-04-24",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "15.00",
+                "debit": null
+            },
+            {
+                "date": "2013-05-07",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "100.00",
+                "debit": null
+            },
+            {
+                "date": "2013-10-25",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null
+            },
+            {
+                "date": "2013-09-17",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "250.00",
+                "debit": null
+            },
+            {
+                "date": "2013-08-29",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "90.00",
                 "debit": null
             }
         ]

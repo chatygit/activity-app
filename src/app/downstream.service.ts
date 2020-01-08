@@ -19,11 +19,11 @@ export class DownstreamService {
     }
 
 
-    getCreditData(): Observable<HttpResponse<CreditModel[]>> {
+    getCreditData(year): Observable<HttpResponse<CreditModel[]>> {
 
         const headers = new HttpHeaders().set('authorization', 'test');
 
-        return this.http.get<CreditModel[]>('http://localhost:8080/credit/api', { headers, observe: 'response' });
+        return this.http.get<CreditModel[]>('assets/old-list/vsa-'+ year + '.json', { headers, observe: 'response' });
 
     }
 
