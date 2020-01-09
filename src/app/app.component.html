@@ -4,22 +4,20 @@
   <mat-card class="header-card" style="background-color: aquamarine;">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title>Credit Card : TD</mat-card-title>
-      <mat-card-subtitle style="font-weight: bold;font-size: larger;font-style: italic;color: blueviolet;">Total Amount
-        : {{totalAmount | currency}}</mat-card-subtitle>
+      <mat-card-title>TD VISA - Total Amount from 2013 to 2019</mat-card-title>
+      <mat-card-subtitle>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}
+      </mat-card-subtitle>
     </mat-card-header>
-
   </mat-card>
 
   <!-- Some more meta crap-->
   <mat-divider></mat-divider>
-  <p> In {{selectedYear}} you have purchages from <span *ngIf="totalByLocation"> {{totalByLocation.length}} </span>
-    different locations</p>
+  <h1> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
+      class="head-label"> {{totalByLocation.length}} </span>
+    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h1>
   <div class="year-button-row">
     <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location"
-      (click)="changeList(item.location)">
-      <span style="background-color:hotpink;font-size: 15px;padding: 2px;"> {{item.location}} </span>
-       Debit : {{item.creditTotal | currency}}  Credit : {{item.debitTotal | currency}}
+      (click)="changeList(item.location)"> {{item.location}}
     </button>
   </div>
 
@@ -36,7 +34,7 @@
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
           <h4 mat-line>{{tloc.location}} </h4>
-          <p mat-line>  Debit : {{tloc.debitTotal | currency}}  Credit : {{tloc.creditTotal | currency}}  </p>
+          <p mat-line> Debit : {{tloc.debitTotal | currency}} Credit : {{tloc.creditTotal | currency}} </p>
         </mat-list-option>
       </mat-selection-list>
     </mat-grid-tile>
@@ -47,12 +45,14 @@
         <mat-card-header>
           <div mat-card-avatar class="example-header-image"></div>
           <mat-card-title>Options selected: {{locSelect.selectedOptions.selected.length}}</mat-card-title>
-          <mat-card-subtitle>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}}</mat-card-subtitle>
+          <mat-card-subtitle>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}}
+          </mat-card-subtitle>
         </mat-card-header>
         <mat-card-content>
           <ul>
             <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
-              {{ valSelect.value.location }} Debit {{ valSelect.value.debitTotal | currency}} Credit {{ valSelect.value.creditTotal | currency}}
+              {{ valSelect.value.location }} Debit {{ valSelect.value.debitTotal | currency}} Credit
+              {{ valSelect.value.creditTotal | currency}}
               <div *ngFor="let item of valSelect.value.purchaseList" style="color: lightcoral;">
                 {{item.date | date}} : Debit : {{item.debit}} Credit : {{item.credit}}
               </div>

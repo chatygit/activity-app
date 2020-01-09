@@ -16,13 +16,14 @@ export class AppComponent implements OnInit {
 
   totalCreditAmount: number;
   totalDebitAmount: number;
+
   selectedCreditAmount: number;
   selectedDebitAmount: number;
+
+  yearDebitTotal: number;
+  yearCreditTotal: number;
+
   selectedYear: string;
-
-  checked: boolean = false;
-
-
 
   constructor(private app: DownstreamService) { }
 
@@ -33,15 +34,20 @@ export class AppComponent implements OnInit {
       resp => {
         this.totalByYear = resp.body;
         this.selectedYear = this.totalByYear[0].location;
+        this.totalDebitAmount = this.totalByYear.map(row => row.debitTotal).reduce((a, b) => a + b, 0);
+        this.totalCreditAmount = this.totalByYear.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
         this.changeList(this.totalByYear[0].location);
       }
     );
 
 
-
   }
 
 
+  loadYearTotals() {
+    this.yearDebitTotal = this.totalByYear.find(year => year.location == this.selectedYear).debitTotal;
+    this.yearCreditTotal = this.totalByYear.find(year => year.location == this.selectedYear).creditTotal;
+  }
 
   onLocationSelect(options: MatListOption[]) {
     this.selectedDebitAmount = options.map(optn => optn.value.debitTotal).reduce((a, b) => a + b, 0);
@@ -51,12 +57,11 @@ export class AppComponent implements OnInit {
   changeList(year) {
     this.app.getCreditDataLocal(year).subscribe(
       resp => {
+        this.loadYearTotals();
         this.selectedDebitAmount = 0;
         this.selectedDebitAmount = 0;
         this.selectedYear = year;
         this.totalByLocation = resp.body;
-        this.totalDebitAmount = this.totalByLocation.map(row => row.debitTotal).reduce((a, b) => a + b, 0);
-        this.totalCreditAmount = this.totalByLocation.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
       }
     );
   }
