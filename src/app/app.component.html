@@ -4,7 +4,7 @@
   <mat-card class="header-card" style="background-color: aquamarine;">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title>TD VISA - Total Amount from 2013 to 2019</mat-card-title>
+      <mat-card-title>TD VISA</mat-card-title>
       <mat-card-subtitle>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}
       </mat-card-subtitle>
     </mat-card-header>
@@ -12,20 +12,21 @@
 
   <!-- Some more meta crap-->
   <mat-divider></mat-divider>
-  <h1> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
+  <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
       class="head-label"> {{totalByLocation.length}} </span>
-    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h1>
+    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
   <div class="year-button-row">
     <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location"
       (click)="changeList(item.location)"> {{item.location}}
     </button>
   </div>
 
-  <div>
+  <div class="year-button-row">
     Sort By
     <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'location')">Location</button>
     <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'debit')">Debit</button>
     <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'credit')">Credit</button>
+    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'visits')">Visits</button>
   </div>
 
   <mat-grid-list cols="2" rowHeight="750px">
@@ -33,8 +34,12 @@
     <mat-grid-tile>
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
-          <h4 mat-line>{{tloc.location}} </h4>
-          <p mat-line> Debit : {{tloc.debitTotal | currency}} Credit : {{tloc.creditTotal | currency}} </p>
+          <h1 mat-line> <span class="select-label">{{tloc.purchaseList.length}}</span> 
+            times at 
+            <span class="location-label">{{tloc.location}}</span></h1>
+          <h3> <span *ngIf="tloc.debitTotal"> Debit : {{tloc.debitTotal | currency}} </span>
+            <span *ngIf="tloc.creditTotal"> Credit : {{tloc.creditTotal | currency}} </span>
+          </h3>
         </mat-list-option>
       </mat-selection-list>
     </mat-grid-tile>

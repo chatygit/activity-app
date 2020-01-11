@@ -2,14 +2,19 @@ mat-selection-list {
   overflow: auto;
   width: 100%;
   height: 750px;
+
 }
 
+mat-list-option{
+  font-style: italic;
+}
 
 mat-card-subtitle {
   font-weight: bold;
   font-size: larger;
   font-style: italic;
   color: #8a2be2;
+  font-size: 20px;
 }
 
 
@@ -17,6 +22,16 @@ mat-card-subtitle {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: gold;
 }
+
+.select-label{
+  font-size: 20px;
+  background-color: gold;
+}
+
+.location-label{
+  font-size: 15px;
+}
+
 
 ul {
   height: 700px;
@@ -30,11 +45,6 @@ ul {
 
 .header-card {
   padding-bottom: 20px;
-}
-
-
-.container {
-  padding: 10px;
 }
 
 .year-button-row {

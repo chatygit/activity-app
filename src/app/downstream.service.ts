@@ -27,6 +27,14 @@ export class DownstreamService {
 
     }
 
+    getCreditCategory(year): Observable<HttpResponse<CreditModel[]>> {
+
+        const headers = new HttpHeaders().set('authorization', 'test');
+
+        return this.http.get<CreditModel[]>('http://localhost:8080/credit/api/aggregate/category/'+ year, { headers, observe: 'response' });
+
+    }
+
     getCreditMapLocation(year: number): Observable<HttpResponse<TotalByLocation[]>> {
 
         const headers = new HttpHeaders().set('authorization', 'test');

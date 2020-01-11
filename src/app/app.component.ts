@@ -28,8 +28,6 @@ export class AppComponent implements OnInit {
   constructor(private app: DownstreamService) { }
 
   ngOnInit() {
-
-
     this.app.getCreditMapYearLocal().subscribe(
       resp => {
         this.totalByYear = resp.body;
@@ -39,8 +37,6 @@ export class AppComponent implements OnInit {
         this.changeList(this.totalByYear[0].location);
       }
     );
-
-
   }
 
 
@@ -55,7 +51,7 @@ export class AppComponent implements OnInit {
   }
 
   changeList(year) {
-    this.app.getCreditDataLocal(year).subscribe(
+    this.app.getCreditCategory(year).subscribe(
       resp => {
         this.loadYearTotals();
         this.selectedDebitAmount = 0;
@@ -68,11 +64,13 @@ export class AppComponent implements OnInit {
 
   sortList(list: TotalByLocation[], key: string) {
     if (key == 'location') {
-      this.totalByLocation.sort(this.compareLocation);
+      this.totalByLocation.sort(this.compareLocation).reverse();
     } else if (key == 'debit') {
-      this.totalByLocation.sort(this.compareDebit)
+      this.totalByLocation.sort(this.compareDebit).reverse();
+    } else if (key == 'visits') {
+      this.totalByLocation.sort(this.compareVisits).reverse();
     } else {
-      this.totalByLocation.sort(this.compareCredit);
+      this.totalByLocation.sort(this.compareCredit).reverse();
     }
   }
 
@@ -101,6 +99,16 @@ export class AppComponent implements OnInit {
       return -1;
     }
     if (a.location > b.location) {
+      return 1;
+    }
+    return 0;
+  }
+
+  compareVisits(a: TotalByLocation, b: TotalByLocation) {
+    if (a.purchaseList.length < b.purchaseList.length) {
+      return -1;
+    }
+    if (a.purchaseList.length > b.purchaseList.length) {
       return 1;
     }
     return 0;
