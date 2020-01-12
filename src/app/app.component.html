@@ -34,8 +34,8 @@
     <mat-grid-tile>
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
-          <h1 mat-line> <span class="select-label">{{tloc.purchaseList.length}}</span> 
-            times at 
+          <h1 mat-line> <span class="select-label">{{tloc.purchaseList.length}}</span>
+            times at
             <span class="location-label">{{tloc.location}}</span></h1>
           <h3> <span *ngIf="tloc.debitTotal"> Debit : {{tloc.debitTotal | currency}} </span>
             <span *ngIf="tloc.creditTotal"> Credit : {{tloc.creditTotal | currency}} </span>
@@ -48,18 +48,23 @@
 
       <mat-card class="selected-card" style="background-color: aquamarine;">
         <mat-card-header>
-          <div mat-card-avatar class="example-header-image"></div>
-          <mat-card-title>Options selected: {{locSelect.selectedOptions.selected.length}}</mat-card-title>
+          <mat-card-title mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</mat-card-title>
           <mat-card-subtitle>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}}
           </mat-card-subtitle>
         </mat-card-header>
         <mat-card-content>
           <ul>
             <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
-              {{ valSelect.value.location }} Debit {{ valSelect.value.debitTotal | currency}} Credit
-              {{ valSelect.value.creditTotal | currency}}
-              <div *ngFor="let item of valSelect.value.purchaseList" style="color: lightcoral;">
-                {{item.date | date}} : Debit : {{item.debit}} Credit : {{item.credit}}
+              <span class="location-title-label"> {{ valSelect.value.location }} </span>
+              <span *ngIf="valSelect.value.debitTotal" class="purchase-amount-label"> Debit
+                {{ valSelect.value.debitTotal | currency}} </span>
+              <span *ngIf="valSelect.value.creditTotal" class="purchase-amount-label"> Credit
+                {{ valSelect.value.creditTotal | currency}} </span>
+              <div *ngFor="let item of valSelect.value.purchaseList">
+                <span class="purchase-list-label"> {{item.date | date}} </span>
+                <span class="purchase-location-label"> {{item.location}} </span>
+                <span *ngIf="item.debit" class="purchase-amount-label"> Debit : {{item.debit | currency}} </span>
+                <span *ngIf="item.credit" class="purchase-amount-label"> Credit : {{item.credit | currency}} </span>
               </div>
             </li>
           </ul>

@@ -9,6 +9,10 @@ mat-list-option{
   font-style: italic;
 }
 
+mat-card {
+  width: 100%;
+}
+
 mat-card-subtitle {
   font-weight: bold;
   font-size: larger;
@@ -32,10 +36,26 @@ mat-card-subtitle {
   font-size: 15px;
 }
 
+.purchase-list-label{
+  color: darkorange;
+}
+.purchase-location-label{
+  font-style: italic;
+}
+.location-title-label{
+  color: blueviolet;
+  font-size: 25px;
+}
+.purchase-amount-label{
+  color: deeppink;
+}
 
 ul {
   height: 700px;
+  width: 100%;
   overflow: auto;
+  list-style: none;
+  padding-inline-start: 0px;
 }
 
 .selected-card {

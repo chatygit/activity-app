@@ -40,9 +40,9 @@ export class AppComponent implements OnInit {
   }
 
 
-  loadYearTotals() {
-    this.yearDebitTotal = this.totalByYear.find(year => year.location == this.selectedYear).debitTotal;
-    this.yearCreditTotal = this.totalByYear.find(year => year.location == this.selectedYear).creditTotal;
+  loadYearTotals(yearval) {
+    this.yearDebitTotal = this.totalByYear.find(year => year.location == yearval).debitTotal;
+    this.yearCreditTotal = this.totalByYear.find(year => year.location == yearval).creditTotal;
   }
 
   onLocationSelect(options: MatListOption[]) {
@@ -53,7 +53,7 @@ export class AppComponent implements OnInit {
   changeList(year) {
     this.app.getCreditCategory(year).subscribe(
       resp => {
-        this.loadYearTotals();
+        this.loadYearTotals(year);
         this.selectedDebitAmount = 0;
         this.selectedDebitAmount = 0;
         this.selectedYear = year;
