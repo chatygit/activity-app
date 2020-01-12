@@ -1,0 +1,4531 @@
+[
+    {
+        "date": "2015-03-10",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.84",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-10",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "1.67",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-11",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-11",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.84",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-11",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "3.86",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-12",
+        "location": " FUTURE SHOP #71 MISSISSAUGA ",
+        "credit": null,
+        "debit": "33.89",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-03-13",
+        "location": " LCBO/RAO #0408 TORONTO ",
+        "credit": null,
+        "debit": "53.40",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-03-14",
+        "location": " BEST BUY #927 TORONTO ",
+        "credit": null,
+        "debit": "180.79",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-03-14",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "16.97",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-16",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.84",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-16",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-03-14",
+        "location": " SEARS CANADA DIRECT 1 800 267327 ",
+        "credit": null,
+        "debit": "80.16",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-03-17",
+        "location": " APPLE ONLINE STORE 800-676-2775 ",
+        "credit": null,
+        "debit": "1343.57",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-03-17",
+        "location": " THE BEER STORE #2362 ETOBICOKE ",
+        "credit": null,
+        "debit": "29.40",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-03-19",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "62.15",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-03-21",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "20.93",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-20",
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "credit": null,
+        "debit": "14.00",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-03-23",
+        "location": " WWW.NETFLIX.COM INTERNET ",
+        "credit": null,
+        "debit": "7.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2015-03-24",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-24",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "3.41",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-03-26",
+        "location": " GAP ONLINE 800-427-7895 ",
+        "credit": null,
+        "debit": "79.04",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-03-25",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-03-25",
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "credit": null,
+        "debit": "8.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-03-26",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "9.43",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-03-26",
+        "location": " STARBUCKS #22836# TORONTO ",
+        "credit": null,
+        "debit": "4.15",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-27",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": null,
+        "debit": "22.50",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-03-28",
+        "location": " MTO DRIVETEST N78 TORONTO ",
+        "credit": null,
+        "debit": "146.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-03-28",
+        "location": " SHELL 2435 FINCH AVE W NORTH YORK ",
+        "credit": null,
+        "debit": "10.00",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-04-22",
+        "location": " ANNUAL FEE ",
+        "credit": null,
+        "debit": "120.00",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-03-29",
+        "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+        "credit": null,
+        "debit": "11.04",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-29",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "7.90",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-30",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-03-30",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "5.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.65",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-31",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "9.43",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-01",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-01",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-01",
+        "location": " KOODO AIRTIME SCARBOROUGH ",
+        "credit": null,
+        "debit": "62.15",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-04-01",
+        "location": " TTC ST ANDREW STATION TORONTO ",
+        "credit": null,
+        "debit": "141.50",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-04-02",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "7.46",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-02",
+        "location": " GRACE O'MALLEYS IRISH PUB ",
+        "credit": null,
+        "debit": "21.39",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-03",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "11.29",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-04-03",
+        "location": " HAKKA NO.1 RESTAURANT NORTH ",
+        "credit": null,
+        "debit": "28.02",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-04",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": null,
+        "debit": "20.90",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-04-05",
+        "location": " FAMOUS PLAYER 7406QPS TORONTO ",
+        "credit": null,
+        "debit": "20.50",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-04-04",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": null,
+        "debit": "45.77",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-04-04",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": null,
+        "debit": "66.04",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-04-06",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-06",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "9.71",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-06",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "1.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-07",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-07",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-08",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-08",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "11.51",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-09",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "8.13",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-04-10",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-10",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-11",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": null,
+        "debit": "32.85",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-04-13",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "2.97",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-13",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-13",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": null,
+        "debit": "42.45",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-04-14",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.07",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-14",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-04-14",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "9.32",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-14",
+        "location": " ABERCROMBIE AMSTERDAM ",
+        "credit": null,
+        "debit": "100.34",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-04-15",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-15",
+        "location": " PHARMA PLUS DRUGMARTS LTD ",
+        "credit": null,
+        "debit": "18.61",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-04-15",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "9.32",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-16",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-16",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "9.43",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-17",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-17",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-18",
+        "location": " STARBUCKS 03999 TORONTO ",
+        "credit": null,
+        "debit": "15.20",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-20",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.07",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-20",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-21",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.07",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-21",
+        "location": " CENTRA FOOD MARKET NORTH YORK ",
+        "credit": null,
+        "debit": "181.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-22",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "10.31",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-07-21",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-22",
+        "location": " PHARMA PLUS DRUGMARTS LTD ",
+        "credit": null,
+        "debit": "18.36",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-07-22",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "6.52",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-23",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-24",
+        "location": " PIZZA PIZZA # 57 ETOBICOKE ",
+        "credit": null,
+        "debit": "29.22",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-25",
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "credit": null,
+        "debit": "38.95",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-07-25",
+        "location": " MCDONALD'S #16637 Q04 NORTH YORK ",
+        "credit": null,
+        "debit": "14.41",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-26",
+        "location": " SUNNY FOODMART ETOBICOKE ",
+        "credit": null,
+        "debit": "184.65",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-27",
+        "location": " BPI - PREMIUM REFUND -",
+        "credit": "1.58",
+        "debit": null,
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-07-26",
+        "location": " PIZZA PIZZA # 57 ETOBICOKE ",
+        "credit": null,
+        "debit": "44.21",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-26",
+        "location": " LCBO/RAO #0001 NORTH YORK ",
+        "credit": null,
+        "debit": "29.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-07-27",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-27",
+        "location": " PHARMA PLUS DRUGMARTS LTD ",
+        "credit": null,
+        "debit": "10.82",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-07-27",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-07-26",
+        "location": " WAL-MART SUPERCENTER#3740 ",
+        "credit": null,
+        "debit": "202.10",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-07-27",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-27",
+        "location": " MILTON GO STATION 241 MILTON ",
+        "credit": null,
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-07-28",
+        "location": " THE HOME DEPOT #7241 MILTON ",
+        "credit": null,
+        "debit": "23.48",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-07-29",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "5.11",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-29",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-30",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-31",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1700.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-01",
+        "location": " PLASTIQ MUNICIPALITIES MISSISSAUGA ",
+        "credit": null,
+        "debit": "31.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2015-08-01",
+        "location": " PLASTIQ MUNICIPALITIES MISSISSAUGA ",
+        "credit": null,
+        "debit": "0.62",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2015-08-01",
+        "location": " KOODO AIRTIME SCARBOROUGH ",
+        "credit": null,
+        "debit": "102.07",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-08-02",
+        "location": " THE HOME DEPOT #7241 MILTON ",
+        "credit": null,
+        "debit": "109.59",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-02",
+        "location": " THE HOME DEPOT #7241 MILTON ",
+        "credit": null,
+        "debit": "48.46",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-02",
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "credit": null,
+        "debit": "108.13",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-08-04",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.26",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-04",
+        "location": " TERIYAKI EXP J043 QFF TORONTO ",
+        "credit": null,
+        "debit": "7.90",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-08-04",
+        "location": " SAUDIA AIR 0659314255855 NORTH YORK ",
+        "credit": null,
+        "debit": "1003.01",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-08-05",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-05",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.73",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-08-06",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-06",
+        "location": " BOURBON STREET GRILL TORONTO ",
+        "credit": null,
+        "debit": "8.56",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-08-07",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-08-07",
+        "location": " MCDONALD'S #4397 MILTON ",
+        "credit": null,
+        "debit": "9.92",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-08-07",
+        "location": " RCSS MILTON #2810 MILTON ",
+        "credit": null,
+        "debit": "52.49",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-08",
+        "location": " RCSS MILTON #2810 MILTON ",
+        "credit": null,
+        "debit": "27.11",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-08",
+        "location": " LOUISIANA CHICKEN MILTON ",
+        "credit": null,
+        "debit": "15.35",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-08-08",
+        "location": " THE HOME DEPOT #7241 MILTON -",
+        "credit": "90.32",
+        "debit": null,
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-08",
+        "location": " THE HOME DEPOT #7241 MILTON ",
+        "credit": null,
+        "debit": "84.69",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-08",
+        "location": " THE HOME DEPOT #7241 MILTON ",
+        "credit": null,
+        "debit": "56.91",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-09",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "200.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-08-09",
+        "location": " NEW THIARA SUPERMARKET MILTON ",
+        "credit": null,
+        "debit": "81.82",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-08-09",
+        "location": " LONGO'S # 25 MILTON ",
+        "credit": null,
+        "debit": "59.12",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-08-09",
+        "location": " SHOPPERSDRUGMART1344 MILTON ",
+        "credit": null,
+        "debit": "13.06",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-08-12",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "3.40",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-11",
+        "location": " THE BEER STORE #2020 MILTON ",
+        "credit": null,
+        "debit": "25.95",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-08-12",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "5.64",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-12",
+        "location": " KHAN BBQ KABAB HOUSE ",
+        "credit": null,
+        "debit": "20.32",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-08-24",
+        "location": " CASH ADVANCE FEE ( 2X$ 3.50) ",
+        "credit": null,
+        "debit": "7.00",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-24",
+        "location": " RETAIL INTEREST ",
+        "credit": null,
+        "debit": "35.42",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-24",
+        "location": " CASH INTEREST ",
+        "credit": null,
+        "debit": "0.33",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-17",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "7.56",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-17",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "2000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-17",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1428.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-18",
+        "location": " IKEA HOME SHOPPING/ECOMM ",
+        "credit": null,
+        "debit": "1788.11",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-08-18",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "66.37",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-08-18",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1400.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-19",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "10.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-20",
+        "location": " STAPLES STORE #265 MILTON ",
+        "credit": null,
+        "debit": "33.02",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-08-19",
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "credit": null,
+        "debit": "181.01",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-08-22",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "63.80",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-08-23",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "3.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-24",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "31.92",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-11-20",
+        "location": " AIR CANADA 0142155585071 ",
+        "credit": null,
+        "debit": "87.86",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-11-20",
+        "location": " AIR CANADA 0142155584808 ",
+        "credit": null,
+        "debit": "37.10",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-11-20",
+        "location": " ESSO 1515 MAIN ST E MILTON ",
+        "credit": null,
+        "debit": "15.35",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.26",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " CHIPOTLE MEXICAN GRILL TORONTO ",
+        "credit": null,
+        "debit": "25.22",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "3.06",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " GATEWAY NEWSTANDS # 70 TORONTO ",
+        "credit": null,
+        "debit": "13.75",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "4.07",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-24",
+        "location": " WIKIMEDIA SAN FRANCISC ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-11-24",
+        "location": " RCSS MILTON #2810 MILTON ",
+        "credit": null,
+        "debit": "9.02",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-11-26",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "3.06",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-25",
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "credit": null,
+        "debit": "38.34",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-11-26",
+        "location": " METRO #702 ETOBICOKE ",
+        "credit": null,
+        "debit": "20.99",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-11-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "2.03",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-30",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "3.06",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-30",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "800.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-11-30",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-01",
+        "location": " MARKETPLACE - METROCENTRE ",
+        "credit": null,
+        "debit": "6.37",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-12-02",
+        "location": " CHEAPOAIR.CA AIR CHEAPOAIR.CA ",
+        "credit": null,
+        "debit": "29.70",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-12-01",
+        "location": " UNITED AIR 0169783611821 ",
+        "credit": null,
+        "debit": "331.10",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-12-01",
+        "location": " FIRST CHOICE # 5081 MILTON ",
+        "credit": null,
+        "debit": "19.15",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-11-28",
+        "location": " ABERCROMBIE AMSTERDAM ",
+        "credit": null,
+        "debit": "206.23",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-12-03",
+        "location": " GAP CANADA ONLINE BOLTON ",
+        "credit": null,
+        "debit": "125.33",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-12-04",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "6.79",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-12-04",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "11.24",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-12-06",
+        "location": " PITA & GRILL MILTON ",
+        "credit": null,
+        "debit": "14.67",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-10",
+        "location": " RELAY #4954 MISSISSAUGA ",
+        "credit": null,
+        "debit": "3.38",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-10",
+        "location": " 6311GREAT CANADIAN BAG ",
+        "credit": null,
+        "debit": "5.28",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-10",
+        "location": " MCALLISTER'S DELI HERNDON ",
+        "credit": null,
+        "debit": "11.52",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-09",
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "credit": null,
+        "debit": "36.94",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-12-10",
+        "location": " REGENCY CAB, INC TAXI ",
+        "credit": null,
+        "debit": "14.83",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-12-11",
+        "location": " KALPASI HERNDON ",
+        "credit": null,
+        "debit": "4.60",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-11",
+        "location": " CHIPOTLE 0777 STERLING ",
+        "credit": null,
+        "debit": "13.23",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-12-11",
+        "location": " WM SUPERCENTER #2038 STERLING ",
+        "credit": null,
+        "debit": "11.06",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-12-11",
+        "location": " SUBWAY 00485268 HERNDON ",
+        "credit": null,
+        "debit": "7.10",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-12",
+        "location": " 7-ELEVEN 16091 HERNDON ",
+        "credit": null,
+        "debit": "11.90",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-12-12",
+        "location": " UNITED 0162473451741 800-932-2732 ",
+        "credit": null,
+        "debit": "382.97",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-12",
+        "location": " UNITED 0162922051800 800-932-2732 ",
+        "credit": null,
+        "debit": "49.36",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-12",
+        "location": " MARRIOTT SUITES DULLE F&B ",
+        "credit": null,
+        "debit": "30.05",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-12-12",
+        "location": " TIM HORTONS T1 LANDSIDE ",
+        "credit": null,
+        "debit": "3.06",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-12-13",
+        "location": " MARRIOTT SUITES WA DUL HERNDON ",
+        "credit": null,
+        "debit": "278.29",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-12-12",
+        "location": " WASHINGTON DULLES 1748A DULLES ",
+        "credit": null,
+        "debit": "3.58",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-13",
+        "location": " UNITED 0162922094361 800-932-2732 ",
+        "credit": null,
+        "debit": "105.96",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-15",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-12-16",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "73.45",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-12-14",
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "credit": null,
+        "debit": "25.62",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-12-17",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "45.14",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-12-18",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "100.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-12-20",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "25.70",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-12-21",
+        "location": " WOK OF ASIA ETOBICOKE ",
+        "credit": null,
+        "debit": "33.67",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-21",
+        "location": " GATEWAY NEWSTANDS # 70 TORONTO ",
+        "credit": null,
+        "debit": "11.85",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-12-21",
+        "location": " MARKETPLACE - METROCENTRE ",
+        "credit": null,
+        "debit": "7.48",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-01-12",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.58",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-12",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-12",
+        "location": " EMIRATES AI 1760218698259 NORTH ",
+        "credit": null,
+        "debit": "1470.36",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-01-13",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-13",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-14",
+        "location": " BENCH #199 MONT-ROYAL ",
+        "credit": null,
+        "debit": "135.59",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-01-15",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-16",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-01-17",
+        "location": " THE BEER STORE #2372 NORTH YORK ",
+        "credit": null,
+        "debit": "44.00",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-01-18",
+        "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+        "credit": null,
+        "debit": "3.51",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-19",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-01-22",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "4.92",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-23",
+        "location": " THE BEER STORE #2372 NORTH YORK ",
+        "credit": null,
+        "debit": "25.95",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-01-26",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-26",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "5.63",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-26",
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "credit": null,
+        "debit": "6.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-27",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-27",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "300.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-01-28",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "23.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2015-01-25",
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "credit": null,
+        "debit": "8.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-01-27",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-28",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-28",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "10.33",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-30",
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "credit": null,
+        "debit": "39.95",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-01-30",
+        "location": " ESSO 3514 WESTON ROAD NORTH YORK ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-02-01",
+        "location": " TTC DOWNSVIEW STATION TORONTO ",
+        "credit": null,
+        "debit": "133.75",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-02-03",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-03",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-04",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-04",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-04",
+        "location": " MSFT *BILLING MISSISSAUGA -",
+        "credit": "33.89",
+        "debit": null,
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-04",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "33.89",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-04",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "33.89",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-04",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.58",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-06",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-06",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-07",
+        "location": " SUNNY FOODMART ETOBICOKE ",
+        "credit": null,
+        "debit": "58.69",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-08",
+        "location": " TIM HORTONS 3493 QTH ETOBICOKE ",
+        "credit": null,
+        "debit": "8.28",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-09",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-02-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "10.02",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-12-08",
+        "location": " WAL-MART SUPERCENTER#1139 ",
+        "credit": null,
+        "debit": "45.65",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-12-10",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-12",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "10.57",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-13",
+        "location": " KOODO AIRTIME SCARBOROUGH ",
+        "credit": null,
+        "debit": "79.10",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-12-14",
+        "location": " BENCH #101 TORONTO ",
+        "credit": null,
+        "debit": "100.86",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-12-14",
+        "location": " HOLLISTER #30076 TORONTO ",
+        "credit": null,
+        "debit": "40.80",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-12-15",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "200.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-12-16",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-17",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-17",
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "credit": null,
+        "debit": "6.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-18",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-22",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-23",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-24",
+        "location": " LCBO/RAO #0360 NORTH YORK ",
+        "credit": null,
+        "debit": "150.85",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-12-25",
+        "location": " MCDONALD'S #8325 Q04 TORONTO ",
+        "credit": null,
+        "debit": "27.75",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-12-25",
+        "location": " PETROCAN-825 WALKERS LINE ",
+        "credit": null,
+        "debit": "35.01",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-12-25",
+        "location": " SKYPE COMMUNICATIO LUXEMBOURG ",
+        "credit": null,
+        "debit": "8.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-12-26",
+        "location": " KOODO WOODBINE #2150 ETOBICOKE ",
+        "credit": null,
+        "debit": "310.75",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-12-29",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.41",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-29",
+        "location": " TTC ST ANDREW STATION TORONTO ",
+        "credit": null,
+        "debit": "133.75",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-12-31",
+        "location": " CENTRA FOOD MARKET NORTH YORK ",
+        "credit": null,
+        "debit": "12.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-12-31",
+        "location": " KABUL HALAL MEAT SUPERMAR ",
+        "credit": null,
+        "debit": "22.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-01",
+        "location": " NETFLIX.COM 866-716-0414 ",
+        "credit": null,
+        "debit": "7.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2015-01-03",
+        "location": " KOODO AIRTIME SCARBOROUGH ",
+        "credit": null,
+        "debit": "552.66",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-01-04",
+        "location": " CENTRA FOOD MARKET NORTH YORK ",
+        "credit": null,
+        "debit": "59.07",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-05",
+        "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+        "credit": null,
+        "debit": "10.87",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-05",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-05",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1062.60",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-01-05",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "4.92",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-06",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-06",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-07",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-01-08",
+        "location": " PETROCAN-2821 WESTON RD NORTH ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-01-09",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-01-09",
+        "location": " PIZZA PIZZA LTD TORONTO ",
+        "credit": null,
+        "debit": "23.14",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-01-09",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": null,
+        "debit": "62.85",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-01-09",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": null,
+        "debit": "67.13",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-01-12",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "8.86",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-01-12",
+        "location": " RETAIL INTEREST ",
+        "credit": null,
+        "debit": "6.56",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-06-22",
+        "location": " PHARMA PLUS DRUGMARTS LTD ",
+        "credit": null,
+        "debit": "12.15",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-06-22",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-22",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "25.32",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-06-22",
+        "location": " SUBWAY SANDWICHES NORTH YORK ",
+        "credit": null,
+        "debit": "10.11",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-23",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-23",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "3.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-06-24",
+        "location": " SUBWAY SANDWICHES TORONTO ",
+        "credit": null,
+        "debit": "9.44",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-24",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-06-24",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "6.08",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-06-25",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-25",
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "credit": null,
+        "debit": "15.00",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-06-26",
+        "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+        "credit": null,
+        "debit": "1.05",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-28",
+        "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+        "credit": null,
+        "debit": "5.19",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-06-28",
+        "location": " CENTRA FOOD MARKET NORTH YORK ",
+        "credit": null,
+        "debit": "127.71",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-28",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": null,
+        "debit": "30.00",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-06-29",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-29",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "2.34",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-30",
+        "location": " KFC/TACO BELL WOODBRIDGE ",
+        "credit": null,
+        "debit": "9.55",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-30",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "6.52",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-06-30",
+        "location": " LCBO/RAO #0001 NORTH YORK ",
+        "credit": null,
+        "debit": "81.00",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-06-30",
+        "location": " TTC ST ANDREW STATION TORONTO ",
+        "credit": null,
+        "debit": "141.50",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-07-02",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "9.03",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-03",
+        "location": " PHARMA PLUS DRUGMARTS LTD ",
+        "credit": null,
+        "debit": "11.29",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-07-03",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-03",
+        "location": " WAL-MART STORE#3105 TORONTO ",
+        "credit": null,
+        "debit": "13.32",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-07-04",
+        "location": " HAKKA NO.1 RESTAURANT NORTH ",
+        "credit": null,
+        "debit": "62.07",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-04",
+        "location": " KARAHI POINT ETOBICOKE ",
+        "credit": null,
+        "debit": "27.65",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-07-04",
+        "location": " BURGER KING #3187 NORTH YORK ",
+        "credit": null,
+        "debit": "14.77",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-06",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-06",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-07-06",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-06",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "6.78",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-07",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "5.95",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-08",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-09",
+        "location": " TIM HORTONS 1712 QTH MISSISSAUGA ",
+        "credit": null,
+        "debit": "3.14",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-08",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-08",
+        "location": " BAR B Q TONITE MISSISSAUGA ",
+        "credit": null,
+        "debit": "109.50",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-08",
+        "location": " PETROCAN-620 THOMSON RD S MILTON ",
+        "credit": null,
+        "debit": "7.35",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-07-09",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "10.87",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-08",
+        "location": " UNION YORK WEST TEAMWAY-G ",
+        "credit": null,
+        "debit": "8.25",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-07-09",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-11",
+        "location": " SUNNY FOODMART ETOBICOKE ",
+        "credit": null,
+        "debit": "21.91",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-11",
+        "location": " SUNNY FOODMART ETOBICOKE ",
+        "credit": null,
+        "debit": "155.50",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-14",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-15",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-15",
+        "location": " IKEA VAUGHAN CONCORD ",
+        "credit": null,
+        "debit": "155.59",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-07-16",
+        "location": " GATEWAY NEWSSTANDS #123 NORTH ",
+        "credit": null,
+        "debit": "2.50",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-07-16",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "62.15",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-07-16",
+        "location": " KHAN BBQ KABAB HOUSE ",
+        "credit": null,
+        "debit": "22.58",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-16",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "16.48",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-16",
+        "location": " CDN TIRE STORE #00294 ETOBICOKE ",
+        "credit": null,
+        "debit": "858.73",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-07-17",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-17",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-18",
+        "location": " HUSKY SWEET RIVER HUSK CONCORD ",
+        "credit": null,
+        "debit": "50.80",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-07-18",
+        "location": " BURGER KING #3230 ORILLIA ",
+        "credit": null,
+        "debit": "31.06",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-07-19",
+        "location": " IKEA VAUGHAN CONCORD ",
+        "credit": null,
+        "debit": "224.82",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-07-20",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-20",
+        "location": " IKEA HOME SHOPPING/ECOMM ",
+        "credit": null,
+        "debit": "4038.47",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-07-20",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "2500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-07-20",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-07-21",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "2.34",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-07-22",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "17.96",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-05-21",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "8.13",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-05-21",
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "credit": null,
+        "debit": "34.95",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-05-22",
+        "location": " MANCHU WOK # 2742 TORONTO ",
+        "credit": null,
+        "debit": "9.03",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-25",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "4.19",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-26",
+        "location": " CENTRA FOOD MARKET NORTH YORK ",
+        "credit": null,
+        "debit": "132.02",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-26",
+        "location": " DELL CANADA INC 800-WWWDELL ",
+        "credit": null,
+        "debit": "1345.54",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-05-25",
+        "location": " LCBO/RAO #0001 NORTH YORK ",
+        "credit": null,
+        "debit": "23.80",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-05-25",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.14",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-25",
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "credit": null,
+        "debit": "6.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-27",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.83",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-27",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-28",
+        "location": " APPLE ONLINE STORE 800-676-2775 ",
+        "credit": null,
+        "debit": "1343.57",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-05-28",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-29",
+        "location": " DELL CANADA INC 800-WWWDELL -",
+        "credit": "16.95",
+        "debit": null,
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-05-28",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-29",
+        "location": " TTC ST ANDREW STATION TORONTO ",
+        "credit": null,
+        "debit": "141.50",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-05-30",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": null,
+        "debit": "19.20",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-05-30",
+        "location": " SUBWAY SANDWICHES NORTH YORK ",
+        "credit": null,
+        "debit": "7.05",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-01",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-01",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-06-01",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-02",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-02",
+        "location": " PETROCAN-620 THOMSON RD S MILTON ",
+        "credit": null,
+        "debit": "9.16",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-06-03",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-02",
+        "location": " UNION YORK WEST TEAMWAY-G ",
+        "credit": null,
+        "debit": "8.25",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-06-03",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-05",
+        "location": " LCBO/RAO #0362 ETOBICOKE ",
+        "credit": null,
+        "debit": "48.00",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-06-06",
+        "location": " DELL CANADA INC 800-WWWDELL -",
+        "credit": "1345.54",
+        "debit": null,
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-06-06",
+        "location": " DELL CANADA INC 800-WWWDELL -",
+        "credit": "79.08",
+        "debit": null,
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-06-08",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2015-06-08",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-09",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-10",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "2.03",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-11",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-11",
+        "location": " LCBO/RAO #0001 NORTH YORK ",
+        "credit": null,
+        "debit": "29.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-06-11",
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "credit": null,
+        "debit": "6.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-11",
+        "location": " MCDONALD'S #16637 Q04 NORTH YORK ",
+        "credit": null,
+        "debit": "13.28",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-06-12",
+        "location": " MARKETPLACE - METROCENTRE ",
+        "credit": null,
+        "debit": "6.88",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-06-12",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-14",
+        "location": " HAKKA NO.1 RESTAURANT NORTH ",
+        "credit": null,
+        "debit": "15.71",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-14",
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "credit": null,
+        "debit": "25.95",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-06-15",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "4.92",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-16",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "62.15",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-06-17",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-17",
+        "location": " TIM HORTONS 2555 QTH MISSISSAUGA ",
+        "credit": null,
+        "debit": "3.65",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-18",
+        "location": " MARKETPLACE - METROCENTRE ",
+        "credit": null,
+        "debit": "3.91",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-06-17",
+        "location": " UNION YORK WEST TEAMWAY-G ",
+        "credit": null,
+        "debit": "8.25",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-06-17",
+        "location": " SKYPE 44870835190 ",
+        "credit": null,
+        "debit": "25.62",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-06-18",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "8.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-06-19",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "4.15",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-06-19",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-06-19",
+        "location": " THE BEER STORE #2372 NORTH YORK ",
+        "credit": null,
+        "debit": "35.35",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-06-21",
+        "location": " FOSSIL STORES INC NORTH YORK ",
+        "credit": null,
+        "debit": "150.00",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-06-22",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "20.03",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-02-08",
+        "location": " WAL-MART SUPERCENTER#3740 ",
+        "credit": null,
+        "debit": "370.64",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-02-11",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-11",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-11",
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "credit": null,
+        "debit": "6.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-12",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-13",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "62.15",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-02-13",
+        "location": " POPEYE'S TORONTO ",
+        "credit": null,
+        "debit": "16.48",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-02-13",
+        "location": " GINOS PIZZA NORTH YORK ",
+        "credit": null,
+        "debit": "24.82",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-02-14",
+        "location": " GINOS PIZZA NORTH YORK ",
+        "credit": null,
+        "debit": "12.14",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-02-17",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-18",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-18",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "9.03",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "11.29",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "5.64",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "27.11",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "5.64",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "9.03",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "5.64",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-20",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "28.46",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-23",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-23",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-23",
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "credit": null,
+        "debit": "6.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-24",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-02-24",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "29.61",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-02-25",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-25",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-26",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-26",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-02-25",
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "credit": null,
+        "debit": "8.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-02-26",
+        "location": " TTC WILSON STATION NORTH YORK ",
+        "credit": null,
+        "debit": "283.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-02-27",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-02-27",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "8.13",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-02",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "9.26",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-03",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-03",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "8.13",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-03-03",
+        "location": " BOOSTERJUICE 106 TORONTO ",
+        "credit": null,
+        "debit": "12.77",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-03-04",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.50",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-04",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-03-05",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-03-05",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-03-09",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-03-10",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "8.48",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-04-21",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "6.64",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-04-22",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-22",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "9.43",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-23",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-23",
+        "location": " BACARO ITALIAN EATERY TORONTO ",
+        "credit": null,
+        "debit": "7.90",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-24",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-24",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.91",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-24",
+        "location": " ABERCROMBIE AMSTERDAM ",
+        "credit": null,
+        "debit": "79.67",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-04-24",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "400.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-04-25",
+        "location": " THE BEER STORE #2369 NORTH YORK ",
+        "credit": null,
+        "debit": "21.10",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-04-26",
+        "location": " LCBO/RAO #0001 NORTH YORK ",
+        "credit": null,
+        "debit": "66.80",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-04-27",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "9.71",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-28",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-28",
+        "location": " FACEBOOK 2RMPV7EYX2 www.fb.me/cc ",
+        "credit": null,
+        "debit": "50.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-04-28",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-29",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.07",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-29",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-04-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "2.79",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-04-30",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "6.64",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-04-30",
+        "location": " TTC ST ANDREW STATION TORONTO ",
+        "credit": null,
+        "debit": "141.50",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-05-01",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-01",
+        "location": " STARBUCKS #22836# TORONTO ",
+        "credit": null,
+        "debit": "4.15",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-04",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-03",
+        "location": " THE NILGIRIS INC SCARBOROUGH ",
+        "credit": null,
+        "debit": "61.55",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-04",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "8.13",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-05-04",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.58",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-05",
+        "location": " PHARMA PLUS DRUGMARTS LTD ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-05-05",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "9.71",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-06",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "2.79",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-06",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-06",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-05-06",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.51",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-08",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2015-05-07",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "6.77",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-05-07",
+        "location": " WAL-MART STORE#3105 TORONTO ",
+        "credit": null,
+        "debit": "124.28",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-05-07",
+        "location": " WAL-MART STORE#1151 NORTH YORK ",
+        "credit": null,
+        "debit": "11.27",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-05-08",
+        "location": " MANCHU WOK # 2742 TORONTO ",
+        "credit": null,
+        "debit": "9.03",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-09",
+        "location": " FAMOUS PLAYER 7406QPS TORONTO ",
+        "credit": null,
+        "debit": "4.51",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-05-10",
+        "location": " GAP CANADA 9834 TORONTO ",
+        "credit": null,
+        "debit": "122.75",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-05-11",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-11",
+        "location": " CARIBBEAN QUEEN TORONTO ",
+        "credit": null,
+        "debit": "7.78",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-12",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-12",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-13",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-14",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.07",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-14",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-05-15",
+        "location": " DELL CANADA INC 800-WWWDELL ",
+        "credit": null,
+        "debit": "16.95",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-05-15",
+        "location": " GAP ONLINE 800-427-7895 ",
+        "credit": null,
+        "debit": "71.09",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-05-10",
+        "location": " AE COM WEB PURCH HOOFDOORP ",
+        "credit": null,
+        "debit": "68.34",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-05-14",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "7.88",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-05-15",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "62.15",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-05-15",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-15",
+        "location": " TIM HORTONS 2276 QTH MISSISSAUGA ",
+        "credit": null,
+        "debit": "6.34",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-16",
+        "location": " DELL CANADA INC 800-WWWDELL ",
+        "credit": null,
+        "debit": "79.08",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-05-16",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "8.46",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-05-17",
+        "location": " COCA COLA BRAMPTON ON BRAMPTON ",
+        "credit": null,
+        "debit": "4.75",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-17",
+        "location": " CANADA'S WONDERLAND-RESAL ",
+        "credit": null,
+        "debit": "19.20",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-17",
+        "location": " CANADA'S WONDERLAND-RESAL ",
+        "credit": null,
+        "debit": "6.20",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-17",
+        "location": " MCDONALD'S #8674 Q04 MAPLE ",
+        "credit": null,
+        "debit": "26.59",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-05-18",
+        "location": " CANADA'S WONDERLAND-ESALE MAPLE ",
+        "credit": null,
+        "debit": "87.33",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-05-16",
+        "location": " ESSO 3514 WESTON ROAD NORTH YORK ",
+        "credit": null,
+        "debit": "5.65",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-05-17",
+        "location": " ESSO 3100 MAJOR MACKENZIE MAPLE ",
+        "credit": null,
+        "debit": "10.00",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-05-19",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.38",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-19",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "6.77",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-05-19",
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "credit": null,
+        "debit": "14.00",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-05-19",
+        "location": " TIM HORTONS 0233 QTH MISSISSAUGA ",
+        "credit": null,
+        "debit": "8.16",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-19",
+        "location": " TIM HORTONS 2276 QTH MISSISSAUGA ",
+        "credit": null,
+        "debit": "3.96",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-20",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "4.15",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-20",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-05-21",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.11",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-05-22",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "9.68",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-05-22",
+        "location": " RETAIL INTEREST ",
+        "credit": null,
+        "debit": "22.86",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-10-26",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-10-27",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-10-27",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-10-27",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "300.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-10-28",
+        "location": " WORLD EDUCATION SERVIC ",
+        "credit": null,
+        "debit": "233.91",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-10-27",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "4.83",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-10-27",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "2.72",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-10-29",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "5.41",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-10-29",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "3.68",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-10-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-10-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-10-30",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.69",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-10-30",
+        "location": " YORK CINEMA RICHMOND ",
+        "credit": null,
+        "debit": "16.63",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2015-10-30",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-10-31",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "18.35",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-02",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-02",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "7.33",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-02",
+        "location": " WALMART PORTRAITS21000 MILTON ",
+        "credit": null,
+        "debit": "33.89",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-11-02",
+        "location": " SHOPPERS DRUG MART #710 MILTON ",
+        "credit": null,
+        "debit": "5.07",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-11-02",
+        "location": " POPEYE'S CHICKEN AND SEA NORTH ",
+        "credit": null,
+        "debit": "25.97",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-04",
+        "location": " CSC*US EMBASSY MRV FEE 703-889-2611 ",
+        "credit": null,
+        "debit": "215.95",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-11-02",
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "credit": null,
+        "debit": "26.69",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-11-04",
+        "location": " TIM HORTONS 3333 QPS TORONTO ",
+        "credit": null,
+        "debit": "3.51",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-05",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-05",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "1.67",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-09",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-09",
+        "location": " TIM HORTONS 1531 QTH MISSISSAUGA ",
+        "credit": null,
+        "debit": "5.49",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-09",
+        "location": " WENDY'S MISSISSAUGA ",
+        "credit": null,
+        "debit": "9.14",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-10",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-10",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-11-11",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2015-11-11",
+        "location": " STAPLES STORE #265 MILTON ",
+        "credit": null,
+        "debit": "8.35",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-11-11",
+        "location": " TORNADO VAPES MILTON ",
+        "credit": null,
+        "debit": "90.33",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-11-11",
+        "location": " MCDONALD'S #8237 Q04 NORTH YORK ",
+        "credit": null,
+        "debit": "17.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-12",
+        "location": " TIM HORTONS 3143 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-12",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "5.97",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-12",
+        "location": " AIR CANADA 0149665279136 WINNIPEG ",
+        "credit": null,
+        "debit": "287.32",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2015-11-13",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "3.40",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-13",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-11-14",
+        "location": " DUNDAS FRUITS & VEGETA ",
+        "credit": null,
+        "debit": "46.63",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-11-14",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "192.10",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-11-14",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "3.68",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-16",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "5.97",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-16",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-16",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "33.55",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-11-17",
+        "location": " SHOPPERS DRUG MART #710 MILTON ",
+        "credit": null,
+        "debit": "4.85",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-11-17",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-11-18",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-18",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "45.14",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-11-18",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "5.64",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-18",
+        "location": " WAL-MART SUPERCENTER#3055 ",
+        "credit": null,
+        "debit": "28.25",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-11-20",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-20",
+        "location": " TIM HORTONS 3021 QTH TORONTO ",
+        "credit": null,
+        "debit": "3.00",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-20",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "5.64",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-20",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "25.20",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-11-21",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "13.12",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "19.20",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "11.48",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-11-23",
+        "location": " RETAIL INTEREST ",
+        "credit": null,
+        "debit": "1.92",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-09-21",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-21",
+        "location": " THE HOME DEPOT #7241 MILTON ",
+        "credit": null,
+        "debit": "39.82",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-09-23",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-23",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-09-23",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-09-23",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-23",
+        "location": " ABERCROMBIE & FITC AMSTERDAM ",
+        "credit": null,
+        "debit": "250.81",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-09-23",
+        "location": " KOODO AIRTIME SCARBOROUGH ",
+        "credit": null,
+        "debit": "73.45",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-09-23",
+        "location": " MCDONALD'S #29102 QPS TORONTO ",
+        "credit": null,
+        "debit": "18.89",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-09-24",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-24",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-24",
+        "location": " BOURBON STREET GRILL TORONTO ",
+        "credit": null,
+        "debit": "11.22",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-24",
+        "location": " ABERCROMBIE AMSTERDAM ",
+        "credit": null,
+        "debit": "97.75",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-09-25",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "9.10",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-25",
+        "location": " SOUP NUTSY TORONTO ",
+        "credit": null,
+        "debit": "10.38",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-25",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "3.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-09-27",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "3.95",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-25",
+        "location": " AE COM WEB PURCH HOOFDOORP ",
+        "credit": null,
+        "debit": "127.69",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2015-09-28",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-28",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "3.44",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-09-29",
+        "location": " MILTON HALAL MEAT AND TAK MILTON ",
+        "credit": null,
+        "debit": "10.00",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-30",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-30",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-10-01",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "3.44",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-10-01",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "6.73",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-10-02",
+        "location": " BULK BARN #508 MILTON ",
+        "credit": null,
+        "debit": "85.09",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-10-02",
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "credit": null,
+        "debit": "103.71",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-10-04",
+        "location": " FLEMINGO DUTY FREE SHO CHENNAI ",
+        "credit": null,
+        "debit": "123.80",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-10-16",
+        "location": " KOODO MOBILE PAC EDMONTON ",
+        "credit": null,
+        "debit": "73.45",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-10-20",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "45.14",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-10-22",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "20.52",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-10-22",
+        "location": " RETAIL INTEREST ",
+        "credit": null,
+        "debit": "20.24",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-24",
+        "location": " THE BEER STORE #2020 MILTON ",
+        "credit": null,
+        "debit": "21.70",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-08-25",
+        "location": " IKEA NORTH YORK NORTH YORK ",
+        "credit": null,
+        "debit": "371.77",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-08-25",
+        "location": " IKEA VAUGHAN CONCORD -",
+        "credit": "224.87",
+        "debit": null,
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-08-24",
+        "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+        "credit": null,
+        "debit": "27.14",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2015-08-25",
+        "location": " U-HAUL MIZA BUSINESS S MILTON ",
+        "credit": null,
+        "debit": "62.21",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-08-26",
+        "location": " HUSKY MILTON HUSKY #42 MILTON ",
+        "credit": null,
+        "debit": "22.55",
+        "category": "GAS"
+    },
+    {
+        "date": "2015-08-26",
+        "location": " U-HAUL MIZA BUSINESS S MILTON ",
+        "credit": null,
+        "debit": "45.92",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2015-08-30",
+        "location": " BRUCE PENINSULA PARK TOBERMORY ",
+        "credit": null,
+        "debit": "11.70",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-08-30",
+        "location": " TIM HORTONS #1703 HEPWORTH ",
+        "credit": null,
+        "debit": "20.82",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-30",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "11.16",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-08-30",
+        "location": " TOBERMORY RESORT INN & ",
+        "credit": null,
+        "debit": "200.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-08-31",
+        "location": " FOODLAND 7185 TOBERMORY ",
+        "credit": null,
+        "debit": "31.97",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-08-31",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2015-08-31",
+        "location": " MNR SAUBLE FALLS PP POS WIARTON ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-08-31",
+        "location": " LCBO/RAO #0029 WIARTON ",
+        "credit": null,
+        "debit": "40.60",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-08-31",
+        "location": " SAUBLE PHARMACY 516036 SAUBLE ",
+        "credit": null,
+        "debit": "15.22",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-08-31",
+        "location": " RADICE LAKESIDE VILLAGE I SAUBLE ",
+        "credit": null,
+        "debit": "12.17",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-09-02",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "3.40",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-02",
+        "location": " SAMMY'S GOURMET TORONTO ",
+        "credit": null,
+        "debit": "8.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-03",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "5.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-03",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-03",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "22.36",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-09-03",
+        "location": " MSFT *XBOX LIVE MISSISSAUGA ",
+        "credit": null,
+        "debit": "67.79",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-09-04",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "4.04",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-06",
+        "location": " PATEL BROTHERS ETOBICOKE ",
+        "credit": null,
+        "debit": "92.06",
+        "category": "OTHER"
+    },
+    {
+        "date": "2015-09-06",
+        "location": " HAKKA NO.1 RESTAURANT NORTH ",
+        "credit": null,
+        "debit": "7.86",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-09",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "2.34",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-08",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-10",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-10",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-11",
+        "location": " RCSS MILTON #2810 MILTON ",
+        "credit": null,
+        "debit": "50.04",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2015-09-11",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "32.45",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-09-14",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-14",
+        "location": " THE BEER STORE #2376 TORONTO ",
+        "credit": null,
+        "debit": "22.75",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2015-09-16",
+        "location": " TIM HORTONS 2387 QTH TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-16",
+        "location": " WENDY'S MISSISSAUGA ",
+        "credit": null,
+        "debit": "13.98",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-09-14",
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "credit": null,
+        "debit": "25.62",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2015-09-16",
+        "location": " CALIFORNIA THAI RESTAURAN ",
+        "credit": null,
+        "debit": "8.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-16",
+        "location": " BURGER KING #16521 TORONTO ",
+        "credit": null,
+        "debit": "1.67",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-09-17",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "3.26",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-17",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "45.14",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2015-09-17",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "9.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2015-09-19",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "16.94",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2015-09-20",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "5.34",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-21",
+        "location": " TIM HORTONS 4768 QTH MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2015-09-21",
+        "location": " SUBWAY SANDWICHES AQPSND ",
+        "credit": null,
+        "debit": "9.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2015-09-22",
+        "location": " BALANCE PROTECTION (INCL TAX) ",
+        "credit": null,
+        "debit": "11.23",
+        "category": "CARD PAYMENT"
+    }
+]

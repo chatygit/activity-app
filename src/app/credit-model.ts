@@ -7,4 +7,6 @@ export interface CreditModel {
     debit?: number;
  
     credit?: number;
+
+    category?: string;
 }

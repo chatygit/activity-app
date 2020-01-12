@@ -1,0 +1,4685 @@
+[
+    {
+        "location": "JUNE",
+        "creditTotal": 333,
+        "debitTotal": 1257,
+        "purchaseList": [
+            {
+                "date": "2016-06-01",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "18.63",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-02",
+                "location": " TORONTO PARKING AUTHORITY ",
+                "credit": null,
+                "debit": "8.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-03",
+                "location": " RABBA 155 Q4R TORONTO ",
+                "credit": null,
+                "debit": "16.63",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-03",
+                "location": " ROYAL YORK HOTEL TORONTO ",
+                "credit": null,
+                "debit": "30.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-03",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.82",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-05",
+                "location": " PIZZA HUT MILTON ",
+                "credit": null,
+                "debit": "35.53",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-05",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "8.86",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-06-06",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "17.31",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-08",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "27.90",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-08",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "40.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-06-08",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "93.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-06-10",
+                "location": " INDIGO ONLINE BRAMPTON ",
+                "credit": null,
+                "debit": "181.37",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-11",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "16.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-11",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "10.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-06-12",
+                "location": " CINEPLEX 7285 QPS MILTON ",
+                "credit": null,
+                "debit": "22.50",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-06-12",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "23.70",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-13",
+                "location": " Spotify P00396C095 Stockholm ",
+                "credit": null,
+                "debit": "1.12",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-06-13",
+                "location": " VIRGIN MOBILE VERDUN ",
+                "credit": null,
+                "debit": "12.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-06-14",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "20.31",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-15",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "25.85",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-15",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-06-15",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "200.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-06-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "77.03",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-06-16",
+                "location": " SKYPE 4400000000 ",
+                "credit": null,
+                "debit": "25.62",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-06-17",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.25",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-17",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "16.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-17",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-06-17",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.91",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-06-19",
+                "location": " HERO CERTIFIED BURGERS MILTON ",
+                "credit": null,
+                "debit": "8.46",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-19",
+                "location": " ESSO 3514 WESTON ROAD NORTH YORK ",
+                "credit": null,
+                "debit": "9.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-06-19",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "3.93",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-06-20",
+                "location": " TEAM HONDA POWERHOUSE OF MILTON ",
+                "credit": null,
+                "debit": "150.32",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-21",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "18.62",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-22",
+                "location": " HERO CERTIFIED BURGERS MILTON ",
+                "credit": null,
+                "debit": "10.14",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-22",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "24.25",
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-06-23",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "25.96",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-06-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-06-25",
+                "location": " WEST 49 - 395 MILTON ",
+                "credit": null,
+                "debit": "129.86",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-06-25",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "51.42",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-06-28",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.33",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-06-28",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "22.58",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-06-28",
+                "location": " BASKIN ROBBINS #343088 MILTON ",
+                "credit": null,
+                "debit": "10.26",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-06-30",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": null,
+                "debit": "7.89",
+                "category": "COFFEE"
+            }
+        ]
+    },
+    {
+        "location": "JANUARY",
+        "creditTotal": 1000,
+        "debitTotal": 1763,
+        "purchaseList": [
+            {
+                "date": "2016-01-02",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "9.94",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-01-02",
+                "location": " SHOPPERS DRUG MART0710 MILTON ",
+                "credit": null,
+                "debit": "26.82",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-01-02",
+                "location": " AE COM WEB PURCH HOOFDOORP ",
+                "credit": null,
+                "debit": "101.91",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-01-04",
+                "location": " MCDONALD'S #40132 MILTON ",
+                "credit": null,
+                "debit": "3.28",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-01-06",
+                "location": " NEW THIARA SUPERMARKET MILTON ",
+                "credit": null,
+                "debit": "26.85",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-01-06",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": null,
+                "debit": "7.48",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-01-09",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": null,
+                "debit": "7.48",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-01-11",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "21.16",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-01-11",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "19.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-01-13",
+                "location": " PARAGON TESTING ENTERPRIS ",
+                "credit": null,
+                "debit": "299.45",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-01-15",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "10.16",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-01-16",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "110.54",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-01-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "119.30",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-01-17",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": null,
+                "debit": "95.67",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-01-18",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-01-19",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "45.14",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-01-19",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "68.79",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-01-22",
+                "location": " TIM HORTONS 1992 QTH TORONTO ",
+                "credit": null,
+                "debit": "3.70",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-01-23",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "20.87",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-01-23",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "81.12",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-01-25",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-01-25",
+                "location": " ABERCROMBIE AMSTERDAM ",
+                "credit": null,
+                "debit": "122.04",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-01-26",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "376.04",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-01-26",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "15.64",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-01-26",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "43.93",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-01-26",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "28.25",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-01-27",
+                "location": " SHOPPERS DRUG MART0710 MILTON ",
+                "credit": null,
+                "debit": "11.72",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-01-28",
+                "location": " PIZZA PIZZA LTD TORONTO ",
+                "credit": null,
+                "debit": "15.24",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-01-29",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "9.89",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-01-30",
+                "location": " KHAN BBQ KABAB HOUSE ",
+                "credit": null,
+                "debit": "53.05",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-01-30",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": null,
+                "debit": "8.50",
+                "category": "COFFEE"
+            }
+        ]
+    },
+    {
+        "location": "FEBRUARY",
+        "creditTotal": 1277,
+        "debitTotal": 1065,
+        "purchaseList": [
+            {
+                "date": "2016-02-01",
+                "location": " MARKETPLACE - METROCENTRE ",
+                "credit": null,
+                "debit": "7.85",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-02-01",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-02-01",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "8.26",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-02-01",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": null,
+                "debit": "1.70",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-03",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "15.81",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-04",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "266.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-02-04",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "21.12",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-02-06",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": null,
+                "debit": "2.01",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-06",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "11.50",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-02-06",
+                "location": " TIM HORTONS 1762 QTH CONCORD ",
+                "credit": null,
+                "debit": "3.11",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-06",
+                "location": " SOFRA ISTANBUL CONCORD ",
+                "credit": null,
+                "debit": "36.13",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-02-06",
+                "location": " MCDONALD'S #8849 Q04 TORONTO ",
+                "credit": null,
+                "debit": "6.64",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-06",
+                "location": " PETROCAN-3733 HWY 7 W WOODBRIDGE ",
+                "credit": null,
+                "debit": "15.42",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-02-07",
+                "location": " SECOND CUP 9575 WOODBRIDGE ",
+                "credit": null,
+                "debit": "4.69",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-08",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": null,
+                "debit": "2.94",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-08",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": null,
+                "debit": "3.06",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-08",
+                "location": " SAMMY'S GOURMET TORONTO ",
+                "credit": null,
+                "debit": "8.08",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-02-08",
+                "location": " FIRST CHOICE # 5081 MILTON ",
+                "credit": null,
+                "debit": "19.15",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-02-10",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "23.76",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-10",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "53.48",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-02-11",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "19.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-02-11",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": null,
+                "debit": "15.25",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-02-11",
+                "location": " NEW THIARA SUPERMARKET MILTON ",
+                "credit": null,
+                "debit": "32.53",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-02-13",
+                "location": " GO DAVARI BRAMPTON ",
+                "credit": null,
+                "debit": "55.85",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-02-13",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "208.15",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-02-13",
+                "location": " MCDONALD'S #8108 Q04 MISSISSAUGA ",
+                "credit": null,
+                "debit": "8.34",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-13",
+                "location": " PETROCAN-8980 GOREWAY DR ",
+                "credit": null,
+                "debit": "6.01",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-02-14",
+                "location": " YORK CINEMAS RICHMOND HIL ",
+                "credit": null,
+                "debit": "12.00",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-02-15",
+                "location": " TIM HORTONS 1712 QTH MISSISSAUGA ",
+                "credit": null,
+                "debit": "5.12",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-15",
+                "location": " MCDONALD'S #1320 QPS ETOBICOKE ",
+                "credit": null,
+                "debit": "11.73",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-16",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "57.62",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-02-17",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "45.14",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-02-19",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": null,
+                "debit": "25.50",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-02-19",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": null,
+                "debit": "13.93",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-20",
+                "location": " CINEPLEX ENTERTAINMENT 416-323-6600 ",
+                "credit": null,
+                "debit": "26.99",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-02-20",
+                "location": " MCDONALD'S #16637 Q04 NORTH YORK ",
+                "credit": null,
+                "debit": "8.88",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-21",
+                "location": " TIM HORTONS 1190 QTH NORTH YORK ",
+                "credit": null,
+                "debit": "7.29",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-02-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 -",
+                "credit": "11.01",
+                "debit": null,
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-02-25",
+                "location": " PIZZA PIZZA LTD TORONTO ",
+                "credit": null,
+                "debit": "19.76",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-02-25",
+                "location": " ABERCROMBIE AMSTERDAM ",
+                "credit": null,
+                "debit": "92.03",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-02-26",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "19.78",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-02-27",
+                "location": " TIM HORTONS 1531 QTH MISSISSAUGA ",
+                "credit": null,
+                "debit": "3.20",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-02-27",
+                "location": " HAKKA NO.1 RESTAURANT NORTH ",
+                "credit": null,
+                "debit": "40.11",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-02-28",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": null,
+                "debit": "70.88",
+                "category": "GROCERY"
+            }
+        ]
+    },
+    {
+        "location": "AUGUST",
+        "creditTotal": 1400,
+        "debitTotal": 1807,
+        "purchaseList": [
+            {
+                "date": "2016-08-01",
+                "location": " GEORGE'S FUEL & AUTO SUNNYVALE ",
+                "credit": null,
+                "debit": "1.81",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-02",
+                "location": " SQ *GURINDER SINGH Sunnyvale ",
+                "credit": null,
+                "debit": "48.37",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-02",
+                "location": " HUDSONNEWS ST889 SAN JOSE ",
+                "credit": null,
+                "debit": "6.13",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-02",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "300.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-08-03",
+                "location": " LAX OSTERIA LOS ANGELES ",
+                "credit": null,
+                "debit": "3.95",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-03",
+                "location": " LAX OSTERIA LOS ANGELES ",
+                "credit": null,
+                "debit": "36.38",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-03",
+                "location": " DOMINO'S 5032 NEW PORT RIC ",
+                "credit": null,
+                "debit": "5.48",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-07",
+                "location": " STARBUCKS E71 10191617 TAMPA ",
+                "credit": null,
+                "debit": "9.69",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-08-08",
+                "location": " SPORTS CHECK #288 MILTON ",
+                "credit": null,
+                "debit": "439.15",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-08",
+                "location": " MCDONALD'S #4397 MILTON ",
+                "credit": null,
+                "debit": "44.69",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-09",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "62.14",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-10",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "1.55",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-10",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "5.51",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-10",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "3.90",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-10",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "9.95",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-11",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "600.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-08-12",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "10.35",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-12",
+                "location": " THE BEER STORE #2006 BRAMPTON ",
+                "credit": null,
+                "debit": "61.00",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-08-12",
+                "location": " MCDONALD'S #4397 MILTON ",
+                "credit": null,
+                "debit": "9.14",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-13",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "18.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-13",
+                "location": " TIM HORTONS 1190 QTH NORTH YORK ",
+                "credit": null,
+                "debit": "11.13",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-08-13",
+                "location": " PETROCAN-5000 STEELES AVE ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-08-14",
+                "location": " MOTOGP VIDEOPASS 34917820229 ",
+                "credit": null,
+                "debit": "74.38",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-08-14",
+                "location": " KFC/TACO BELL MILTON ",
+                "credit": null,
+                "debit": "23.64",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-14",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "8.54",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-15",
+                "location": " PIZZA NOVA 085 MILTON ",
+                "credit": null,
+                "debit": "5.07",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-15",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "5.87",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "19.63",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-15",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-08-15",
+                "location": " MUCHO BURRITO MILTON ",
+                "credit": null,
+                "debit": "30.42",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-15",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-08-16",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "18.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "161.03",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-08-16",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "26.91",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-17",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-08-17",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "24.28",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-18",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "19.32",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-18",
+                "location": " MR SUB MILTON ",
+                "credit": null,
+                "debit": "10.39",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-08-19",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "62.14",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-19",
+                "location": " FOODLAND 6737 MADOC ",
+                "credit": null,
+                "debit": "20.70",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-19",
+                "location": " SHOPPERSDRUGMART0601 BELLEVILLE ",
+                "credit": null,
+                "debit": "35.76",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-08-19",
+                "location": " LCBO/RAO #0057 BELLEVILLE ",
+                "credit": null,
+                "debit": "40.15",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-08-19",
+                "location": " WENDY'S 6453 Q1R MILTON ",
+                "credit": null,
+                "debit": "10.03",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-08-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-08-25",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "158.19",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-27",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "11.62",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-27",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "8.45",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-28",
+                "location": " BIG BEAR CONVENIENCE MILTON ",
+                "credit": null,
+                "debit": "5.40",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-08-28",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "8.54",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-29",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "55.86",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-08-29",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "16.35",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-30",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "8.23",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-08-31",
+                "location": " GOOGLE *Niantic Inc g.co/payhelp ",
+                "credit": null,
+                "debit": "27.99",
+                "category": "BIG ONLINE"
+            }
+        ]
+    },
+    {
+        "location": "OCTOBER",
+        "creditTotal": 1500,
+        "debitTotal": 1711,
+        "purchaseList": [
+            {
+                "date": "2016-10-01",
+                "location": " ESH*ESH*MOBILE PROTECT 855-562-1955 ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-10-03",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "2.40",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-10-04",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "13.94",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-10-05",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": null,
+                "debit": "28.20",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-10-06",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "3.86",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-10-06",
+                "location": " KOODO AIRTIME SCARBOROUGH ",
+                "credit": null,
+                "debit": "130.02",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-10-07",
+                "location": " CENTRA FOOD MARKET NORTH YORK ",
+                "credit": null,
+                "debit": "66.20",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-10-07",
+                "location": " LCBO/RAO #0408 TORONTO ",
+                "credit": null,
+                "debit": "124.45",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-10-08",
+                "location": " SECOND CUP 9433 MISSISSAUGA ",
+                "credit": null,
+                "debit": "6.45",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-10-08",
+                "location": " JIMMY THE GREEK MISSISSAUGA ",
+                "credit": null,
+                "debit": "25.23",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-10-08",
+                "location": " BIG BEAR CONVENIENCE MILTON ",
+                "credit": null,
+                "debit": "4.85",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-10-08",
+                "location": " ZARA SQUARE ONE #9277 MISSISSAUGA ",
+                "credit": null,
+                "debit": "67.58",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-10-09",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "24.33",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-10-11",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "9.47",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-10-12",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "21.31",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-10-12",
+                "location": " VIRGIN MOBILE VERDUN ",
+                "credit": null,
+                "debit": "149.92",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-10-14",
+                "location": " WWW.ALIBABA.COM LONDON ",
+                "credit": null,
+                "debit": "327.40",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-10-14",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-10-16",
+                "location": " WALMART.CA MISSISSAUGA ",
+                "credit": null,
+                "debit": "54.31",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-17",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "1.70",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-10-18",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-10-18",
+                "location": " PETROCAN-235 STEELES AVE MILTON ",
+                "credit": null,
+                "debit": "14.30",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-10-19",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-10-20",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "18.44",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "4.22",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "4.22",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "1.69",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "4.22",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "10.08",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "3.73",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " TIM HORTONS #4768 MILTON ",
+                "credit": null,
+                "debit": "3.20",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-10-21",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "8.23",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-10-22",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "24.86",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-10-22",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "18.62",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-10-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-10-25",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "14.75",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-25",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "12.17",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-10-25",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "8.23",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-10-26",
+                "location": " CGI OTTAWA ",
+                "credit": null,
+                "debit": "13.80",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-10-26",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "21.76",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-10-26",
+                "location": " CORPORATIONS CANADA OTTAWA ",
+                "credit": null,
+                "debit": "200.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-10-28",
+                "location": " CINEPLEX 8030 WEB QPS 416-323-6600 ",
+                "credit": null,
+                "debit": "23.98",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-10-28",
+                "location": " WIKIMEDIA SAN FRANCISC ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-10-29",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "18.76",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-10-30",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "21.26",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-10-31",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-10-31",
+                "location": " BULK BARN #508 MILTON ",
+                "credit": null,
+                "debit": "54.55",
+                "category": "NOT SO BIG FOOD"
+            }
+        ]
+    },
+    {
+        "location": "APRIL",
+        "creditTotal": 2337,
+        "debitTotal": 3796,
+        "purchaseList": [
+            {
+                "date": "2016-04-01",
+                "location": " CINEPLEX 7122 MISSISSAUGA ",
+                "credit": null,
+                "debit": "25.98",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-04-01",
+                "location": " THE BEER STORE #2006 BRAMPTON ",
+                "credit": null,
+                "debit": "13.55",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-04-04",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "16.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-04-04",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "18.63",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-04-05",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "16.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-04-08",
+                "location": " SWISS CHALET 1728 MILTON ",
+                "credit": null,
+                "debit": "20.79",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-04-08",
+                "location": " THE BEER STORE #2362 ETOBICOKE ",
+                "credit": null,
+                "debit": "14.25",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-04-09",
+                "location": " Uber BV help.uber.co ",
+                "credit": null,
+                "debit": "24.03",
+                "category": "TRANSIT"
+            },
+            {
+                "date": "2016-04-09",
+                "location": " TIM HORTONS 1992 QTH TORONTO ",
+                "credit": null,
+                "debit": "8.94",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-04-09",
+                "location": " TIM HORTONS 1992 QTH TORONTO ",
+                "credit": null,
+                "debit": "3.28",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-04-09",
+                "location": " TIM HORTONS 1992 QTH TORONTO ",
+                "credit": null,
+                "debit": "1.75",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-04-09",
+                "location": " MTO DRIVETEST N61 TORONTO ",
+                "credit": null,
+                "debit": "23.65",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-10",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "43.38",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-04-11",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "800.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-04-11",
+                "location": " CANADAS MOTORCYCLE 8775267415 ",
+                "credit": null,
+                "debit": "545.67",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-13",
+                "location": " HASTY MARKET #375 MILTON ",
+                "credit": null,
+                "debit": "19.30",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-14",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "125.94",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-04-15",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "14.76",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-04-15",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": null,
+                "debit": "6.56",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-04-15",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "19.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-04-15",
+                "location": " PRESTO TORONTO ",
+                "credit": null,
+                "debit": "100.00",
+                "category": "TRANSIT"
+            },
+            {
+                "date": "2016-04-15",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": null,
+                "debit": "14.25",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-04-16",
+                "location": " CYCLEWORLD SUPERSTORE TORONTO ",
+                "credit": null,
+                "debit": "552.56",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-16",
+                "location": " DOMINOS PIZZA #10493 ETOBICOKE ",
+                "credit": null,
+                "debit": "13.55",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-04-16",
+                "location": " FAMOUS PLAYER 7408QPS VAUGHAN ",
+                "credit": null,
+                "debit": "20.50",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-04-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "70.06",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-04-16",
+                "location": " LENSCRAFTERS 1904 CONCORD ",
+                "credit": null,
+                "debit": "293.09",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-04-16",
+                "location": " ZARA SCARBOROUGH #9249 ",
+                "credit": null,
+                "debit": "191.44",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-04-17",
+                "location": " TIM HORTONS 1190 QTH NORTH YORK ",
+                "credit": null,
+                "debit": "3.21",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-04-17",
+                "location": " SHELL 6985 HURONTARIO ST ",
+                "credit": null,
+                "debit": "6.78",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-04-18",
+                "location": " PHARMA PLUS DRUGMARTS LTD ",
+                "credit": null,
+                "debit": "11.63",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-04-18",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-04-18",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": null,
+                "debit": "8.69",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-04-19",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-04-19",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "19.78",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-04-20",
+                "location": " GINO'S PIZZA MILTON ",
+                "credit": null,
+                "debit": "22.60",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-04-21",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "60.50",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-04-22",
+                "location": " ANNUAL FEE ",
+                "credit": null,
+                "debit": "120.00",
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-04-22",
+                "location": " CANADAS MOTORCYCLE 8775267415 -",
+                "credit": "537.76",
+                "debit": null,
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-23",
+                "location": " ULTRAMAR #32800 TORONTO ",
+                "credit": null,
+                "debit": "12.98",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-23",
+                "location": " ULTRAMAR #32800 TORONTO ",
+                "credit": null,
+                "debit": "3.60",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-23",
+                "location": " THE BEER STORE #2362 ETOBICOKE ",
+                "credit": null,
+                "debit": "13.25",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-04-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-04-24",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "21.57",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-04-24",
+                "location": " KFC/TACO BELL WOODBRIDGE ",
+                "credit": null,
+                "debit": "8.09",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-04-29",
+                "location": " WINNERS 394 MILTON ",
+                "credit": null,
+                "debit": "24.15",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-29",
+                "location": " STAPLES STORE #265 MILTON ",
+                "credit": null,
+                "debit": "48.49",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-04-29",
+                "location": " TEAM HONDA POWERHOUSE OF MILTON ",
+                "credit": null,
+                "debit": "1000.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-04-29",
+                "location": " SHOPPERS DRUG MART #710 MILTON ",
+                "credit": null,
+                "debit": "26.14",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-04-29",
+                "location": " THE BEER STORE #2020 MILTON ",
+                "credit": null,
+                "debit": "8.50",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-04-29",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": null,
+                "debit": "64.18",
+                "category": "GROCERY"
+            }
+        ]
+    },
+    {
+        "location": "JULY",
+        "creditTotal": 2435,
+        "debitTotal": 2340,
+        "purchaseList": [
+            {
+                "date": "2016-07-01",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "17.89",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-01",
+                "location": " SUNNY FOODMART ETOBICOKE ",
+                "credit": null,
+                "debit": "4.16",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-07-02",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": null,
+                "debit": "26.30",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-07-02",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "22.00",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-07-03",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "6.73",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-07-03",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "4.98",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-07-04",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "100.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-07-06",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "18.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-07",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.03",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-07",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "9.54",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-07-08",
+                "location": " PIZZAVILLE #92B MILTON ",
+                "credit": null,
+                "debit": "29.36",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-08",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "25.19",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-07-09",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": null,
+                "debit": "4.98",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-07-09",
+                "location": " FLIGHT HUB CORNWALL ",
+                "credit": null,
+                "debit": "12.95",
+                "category": "TRAVEL"
+            },
+            {
+                "date": "2016-07-09",
+                "location": " DELTA AIR 0062350198279 VANCOUVER ",
+                "credit": null,
+                "debit": "284.81",
+                "category": "TRAVEL"
+            },
+            {
+                "date": "2016-07-09",
+                "location": " LCBO/RAO #0408 TORONTO ",
+                "credit": null,
+                "debit": "13.25",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-07-09",
+                "location": " DELTA AIR 0062235756746 MONTREAL ",
+                "credit": null,
+                "debit": "319.53",
+                "category": "TRAVEL"
+            },
+            {
+                "date": "2016-07-09",
+                "location": " AIR CANADA 0142164729289 ",
+                "credit": null,
+                "debit": "70.70",
+                "category": "TRAVEL"
+            },
+            {
+                "date": "2016-07-10",
+                "location": " HERO CERTIFIED BURGERS MILTON ",
+                "credit": null,
+                "debit": "3.14",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-07-10",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.25",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-07-11",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "43.32",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-12",
+                "location": " PIZZA NOVA 085 MILTON ",
+                "credit": null,
+                "debit": "19.50",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-12",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "335.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-07-12",
+                "location": " ABERCROMBIE AND FITCH ",
+                "credit": null,
+                "debit": "168.48",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-07-15",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "4.00",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-15",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-07-15",
+                "location": " SHOPPERS DRUG MART0710 MILTON ",
+                "credit": null,
+                "debit": "13.98",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-07-15",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "8.45",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-07-15",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1200.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-07-15",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "46.74",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "75.71",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-07-17",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "25.21",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-07-17",
+                "location": " TIM HORTONS #6217 ETOBICOKE ",
+                "credit": null,
+                "debit": "6.31",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-07-18",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "15.81",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-18",
+                "location": " TIM HORTONS 4768 QTH MILTON ",
+                "credit": null,
+                "debit": "3.80",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-07-19",
+                "location": " PIZZA NOVA 085 MILTON ",
+                "credit": null,
+                "debit": "5.85",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-19",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "31.63",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-20",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-07-20",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "28.30",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-07-21",
+                "location": " PIZZA NOVA 085 MILTON ",
+                "credit": null,
+                "debit": "14.76",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-21",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "31.63",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-21",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "300.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-07-23",
+                "location": " PIZZA NOVA 085 MILTON ",
+                "credit": null,
+                "debit": "5.85",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-07-23",
+                "location": " KARAIKUDI CHETTINAD RESTA ",
+                "credit": null,
+                "debit": "106.62",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-07-23",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-07-23",
+                "location": " KEN SHAW MOTORS LIMITED TORONTO ",
+                "credit": null,
+                "debit": "472.41",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-07-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-07-24",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "31.63",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-25",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "1.89",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-07-27",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-07-28",
+                "location": " METEOR 3308 - T1 MISSISSAUGA ",
+                "credit": null,
+                "debit": "14.31",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-07-28",
+                "location": " SQ *GABRIELBIYADGILIGN@GM San Jose ",
+                "credit": null,
+                "debit": "53.57",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-07-28",
+                "location": " LOS ANGELES AIRPORT LOS ANGELES ",
+                "credit": null,
+                "debit": "10.23",
+                "category": "TRAVEL"
+            },
+            {
+                "date": "2016-07-29",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-07-30",
+                "location": " MOTOGP VIDEOPASS INTERNET ",
+                "credit": null,
+                "debit": "1.49",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-07-31",
+                "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+                "credit": null,
+                "debit": "62.14",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-07-31",
+                "location": " GEORGE'S FUEL & AUTO SUNNYVALE ",
+                "credit": null,
+                "debit": "5.41",
+                "category": "OTHER"
+            }
+        ]
+    },
+    {
+        "location": "MARCH",
+        "creditTotal": 2500,
+        "debitTotal": 1845,
+        "purchaseList": [
+            {
+                "date": "2016-03-04",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "11.50",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-04",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": null,
+                "debit": "12.95",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-03-05",
+                "location": " POPEYES CHICKEN AND SEAFO ",
+                "credit": null,
+                "debit": "15.80",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-05",
+                "location": " TIM HORTONS 1021 QTH TORONTO ",
+                "credit": null,
+                "debit": "5.90",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-03-05",
+                "location": " MCDONALD'S #29102 QPS TORONTO ",
+                "credit": null,
+                "debit": "2.53",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-03-05",
+                "location": " ESSO 4000 JANE STREET NORTH YORK ",
+                "credit": null,
+                "debit": "8.97",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-03-06",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "7.33",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-08",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "59.65",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-03-12",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "21.16",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-03-12",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "31.28",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-12",
+                "location": " LCBO/RAO #631 MILTON ",
+                "credit": null,
+                "debit": "28.30",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-03-14",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-03-14",
+                "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+                "credit": null,
+                "debit": "25.62",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-03-15",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "59.28",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-03-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "71.19",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-03-17",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "37.05",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-03-17",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "45.14",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-03-18",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "21.26",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-03-19",
+                "location": " FOOD BASICS #882 MILTON ",
+                "credit": null,
+                "debit": "16.90",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-19",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "13.19",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-19",
+                "location": " BOOSTER JUICE - MILTON MILTON ",
+                "credit": null,
+                "debit": "13.45",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-23",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "26.54",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-03-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-03-24",
+                "location": " LCBO/RAO #0362 ETOBICOKE ",
+                "credit": null,
+                "debit": "5.75",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-03-24",
+                "location": " Uber BV help.uber.co ",
+                "credit": null,
+                "debit": "15.59",
+                "category": "TRANSIT"
+            },
+            {
+                "date": "2016-03-24",
+                "location": " ALBION DIGITAL PHOTO CENT ",
+                "credit": null,
+                "debit": "16.95",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-03-25",
+                "location": " CITIZEN&IMM-EAPPS ENLIGNE OTTAWA ",
+                "credit": null,
+                "debit": "1040.00",
+                "category": "CIC ONLINE"
+            },
+            {
+                "date": "2016-03-25",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": null,
+                "debit": "8.45",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-03-26",
+                "location": " KHAN BBQ KABAB HOUSE ",
+                "credit": null,
+                "debit": "21.45",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-26",
+                "location": " THE BEER STORE #2376 TORONTO ",
+                "credit": null,
+                "debit": "14.25",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-03-26",
+                "location": " PETROCAN-830 BURNHAMTHORP ",
+                "credit": null,
+                "debit": "3.34",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-03-26",
+                "location": " WAL-MART SUPERCENTER#1139 ",
+                "credit": null,
+                "debit": "24.27",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-03-27",
+                "location": " GO DAVARI BRAMPTON ",
+                "credit": null,
+                "debit": "36.16",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-03-27",
+                "location": " MUCHO BURRITO MILTON ",
+                "credit": null,
+                "debit": "11.25",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-03-28",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-03-28",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "69.51",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-03-30",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "20.20",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-03-31",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": null,
+                "debit": "8.25",
+                "category": "GROCERY"
+            }
+        ]
+    },
+    {
+        "location": "SEPTEMBER",
+        "creditTotal": 2600,
+        "debitTotal": 1687,
+        "purchaseList": [
+            {
+                "date": "2016-09-01",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "9.14",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "8.45",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "35.30",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "4.19",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "62.44",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-02",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "11.27",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-02",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "16.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-02",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-04",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "1.50",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-04",
+                "location": " GOOGLE *BLIZZARD ENT g.co/payhelp ",
+                "credit": null,
+                "debit": "49.99",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-05",
+                "location": " SUBWAY 19899 NIAGARA FALL ",
+                "credit": null,
+                "debit": "15.49",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-05",
+                "location": " SKYLON FOOD SERVICE NIAGARA FALL ",
+                "credit": null,
+                "debit": "23.04",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-05",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": null,
+                "debit": "1.50",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "2.09",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "600.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "25.12",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "11.62",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-07",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "12.41",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-08",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "8.10",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-08",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "17.19",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " Amazon.ca Prime Member amazon.ca/pr ",
+                "credit": null,
+                "debit": "89.27",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "13.50",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " GOOGLE *BLIZZARD ENT g.co/payhelp ",
+                "credit": null,
+                "debit": "49.99",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-10",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "11.62",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "28.02",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": null,
+                "debit": "9.41",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " PETROCAN-2821 WESTON RD NORTH ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "2.59",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-12",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "2.09",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-12",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " PIZZA NOVA 085 MILTON ",
+                "credit": null,
+                "debit": "5.97",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " ROGERS *722756194 888-764-3771 ",
+                "credit": null,
+                "debit": "200.00",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " Spotify P00B331498 Stockholm ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "16.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-14",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "9.03",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "9.03",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "24.40",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " TIM HORTONS #4768 MILTON ",
+                "credit": null,
+                "debit": "9.33",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " WINGS UP- MILTON MILTON ",
+                "credit": null,
+                "debit": "22.01",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " COCA COLA BRAMPTON ON BRAMPTON ",
+                "credit": null,
+                "debit": "5.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " COCA COLA BRAMPTON ON BRAMPTON ",
+                "credit": null,
+                "debit": "2.50",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "46.67",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "9.63",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "68.71",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "7.33",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-17",
+                "location": " Skype Luxembourg ",
+                "credit": null,
+                "debit": "25.62",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-19",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "13.94",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "7.09",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": null,
+                "debit": "1.75",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " TIM HORTONS 4882 QTH MILTON ",
+                "credit": null,
+                "debit": "2.40",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-22",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "1.50",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-22",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "23.70",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-22",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "28.34",
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-09-23",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "8.23",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-24",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.66",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-24",
+                "location": " PIZZA NOVA 069 TORONTO ",
+                "credit": null,
+                "debit": "9.25",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-24",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-25",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-09-27",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.00",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-27",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "13.94",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-28",
+                "location": " SHOPPERS DRUG MART #710 MILTON ",
+                "credit": null,
+                "debit": "30.05",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-09-28",
+                "location": " MILTON PHOTOGRAPHIC MILTON ",
+                "credit": null,
+                "debit": "33.89",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-29",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "16.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-29",
+                "location": " CULTURE RISING MILTON MILTON ",
+                "credit": null,
+                "debit": "53.11",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-29",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "17.60",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "20.08",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " ESH*ESH*MOBILE PROTEC 855-562-1955 ",
+                "credit": null,
+                "debit": "0.37",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " GLENTELWIRELESSWAVE MILTON ",
+                "credit": null,
+                "debit": "100.56",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "107.99",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            }
+        ]
+    },
+    {
+        "location": "2016",
+        "creditTotal": 2600,
+        "debitTotal": 1687,
+        "purchaseList": [
+            {
+                "date": "2016-09-01",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "9.14",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "8.45",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "35.30",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "4.19",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-01",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "62.44",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-02",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "11.27",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-02",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "16.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-02",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-04",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "1.50",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-04",
+                "location": " GOOGLE *BLIZZARD ENT g.co/payhelp ",
+                "credit": null,
+                "debit": "49.99",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-05",
+                "location": " SUBWAY 19899 NIAGARA FALL ",
+                "credit": null,
+                "debit": "15.49",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-05",
+                "location": " SKYLON FOOD SERVICE NIAGARA FALL ",
+                "credit": null,
+                "debit": "23.04",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-05",
+                "location": " TIM HORTONS 3120 QTH MILTON ",
+                "credit": null,
+                "debit": "1.50",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "2.09",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "600.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "25.12",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-06",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "11.62",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-07",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "12.41",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-08",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "8.10",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-08",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "17.19",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " Amazon.ca Prime Member amazon.ca/pr ",
+                "credit": null,
+                "debit": "89.27",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "13.50",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " GOOGLE *BLIZZARD ENT g.co/payhelp ",
+                "credit": null,
+                "debit": "49.99",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-09",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-10",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "11.62",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "28.02",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+                "credit": null,
+                "debit": "9.41",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " PETROCAN-2821 WESTON RD NORTH ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-11",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "2.59",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-12",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "2.09",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-12",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " PIZZA NOVA 085 MILTON ",
+                "credit": null,
+                "debit": "5.97",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " ROGERS *722756194 888-764-3771 ",
+                "credit": null,
+                "debit": "200.00",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " Spotify P00B331498 Stockholm ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-09-13",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "16.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-14",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "9.03",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "9.03",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "24.40",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " TIM HORTONS #4768 MILTON ",
+                "credit": null,
+                "debit": "9.33",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " WINGS UP- MILTON MILTON ",
+                "credit": null,
+                "debit": "22.01",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " COCA COLA BRAMPTON ON BRAMPTON ",
+                "credit": null,
+                "debit": "5.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-15",
+                "location": " COCA COLA BRAMPTON ON BRAMPTON ",
+                "credit": null,
+                "debit": "2.50",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "46.67",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "9.63",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "68.71",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-09-16",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "7.33",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-17",
+                "location": " Skype Luxembourg ",
+                "credit": null,
+                "debit": "25.62",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-09-19",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "13.94",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "7.09",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": null,
+                "debit": "1.75",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-21",
+                "location": " TIM HORTONS 4882 QTH MILTON ",
+                "credit": null,
+                "debit": "2.40",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-22",
+                "location": " TIM HORTONS 2068 QTH MILTON ",
+                "credit": null,
+                "debit": "1.50",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-09-22",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "23.70",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-22",
+                "location": " RETAIL INTEREST ",
+                "credit": null,
+                "debit": "28.34",
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-09-23",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "8.23",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-24",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.66",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-24",
+                "location": " PIZZA NOVA 069 TORONTO ",
+                "credit": null,
+                "debit": "9.25",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-24",
+                "location": " ESSO 1515 MAIN ST E MILTON ",
+                "credit": null,
+                "debit": "7.00",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-09-25",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-09-27",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "22.00",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-27",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "13.94",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-28",
+                "location": " SHOPPERS DRUG MART #710 MILTON ",
+                "credit": null,
+                "debit": "30.05",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-09-28",
+                "location": " MILTON PHOTOGRAPHIC MILTON ",
+                "credit": null,
+                "debit": "33.89",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-29",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "16.39",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-29",
+                "location": " CULTURE RISING MILTON MILTON ",
+                "credit": null,
+                "debit": "53.11",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-29",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "17.60",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "20.08",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " ESH*ESH*MOBILE PROTEC 855-562-1955 ",
+                "credit": null,
+                "debit": "0.37",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " GLENTELWIRELESSWAVE MILTON ",
+                "credit": null,
+                "debit": "100.56",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "107.99",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-09-30",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            }
+        ]
+    },
+    {
+        "location": "NOVEMBER",
+        "creditTotal": 3500,
+        "debitTotal": 3270,
+        "purchaseList": [
+            {
+                "date": "2016-11-01",
+                "location": " ESH*ESH*MOBILE PROTECT 855-562-1955 ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-11-01",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-11-02",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "22.59",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-11-03",
+                "location": " WINGS UP- MILTON MILTON ",
+                "credit": null,
+                "debit": "32.74",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-11-04",
+                "location": " PITA & GRILL MILTON ",
+                "credit": null,
+                "debit": "22.58",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-11-05",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "14.29",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-05",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "20.11",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-11-08",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "21.81",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-11-08",
+                "location": " WWW.ALIBABA.COM LONDON ",
+                "credit": null,
+                "debit": "705.64",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-11-09",
+                "location": " VIRGIN MOBILE VERDUN ",
+                "credit": null,
+                "debit": "52.57",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-11-11",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "42.52",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-11",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-11",
+                "location": " WAL-MART SUPERCENTER#1000 MILTON ",
+                "credit": null,
+                "debit": "164.38",
+                "category": "GROCERY"
+            },
+            {
+                "date": "2016-11-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "8.90",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "33.87",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-15",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-11-15",
+                "location": " MOTOGP VIDEOPASS 34917820229 ",
+                "credit": null,
+                "debit": "149.82",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-11-15",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-11-15",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "24.43",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-11-16",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-11-17",
+                "location": " TIM HORTONS #4768 MILTON ",
+                "credit": null,
+                "debit": "1.70",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-11-17",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": null,
+                "debit": "9.03",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "3.38",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "3.34",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "1.91",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "8.49",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "25.72",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "3.63",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " UBER CA NOV18 GW2V6 HELP. ",
+                "credit": null,
+                "debit": "27.63",
+                "category": "TRANSIT"
+            },
+            {
+                "date": "2016-11-18",
+                "location": " FLIGHT HUB CORNWALL ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TRAVEL"
+            },
+            {
+                "date": "2016-11-19",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "4.31",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-11-19",
+                "location": " HMSHOST AMSTERDAM SCHIPHO ",
+                "credit": null,
+                "debit": "5.09",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-11-19",
+                "location": " HMSHOST AMSTERDAM SCHIPHO ",
+                "credit": null,
+                "debit": "3.76",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-11-21",
+                "location": " JET AIR 5891098662289 TORONTO ",
+                "credit": null,
+                "debit": "1674.32",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-11-21",
+                "location": " JET AIR 5892611512402 TORONTO ",
+                "credit": null,
+                "debit": "9.92",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-11-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-11-25",
+                "location": " PAYPAL *CELLUNLOCKE 4029357733 ",
+                "credit": null,
+                "debit": "20.80",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-11-30",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "2000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            }
+        ]
+    },
+    {
+        "location": "DECEMBER",
+        "creditTotal": 3501,
+        "debitTotal": 3130,
+        "purchaseList": [
+            {
+                "date": "2016-12-01",
+                "location": " ESH*ESH*MOBILE PROTECT 855-562-1955 ",
+                "credit": null,
+                "debit": "11.29",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-02",
+                "location": " VIRGIN MOBILE VERDUN ",
+                "credit": null,
+                "debit": "241.59",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-12-09",
+                "location": " VIRGIN MOBILE VERDUN ",
+                "credit": null,
+                "debit": "238.59",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-12-10",
+                "location": " HMSHOST AMSTERDAM SCHIPHO ",
+                "credit": null,
+                "debit": "4.96",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-10",
+                "location": " HMSHOST AMSTERDAM SCHIPHO ",
+                "credit": null,
+                "debit": "11.43",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-11",
+                "location": " AEO CANADA CORPORATION ",
+                "credit": null,
+                "debit": "45.97",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-11",
+                "location": " ZARA SQUARE ONE #9277 MISSISSAUGA ",
+                "credit": null,
+                "debit": "101.48",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-12-11",
+                "location": " HUDSON'S BAY #1518 MISSISSAUGA ",
+                "credit": null,
+                "debit": "197.73",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-12",
+                "location": " PRESTO TORONTO ",
+                "credit": null,
+                "debit": "100.00",
+                "category": "TRANSIT"
+            },
+            {
+                "date": "2016-12-12",
+                "location": " VILLA MADINA TORONTO ",
+                "credit": null,
+                "debit": "12.85",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-12",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "900.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-12-13",
+                "location": " VILLA MADINA TORONTO ",
+                "credit": null,
+                "debit": "10.60",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-13",
+                "location": " MCDONALD'S #40568 TORONTO ",
+                "credit": null,
+                "debit": "4.84",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-12-14",
+                "location": " SZECHUAN EXPRESS TORONTO ",
+                "credit": null,
+                "debit": "12.41",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-14",
+                "location": " STUBHUB, INC. 8667882482 ",
+                "credit": null,
+                "debit": "477.49",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-15",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-12-15",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "26.56",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-15",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-12-15",
+                "location": " VILLA MADINA TORONTO ",
+                "credit": null,
+                "debit": "12.85",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-15",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1000.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-12-15",
+                "location": " INS MARKET TORONTO ",
+                "credit": null,
+                "debit": "4.74",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-16",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": null,
+                "debit": "1.90",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-12-16",
+                "location": " FAMOUS PLAYER 7402QPS TORONTO ",
+                "credit": null,
+                "debit": "12.52",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-12-16",
+                "location": " BENCH #199 MONT-ROYAL ",
+                "credit": null,
+                "debit": "211.85",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-12-17",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "18.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-12-17",
+                "location": " TROY'S DINER INC MILTON ",
+                "credit": null,
+                "debit": "56.41",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "4.26",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "2.14",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "3.15",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "2.15",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-18",
+                "location": " THE BEER STORE #2020 MILTON ",
+                "credit": null,
+                "debit": "13.25",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-12-18",
+                "location": " MR SOUVLAKI FRONT ST TORONTO ",
+                "credit": null,
+                "debit": "10.03",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-19",
+                "location": " VILLA MADINA TORONTO ",
+                "credit": null,
+                "debit": "10.60",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-20",
+                "location": " Spotify P0152D6421 Stockholm ",
+                "credit": null,
+                "debit": "9.99",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-12-20",
+                "location": " PRESTO TORONTO ",
+                "credit": null,
+                "debit": "300.00",
+                "category": "TRANSIT"
+            },
+            {
+                "date": "2016-12-20",
+                "location": " INS MARKET TORONTO ",
+                "credit": null,
+                "debit": "3.38",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-20",
+                "location": " FRESHWEST GRILL WP TORONTO ",
+                "credit": null,
+                "debit": "10.85",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-21",
+                "location": " KUPFERT & KIM TORONTO ",
+                "credit": null,
+                "debit": "2.38",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-21",
+                "location": " VILLA MADINA TORONTO ",
+                "credit": null,
+                "debit": "11.18",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-21",
+                "location": " BURGER KING #16521 TORONTO ",
+                "credit": null,
+                "debit": "6.54",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-12-22",
+                "location": " PETROCAN-5241 HWY 7 W WOODBRIDGE ",
+                "credit": null,
+                "debit": "9.99",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-12-23",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "16.93",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-24",
+                "location": " WENDY'S MISSISSAUGA ",
+                "credit": null,
+                "debit": "7.99",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-12-24",
+                "location": " CIBO MARKET MISSISSAUGA ",
+                "credit": null,
+                "debit": "3.15",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-24",
+                "location": " AIR CANADA 0142155585071 WINNIPEG ",
+                "credit": null,
+                "debit": "26.25",
+                "category": "TRAVEL"
+            },
+            {
+                "date": "2016-12-28",
+                "location": " BURGER KING #7439 TAMPA ",
+                "credit": null,
+                "debit": "6.53",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-12-28",
+                "location": " BEST BUY.CA # 900 MISSISSAUGA ",
+                "credit": null,
+                "debit": "163.81",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-28",
+                "location": " DAVINCI S A/S 10194777 TAMPA ",
+                "credit": null,
+                "debit": "4.57",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-28",
+                "location": " TAMPA DUTY FREE 30 TAMPA ",
+                "credit": null,
+                "debit": "54.30",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-12-29",
+                "location": " SQ *AAROPORT LIMO GOSQ.CO ",
+                "credit": null,
+                "debit": "90.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-30",
+                "location": " BEST BUY #990 MILTON ",
+                "credit": null,
+                "debit": "31.05",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-30",
+                "location": " BEST BUY #990 MILTON -",
+                "credit": "101.69",
+                "debit": null,
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-12-30",
+                "location": " CALLITSPRING.COM MONTREAL ",
+                "credit": null,
+                "debit": "121.00",
+                "category": "CLOTHING"
+            },
+            {
+                "date": "2016-12-30",
+                "location": " THE BEER STORE #2372 NORTH YORK ",
+                "credit": null,
+                "debit": "17.85",
+                "category": "THE BEER STORE"
+            },
+            {
+                "date": "2016-12-30",
+                "location": " INDIA BAZAAR ETOBICOKE ",
+                "credit": null,
+                "debit": "110.63",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-12-30",
+                "location": " LOUISIANA CHICKEN MILTON ",
+                "credit": null,
+                "debit": "15.80",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-12-30",
+                "location": " CDN TIRE STORE #00140 MILTON ",
+                "credit": null,
+                "debit": "108.95",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-12-31",
+                "location": " PETROCAN-2821 WESTON RD NORTH ",
+                "credit": null,
+                "debit": "35.42",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-12-31",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "1500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            }
+        ]
+    },
+    {
+        "location": "MAY",
+        "creditTotal": 4700,
+        "debitTotal": 3179,
+        "purchaseList": [
+            {
+                "date": "2016-05-02",
+                "location": " GOOGLE *Music g.co/payhelp ",
+                "credit": null,
+                "debit": "9.99",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-05-02",
+                "location": " RIDER TRAINING INSTITUTE 416-5166151 ",
+                "credit": null,
+                "debit": "508.50",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-05-02",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "17.20",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-02",
+                "location": " H&R BLOCK #54260 MILTON ",
+                "credit": null,
+                "debit": "33.90",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-05-03",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": null,
+                "debit": "1.90",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-05-03",
+                "location": " CALIFORNIA THAI RESTAURAN ",
+                "credit": null,
+                "debit": "8.69",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-03",
+                "location": " TIM HORTONS 2387 QTH TORONTO ",
+                "credit": null,
+                "debit": "2.93",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-05-04",
+                "location": " TIM HORTONS 3143 QTH TORONTO ",
+                "credit": null,
+                "debit": "3.83",
+                "category": "COFFEE"
+            },
+            {
+                "date": "2016-05-05",
+                "location": " MR. DUMPLING MILTON ",
+                "credit": null,
+                "debit": "14.11",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-05",
+                "location": " INSTORAGE-NIPISSING MILTON ",
+                "credit": null,
+                "debit": "464.38",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-05-07",
+                "location": " CHERRY STREET RESTAURANT ",
+                "credit": null,
+                "debit": "18.32",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-05-07",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "11.50",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-09",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "18.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-09",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "15.75",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-10",
+                "location": " CINEPLEX 7285 QPS MILTON ",
+                "credit": null,
+                "debit": "34.50",
+                "category": "ENTERTAINMENT"
+            },
+            {
+                "date": "2016-05-10",
+                "location": " TEAM HONDA POWERHOUSE OF MILTON ",
+                "credit": null,
+                "debit": "1000.00",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-05-12",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "5.65",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-05-12",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "3500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-05-13",
+                "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+                "credit": null,
+                "debit": "16.94",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-13",
+                "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+                "credit": null,
+                "debit": "20.00",
+                "category": "DONATIONS"
+            },
+            {
+                "date": "2016-05-13",
+                "location": " LCBO/RAO #0001 NORTH YORK ",
+                "credit": null,
+                "debit": "87.90",
+                "category": "LCBO"
+            },
+            {
+                "date": "2016-05-13",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "56.92",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-05-13",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "500.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            },
+            {
+                "date": "2016-05-14",
+                "location": " PRESTO TORONTO ",
+                "credit": null,
+                "debit": "100.00",
+                "category": "TRANSIT"
+            },
+            {
+                "date": "2016-05-14",
+                "location": " KOODO MOBILE PAC EDMONTON ",
+                "credit": null,
+                "debit": "70.06",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-05-14",
+                "location": " MCDONALD'S #7565 Q04 WOODBRIDGE ",
+                "credit": null,
+                "debit": "9.46",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-15",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "28.16",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-15",
+                "location": " PIZZA PIZZA # 653 MILTON ",
+                "credit": null,
+                "debit": "27.20",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-17",
+                "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+                "credit": null,
+                "debit": "27.11",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-05-17",
+                "location": " RABBA FINE FOODS 161 Q MILTON ",
+                "credit": null,
+                "debit": "11.63",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-18",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "162.32",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-05-18",
+                "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+                "credit": null,
+                "debit": "22.59",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-18",
+                "location": " BELL CANADA (OB) MONTREAL ",
+                "credit": null,
+                "debit": "79.04",
+                "category": "PHONE BILL"
+            },
+            {
+                "date": "2016-05-18",
+                "location": " WAL-MART ECOMM #8514 MISSISSAUGA ",
+                "credit": null,
+                "debit": "60.32",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-05-19",
+                "location": " Amazon.ca AMAZON.CA ",
+                "credit": null,
+                "debit": "20.32",
+                "category": "BIG ONLINE"
+            },
+            {
+                "date": "2016-05-19",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "6.10",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-20",
+                "location": " FIRST CHOICE # 5081 MILTON ",
+                "credit": null,
+                "debit": "19.15",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-05-22",
+                "location": " DOMINOS PIZZA 10287 MILTON ",
+                "credit": null,
+                "debit": "19.44",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-23",
+                "location": " GINO'S PIZZA MILTON ",
+                "credit": null,
+                "debit": "18.63",
+                "category": "BIG FOOD"
+            },
+            {
+                "date": "2016-05-24",
+                "location": " RCSS MILTON #2810 MILTON ",
+                "credit": null,
+                "debit": "66.97",
+                "category": "NOT SO BIG ONLINE"
+            },
+            {
+                "date": "2016-05-24",
+                "location": " EMPIRE WOK MILTON ",
+                "credit": null,
+                "debit": "32.39",
+                "category": "OTHER"
+            },
+            {
+                "date": "2016-05-24",
+                "location": " EQUIFAX CONSUMER 800-871-3250 ",
+                "credit": null,
+                "debit": "14.95",
+                "category": "TAX and TOWN"
+            },
+            {
+                "date": "2016-05-26",
+                "location": " OSMOWS GRILL MILTON ",
+                "credit": null,
+                "debit": "11.50",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-28",
+                "location": " HAKKA NO.1 RESTAURANT NORTH ",
+                "credit": null,
+                "debit": "11.87",
+                "category": "NOT SO BIG FOOD"
+            },
+            {
+                "date": "2016-05-28",
+                "location": " ESSO 3514 WESTON ROAD NORTH YORK ",
+                "credit": null,
+                "debit": "8.12",
+                "category": "GAS"
+            },
+            {
+                "date": "2016-05-31",
+                "location": " PAYMENT - THANK YOU -",
+                "credit": "700.00",
+                "debit": null,
+                "category": "CARD PAYMENT"
+            }
+        ]
+    }
+]

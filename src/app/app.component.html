@@ -10,6 +10,34 @@
     </mat-card-header>
   </mat-card>
 
+  <!--  Some charts and stuff-->
+  <mat-grid-list cols="2" rowHeight="600px"> 
+
+    <mat-grid-tile>
+      <div class="chart-wrapper">
+        <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
+          [plugins]="barChartPlugins" [legend]="barChartLegend" [chartType]="barChartType">
+        </canvas>
+      </div>
+
+    </mat-grid-tile>
+
+    <mat-grid-tile>
+      <div class="chart-wrapper">
+        <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
+          [colors]="lineChartColors" [legend]="lineChartLegend" [chartType]="lineChartType"
+          [plugins]="lineChartPlugins">
+        </canvas>
+      </div>
+
+    </mat-grid-tile>
+
+
+
+  </mat-grid-list>
+
+
+
   <!-- Some more meta crap-->
   <mat-divider></mat-divider>
   <div class="year-button-row">
@@ -20,7 +48,7 @@
   <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
       class="head-label"> {{totalByLocation.length}} </span>
     different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
-  
+
 
   <div class="year-button-row">
     Sort By
@@ -29,6 +57,7 @@
     <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'credit')">Credit</button>
     <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'visits')">Visits</button>
   </div>
+
 
   <mat-grid-list cols="2" rowHeight="750px">
 

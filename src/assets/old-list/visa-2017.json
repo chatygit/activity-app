@@ -1,0 +1,7303 @@
+[
+    {
+        "date": "2017-09-21",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "4.69",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-22",
+        "location": "AI4-FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "37.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-23",
+        "location": "VIRGIN MOBILE (PP)",
+        "credit": "",
+        "debit": "67.80",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "PHARMX REXALL STORE #8164",
+        "credit": "",
+        "debit": "2.25",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "VIRGIN MOBILE (PP)",
+        "credit": "67.80",
+        "debit": "",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "26.50",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "6.10",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "26.08",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "BEST BUY #990",
+        "credit": "",
+        "debit": "1357.12",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "39.51",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "PITA & GRILL",
+        "credit": "",
+        "debit": "22.58",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-28",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "126.69",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-09-29",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "8.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-29",
+        "location": "UBER CA SEP28 VHFSM HELP.",
+        "credit": "",
+        "debit": "8.28",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-09-29",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "3000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-09-30",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "26.58",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-01",
+        "location": "UBER CA SEP30 OFJ7J HELP.",
+        "credit": "",
+        "debit": "7.22",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-01",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "45.71",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "TOWN OF MILTON-LEISURE CN",
+        "credit": "",
+        "debit": "28.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.56",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "10.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-10-04",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "12.51",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-10-04",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-04",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "5.09",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-05",
+        "location": "WIKIMEDIA",
+        "credit": "",
+        "debit": "20.00",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-10-05",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "8.54",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-06",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "7.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-06",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "45.70",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "TIM HORTONS 2743 QTH",
+        "credit": "",
+        "debit": "5.40",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "85.36",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "TIM HORTONS 2068 QTH",
+        "credit": "",
+        "debit": "10.14",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "TIM HORTONS 3120 QTH",
+        "credit": "",
+        "debit": "16.23",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-08",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "35.02",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-09",
+        "location": "CINEPLEX 7285     QPS",
+        "credit": "",
+        "debit": "9.77",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-10-09",
+        "location": "UDEMY.COM",
+        "credit": "",
+        "debit": "15.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-10",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-10",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.10",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-10",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.56",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-11",
+        "location": "THE GOODMAN PUB LP",
+        "credit": "",
+        "debit": "14.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-11",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.77",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "Skype",
+        "credit": "",
+        "debit": "14.00",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "PHARMX REXALL STORE #8164",
+        "credit": "",
+        "debit": "2.09",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-14",
+        "location": "THE BEER STORE #2020",
+        "credit": "",
+        "debit": "14.50",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2017-10-14",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "47.92",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "UDEMY.COM",
+        "credit": "",
+        "debit": "15.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "UBER BV",
+        "credit": "",
+        "debit": "8.09",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "UBER CA OCT14 WOG2Y HELP.",
+        "credit": "",
+        "debit": "8.12",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "TURTLE JACKS MILTON",
+        "credit": "",
+        "debit": "66.92",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "SKYPE SUBSCRIPTION",
+        "credit": "",
+        "debit": "29.93",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "407-ETR-WEB",
+        "credit": "",
+        "debit": "15.12",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "AI4-FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "22.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "INS MARKET",
+        "credit": "",
+        "debit": "6.17",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-17",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "5.48",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-17",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-18",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-10-19",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-19",
+        "location": "CHIPOTLE 1468",
+        "credit": "",
+        "debit": "13.45",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-19",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.77",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "8.86",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "26.17",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "11.74",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "ZARA.COM/CA",
+        "credit": "",
+        "debit": "302.16",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "9.00",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "24.57",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "Spotify P03C928D6E",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "31.95",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "33.78",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "WWW.IKEA.CA",
+        "credit": "",
+        "debit": "116.84",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "FRESHWEST GRILL WP",
+        "credit": "",
+        "debit": "10.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "STARBUCKS #23246#",
+        "credit": "",
+        "debit": "7.57",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-24",
+        "location": "ABERCROMBIE & FITCH",
+        "credit": "",
+        "debit": "174.84",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-10-24",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "14.91",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-25",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-25",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "5.88",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-26",
+        "location": "UBER TRIP LH2YY HELP.UBER",
+        "credit": "",
+        "debit": "15.19",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-26",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "104.09",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-26",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "9.96",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-27",
+        "location": "FIRST CHOICE # 5081",
+        "credit": "",
+        "debit": "20.91",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-28",
+        "location": "TELUS MOBILITY",
+        "credit": "",
+        "debit": "158.47",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-10-29",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "11.19",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-29",
+        "location": "MICROSOFT   *XBOX STORE",
+        "credit": "",
+        "debit": "58.75",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-30",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "6.45",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-30",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "39.45",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1500.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "FLIGHT HUB",
+        "credit": "",
+        "debit": "16.95",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "22.49",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "14.19",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "BRITISH A   1255743672828",
+        "credit": "",
+        "debit": "1775.68",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "2.81",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "7.91",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "4.50",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "6.10",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "UBER CA NOV01 DH2OO HELP.",
+        "credit": "",
+        "debit": "9.30",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "WALMART.CA",
+        "credit": "",
+        "debit": "68.61",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "13.56",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "14.50",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "500.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "7.80",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "99.10",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "UBER CA NOV02 HUTS6 HELP.",
+        "credit": "",
+        "debit": "8.75",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "2.61",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "8.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "10.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-11-03",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "600.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-11-03",
+        "location": "ZARA.COM/CA",
+        "credit": "40.57",
+        "debit": "",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-11-03",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-04",
+        "location": "CINEPLEX 7285     QPS",
+        "credit": "",
+        "debit": "42.97",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-11-04",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-04",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "4.97",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-06",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-06",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-07",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-07",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-07",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-08",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-10",
+        "location": "LCBO/RAO #677",
+        "credit": "",
+        "debit": "60.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-11-10",
+        "location": "DAVIDSON'S VALU MART #",
+        "credit": "",
+        "debit": "28.30",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-11-10",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "4.06",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-11",
+        "location": "MR. DUMPLING",
+        "credit": "",
+        "debit": "35.57",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-11",
+        "location": "SKYPE.COM/GO/BILL",
+        "credit": "",
+        "debit": "14.00",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-11",
+        "location": "UBER J63Z4 HELP.UBER.COM",
+        "credit": "",
+        "debit": "21.01",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-13",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "35.19",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-11-13",
+        "location": "MOTOGP.COM",
+        "credit": "",
+        "debit": "185.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-11-14",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "6.45",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-14",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-14",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "39.54",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "UBER TRIP RRXLH HELP.UBER",
+        "credit": "",
+        "debit": "9.06",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1350.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "13.43",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-11-16",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "36.09",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-16",
+        "location": "MR. DUMPLING",
+        "credit": "",
+        "debit": "16.14",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-19",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "19.95",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-20",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "16.92",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-22",
+        "location": "Spotify P04146C15F",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-04-24",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.36",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-24",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-24",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.78",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-24",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "34.42",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-25",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.78",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-25",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "2.08",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-25",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-26",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-26",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "21.44",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-27",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-04-27",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "10.84",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-27",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-27",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "5.48",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-27",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "54.06",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-28",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-04-28",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "20.00",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-28",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "3.67",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-28",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "8.59",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-30",
+        "location": "VIRGIN MOBILE",
+        "credit": "",
+        "debit": "56.50",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-04-30",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "20.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-30",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "39.26",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-01",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "200.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-01",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-01",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "21.42",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-05-02",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "5.99",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-03",
+        "location": "TOWN OF MILTON-LEISURE CN",
+        "credit": "",
+        "debit": "28.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-05-03",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "9.48",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-03",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "37.69",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-03",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "4.97",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-03",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "5.99",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-03",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "28.87",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-03",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-04",
+        "location": "YYZ URBAN CRAVE",
+        "credit": "",
+        "debit": "3.14",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-05-04",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "13.16",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-05",
+        "location": "PAC-WESTJETCONNECT",
+        "credit": "",
+        "debit": "8.99",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-05-07",
+        "location": "AIRLINE LIMOUSINE SERV",
+        "credit": "",
+        "debit": "70.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-07",
+        "location": "MR. DUMPLING",
+        "credit": "",
+        "debit": "23.71",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-08",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "13.16",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-08",
+        "location": "INS MARKET",
+        "credit": "",
+        "debit": "3.63",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-05-09",
+        "location": "VIRGIN MOBILE",
+        "credit": "",
+        "debit": "90.40",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-05-09",
+        "location": "INS MARKET #5060",
+        "credit": "",
+        "debit": "15.61",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-05-09",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-09",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-09",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "21.50",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-10",
+        "location": "UBER CA MAY10 ILV73 HELP.",
+        "credit": "",
+        "debit": "8.98",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-10",
+        "location": "UBER CA MAY10 OBOTA HELP.",
+        "credit": "",
+        "debit": "8.74",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-11",
+        "location": "AC ROUGE ON BOARD CAFE",
+        "credit": "",
+        "debit": "9.95",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-11",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.65",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "23.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "29.24",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "INS MARKET",
+        "credit": "",
+        "debit": "3.55",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "9.75",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "9.75",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "THE EXTREME PITA RESTAURA",
+        "credit": "",
+        "debit": "11.39",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.36",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-12",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-14",
+        "location": "ZARA.COM",
+        "credit": "",
+        "debit": "209.83",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-05-14",
+        "location": "HAKKA NO.1 RESTAURANT",
+        "credit": "",
+        "debit": "27.45",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-14",
+        "location": "WENDY'S #6655",
+        "credit": "",
+        "debit": "32.19",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-14",
+        "location": "TIM HORTONS 1884 QPS",
+        "credit": "",
+        "debit": "12.37",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-15",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "500.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-05-15",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-15",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "10.62",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-15",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-05-15",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "10.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-05-15",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "11.19",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-16",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-05-16",
+        "location": "TIM HORTONS #4768",
+        "credit": "",
+        "debit": "3.03",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-16",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-17",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "19.21",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-17",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-17",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "5.99",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-18",
+        "location": "BIG BEAR CONVENIENCE",
+        "credit": "",
+        "debit": "2.25",
+        "category": "GAS"
+    },
+    {
+        "date": "2017-05-18",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-18",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "5.99",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-19",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "500.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-05-19",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "25.81",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-19",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "5.99",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-22",
+        "location": "Spotify P0272488C9",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-11-22",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.64",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-22",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-22",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "7.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-23",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "24.67",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-11-23",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-23",
+        "location": "BANH MI BOYS",
+        "credit": "",
+        "debit": "11.87",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-23",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "16.67",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-23",
+        "location": "STARBUCKS #23246#",
+        "credit": "",
+        "debit": "3.83",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-24",
+        "location": "HARVEYS 0002435 QPS",
+        "credit": "",
+        "debit": "12.30",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-11-24",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "15.34",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-24",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-24",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "2.30",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-26",
+        "location": "KHAN BBQ KABAB HOUSE",
+        "credit": "",
+        "debit": "23.71",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-26",
+        "location": "TELUS MOBILITY",
+        "credit": "",
+        "debit": "11.17",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-11-27",
+        "location": "KFC/TACO BELL",
+        "credit": "",
+        "debit": "17.82",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-27",
+        "location": "GINO'S PIZZA DELIVERY",
+        "credit": "",
+        "debit": "19.42",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-11-28",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "9.50",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-28",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-29",
+        "location": "WILD WINGS",
+        "credit": "",
+        "debit": "44.41",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-11-29",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "9.11",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-29",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "7.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-30",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "8.25",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-30",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "7.05",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-01",
+        "location": "AI4-FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "29.18",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-01",
+        "location": "BETTY'S",
+        "credit": "",
+        "debit": "45.99",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-01",
+        "location": "GABBYS EATERY AND TAPS",
+        "credit": "",
+        "debit": "25.00",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-02",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "19.48",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-02",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "10.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-12-03",
+        "location": "GURU LUKSHMI",
+        "credit": "",
+        "debit": "45.38",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-04",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-04",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-04",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-04",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "3.44",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-04",
+        "location": "PITA & GRILL",
+        "credit": "",
+        "debit": "14.67",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-05",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "97.83",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-12-06",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "38.37",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-07",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-07",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-08",
+        "location": "UBER TRIP LH2YY HELP.UBER",
+        "credit": "3.10",
+        "debit": "",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-08",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "10.71",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-08",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-09",
+        "location": "PITA & GRILL",
+        "credit": "",
+        "debit": "33.87",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-10",
+        "location": "CORA BREAKFAST AND LUNCH",
+        "credit": "",
+        "debit": "39.77",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-10",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "11.30",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-10",
+        "location": "SHOPPERS DRUG MART0710",
+        "credit": "",
+        "debit": "41.80",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2017-12-11",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.30",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-11",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-11",
+        "location": "TELUS MOBILITY",
+        "credit": "",
+        "debit": "75.43",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-12-12",
+        "location": "BANH MI BOYS",
+        "credit": "",
+        "debit": "23.17",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-12",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "40.92",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-12",
+        "location": "AGAINST THE GRAIN URBA",
+        "credit": "",
+        "debit": "43.51",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-14",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-12-14",
+        "location": "BANH MI BOYS",
+        "credit": "",
+        "debit": "31.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-14",
+        "location": "LCBO/RAO #0457",
+        "credit": "",
+        "debit": "12.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-12-15",
+        "location": "UBER TRIP WPKNN HELP.UBER",
+        "credit": "",
+        "debit": "11.87",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-15",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-12-15",
+        "location": "WWW.IKEA.CA",
+        "credit": "",
+        "debit": "274.03",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-15",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-12-15",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "26.64",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-16",
+        "location": "THE BEER STORE #2020",
+        "credit": "",
+        "debit": "38.30",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2017-12-16",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "40.02",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-17",
+        "location": "UBER TRIP H7R25 HELP.UBER",
+        "credit": "",
+        "debit": "7.17",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-17",
+        "location": "UBER TRIP DN5A5 HELP.UBER",
+        "credit": "",
+        "debit": "7.49",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-18",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "29.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-18",
+        "location": "CALLITSPRING.COM",
+        "credit": "",
+        "debit": "175.31",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-12-19",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-19",
+        "location": "PIE BAR",
+        "credit": "",
+        "debit": "24.37",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-19",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "27.12",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-19",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "19.21",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-20",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "4.06",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-20",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "19.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-20",
+        "location": "SCADDABUSH FRONT STREET",
+        "credit": "",
+        "debit": "186.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-20",
+        "location": "YORK QUAY FINE FOODS",
+        "credit": "",
+        "debit": "2.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-21",
+        "location": "AE.COM WEB PURCH",
+        "credit": "",
+        "debit": "160.94",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-12-21",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "15.81",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-21",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "500.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "INTEREST CHARGE -PURCHASE",
+        "credit": "",
+        "debit": "36.53",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "87.31",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "Spotify P0465558B8",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "4.69",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-22",
+        "location": "AI4-FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "37.23",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-23",
+        "location": "VIRGIN MOBILE (PP)",
+        "credit": "",
+        "debit": "67.8",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.3",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "PHARMX REXALL STORE #8164",
+        "credit": "",
+        "debit": "2.25",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "VIRGIN MOBILE (PP)",
+        "credit": "67.8",
+        "debit": "",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "26.5",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-09-25",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "6.1",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "26.08",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "BEST BUY #990",
+        "credit": "",
+        "debit": "1357.12",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "39.51",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-26",
+        "location": "PITA & GRILL",
+        "credit": "",
+        "debit": "22.58",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-28",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "126.69",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-09-29",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "8.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-29",
+        "location": "UBER CA SEP28 VHFSM HELP.",
+        "credit": "",
+        "debit": "8.28",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-09-29",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "3000",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-09-30",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "26.58",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-01",
+        "location": "UBER CA SEP30 OFJ7J HELP.",
+        "credit": "",
+        "debit": "7.22",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-01",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "45.71",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "TOWN OF MILTON-LEISURE CN",
+        "credit": "",
+        "debit": "28",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.56",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-02",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "10.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-10-04",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "12.51",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-10-04",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-04",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "5.09",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-05",
+        "location": "WIKIMEDIA",
+        "credit": "",
+        "debit": "20",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-10-05",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "8.54",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-06",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "7.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-06",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "45.7",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "TIM HORTONS 2743 QTH",
+        "credit": "",
+        "debit": "5.4",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "85.36",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "TIM HORTONS 2068 QTH",
+        "credit": "",
+        "debit": "10.14",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-07",
+        "location": "TIM HORTONS 3120 QTH",
+        "credit": "",
+        "debit": "16.23",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-08",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "35.02",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-09",
+        "location": "CINEPLEX 7285     QPS",
+        "credit": "",
+        "debit": "9.77",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-10-09",
+        "location": "UDEMY.COM",
+        "credit": "",
+        "debit": "15",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-10",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.3",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-10",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.1",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-10",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.56",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-11",
+        "location": "THE GOODMAN PUB LP",
+        "credit": "",
+        "debit": "14.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-11",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.77",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "Skype",
+        "credit": "",
+        "debit": "14",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "PHARMX REXALL STORE #8164",
+        "credit": "",
+        "debit": "2.09",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2017-10-12",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-14",
+        "location": "THE BEER STORE #2020",
+        "credit": "",
+        "debit": "14.5",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2017-10-14",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "47.92",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "UDEMY.COM",
+        "credit": "",
+        "debit": "15",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "UBER BV",
+        "credit": "",
+        "debit": "8.09",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "UBER CA OCT14 WOG2Y HELP.",
+        "credit": "",
+        "debit": "8.12",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "TURTLE JACKS MILTON",
+        "credit": "",
+        "debit": "66.92",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-15",
+        "location": "SKYPE SUBSCRIPTION",
+        "credit": "",
+        "debit": "29.93",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "407-ETR-WEB",
+        "credit": "",
+        "debit": "15.12",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "AI4-FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "22.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-10-16",
+        "location": "INS MARKET",
+        "credit": "",
+        "debit": "6.17",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-17",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "5.48",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-17",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-18",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-10-19",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.3",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-19",
+        "location": "CHIPOTLE 1468",
+        "credit": "",
+        "debit": "13.45",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-19",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.77",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "8.86",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "26.17",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "11.74",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "ZARA.COM/CA",
+        "credit": "",
+        "debit": "302.16",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "9",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-20",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "24.57",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "Spotify P03C928D6E",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "31.95",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-22",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "33.78",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "WWW.IKEA.CA",
+        "credit": "",
+        "debit": "116.84",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "FRESHWEST GRILL WP",
+        "credit": "",
+        "debit": "10.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-23",
+        "location": "STARBUCKS #23246#",
+        "credit": "",
+        "debit": "7.57",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-10-24",
+        "location": "ABERCROMBIE & FITCH",
+        "credit": "",
+        "debit": "174.84",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-10-24",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "14.91",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-25",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.3",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-25",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "5.88",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-26",
+        "location": "UBER TRIP LH2YY HELP.UBER",
+        "credit": "",
+        "debit": "15.19",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-10-26",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "104.09",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-26",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "9.96",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-27",
+        "location": "FIRST CHOICE # 5081",
+        "credit": "",
+        "debit": "20.91",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-10-28",
+        "location": "TELUS MOBILITY",
+        "credit": "",
+        "debit": "158.47",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-10-29",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "11.19",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-29",
+        "location": "MICROSOFT   *XBOX STORE",
+        "credit": "",
+        "debit": "58.75",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-30",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "6.45",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-30",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "39.45",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1500",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "FLIGHT HUB",
+        "credit": "",
+        "debit": "16.95",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "22.49",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "14.19",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-10-31",
+        "location": "BRITISH A   1255743672828",
+        "credit": "",
+        "debit": "1775.68",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "2.81",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "7.91",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "4.5",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "6.1",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "UBER CA NOV01 DH2OO HELP.",
+        "credit": "",
+        "debit": "9.3",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "WALMART.CA",
+        "credit": "",
+        "debit": "68.61",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "13.56",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-01",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "14.5",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "500",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "7.8",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "99.1",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "UBER CA NOV02 HUTS6 HELP.",
+        "credit": "",
+        "debit": "8.75",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "2.61",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "8.9",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-02",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "10.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-11-03",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "600",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-11-03",
+        "location": "ZARA.COM/CA",
+        "credit": "40.57",
+        "debit": "",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-11-03",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-04",
+        "location": "CINEPLEX 7285     QPS",
+        "credit": "",
+        "debit": "42.97",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-11-04",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-04",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "4.97",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-06",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-06",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-07",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.3",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-07",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-07",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-08",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-10",
+        "location": "LCBO/RAO #677",
+        "credit": "",
+        "debit": "60.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-11-10",
+        "location": "DAVIDSON'S VALU MART #",
+        "credit": "",
+        "debit": "28.3",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-11-10",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "4.06",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-11",
+        "location": "MR. DUMPLING",
+        "credit": "",
+        "debit": "35.57",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-11",
+        "location": "SKYPE.COM/GO/BILL",
+        "credit": "",
+        "debit": "14",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-11",
+        "location": "UBER J63Z4 HELP.UBER.COM",
+        "credit": "",
+        "debit": "21.01",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-13",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "35.19",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-11-13",
+        "location": "MOTOGP.COM",
+        "credit": "",
+        "debit": "185.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-11-14",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "6.45",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-14",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-14",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "39.54",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "UBER TRIP RRXLH HELP.UBER",
+        "credit": "",
+        "debit": "9.06",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1350",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "6.41",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-11-15",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "13.43",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-11-16",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "36.09",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-16",
+        "location": "MR. DUMPLING",
+        "credit": "",
+        "debit": "16.14",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-19",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "19.95",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-20",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "16.92",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.3",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.47",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-21",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-11-22",
+        "location": "Spotify P04146C15F",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-08-21",
+        "location": "STARBUCKS #23246#",
+        "credit": "",
+        "debit": "2.36",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-08-22",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-08-23",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "2.81",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-08-24",
+        "location": "EQUIFAX CONSUMER",
+        "credit": "",
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-08-24",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "22.07",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-08-24",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "26.13",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-08-24",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-08-24",
+        "location": "VIRGIN MOBILE (PP)",
+        "credit": "",
+        "debit": "67.80",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-08-24",
+        "location": "BETTY'S",
+        "credit": "",
+        "debit": "18.50",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-08-24",
+        "location": "STARBUCKS #23246#",
+        "credit": "",
+        "debit": "7.74",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-08-25",
+        "location": "UBER CA AUG24 R6D5K HELP.",
+        "credit": "",
+        "debit": "16.80",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-08-26",
+        "location": "R & N GIBEAU ORANGE JULEP",
+        "credit": "",
+        "debit": "7.75",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-08-26",
+        "location": "MCDONALD'S #6628   Q04",
+        "credit": "",
+        "debit": "4.01",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-08-26",
+        "location": "COUCHE-TARD #1095",
+        "credit": "",
+        "debit": "63.26",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-08-28",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "7.80",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-08-29",
+        "location": "DOMINOS PIZZA 10287",
+        "credit": "",
+        "debit": "19.57",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-08-29",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-08-30",
+        "location": "SUBWAY # 34358",
+        "credit": "",
+        "debit": "11.40",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-08-30",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1600.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-08-31",
+        "location": "CHIPOTLE 1468",
+        "credit": "",
+        "debit": "21.24",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-08-31",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "15.81",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-08-31",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "23.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-08-31",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "4.15",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-01",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-01",
+        "location": "UBER TRIP MTU6A HELP.UBER",
+        "credit": "",
+        "debit": "13.03",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-09-01",
+        "location": "KRAMERS BAR & GRILL",
+        "credit": "",
+        "debit": "29.83",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-02",
+        "location": "SHELL 4021 YONGE ST",
+        "credit": "",
+        "debit": "10.00",
+        "category": "GAS"
+    },
+    {
+        "date": "2017-09-03",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "10.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-09-04",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "7.28",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-04",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "36.10",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-05",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "200.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-09-05",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "18.05",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-05",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "9.79",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-05",
+        "location": "FRESHWEST GRILL WP",
+        "credit": "",
+        "debit": "12.26",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-05",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "23.60",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-09-05",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "4.15",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-06",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "105.98",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-09-07",
+        "location": "POWER UP BAR",
+        "credit": "",
+        "debit": "10.24",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-07",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "5.09",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-08",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "5.48",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-09-08",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "3.65",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-09-08",
+        "location": "Amazon.ca Prime Member",
+        "credit": "",
+        "debit": "89.27",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-09",
+        "location": "MR. DUMPLING",
+        "credit": "",
+        "debit": "36.13",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-10",
+        "location": "TIM HORTONS #4768",
+        "credit": "",
+        "debit": "5.40",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-09-10",
+        "location": "GOOGLE *Vinwap Apps",
+        "credit": "",
+        "debit": "1.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-11",
+        "location": "TOWN OF MILTON-LEISURE CN",
+        "credit": "",
+        "debit": "28.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-09-11",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-11",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-09-12",
+        "location": "VIRGIN MOBILE",
+        "credit": "",
+        "debit": "444.70",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-09-12",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "13.81",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-09-13",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "12.29",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-09-13",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-14",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-09-14",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-15",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "10.40",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-09-15",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-09-15",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-09-16",
+        "location": "CULTURE RISING MILTON",
+        "credit": "",
+        "debit": "192.10",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-09-18",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-18",
+        "location": "MR SUB",
+        "credit": "",
+        "debit": "7.22",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-09-20",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-09-20",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "10.50",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "27.11",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "13.27",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "7.39",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "7.20",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "4.79",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-21",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "1.14",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-09-22",
+        "location": "Spotify P037F07C4B",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-06-22",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "7.35",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-22",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "37.62",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-22",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-23",
+        "location": "HEIRLOOM T3",
+        "credit": "",
+        "debit": "3.38",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-23",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-23",
+        "location": "CAPLANSKY  DELI  T3",
+        "credit": "",
+        "debit": "19.21",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-23",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-24",
+        "location": "HMSHOST AMSTERDAM SCHIPHO",
+        "credit": "",
+        "debit": "5.26",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-24",
+        "location": "HMSHOST AMSTERDAM SCHIPHO",
+        "credit": "",
+        "debit": "8.31",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-24",
+        "location": "World of Delights",
+        "credit": "",
+        "debit": "3.81",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-24",
+        "location": "World of Delights",
+        "credit": "",
+        "debit": "10.22",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-24",
+        "location": "EQUIFAX CONSUMER",
+        "credit": "",
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-06-25",
+        "location": "DFS INDIA PRIVATE LIMI",
+        "credit": "",
+        "debit": "187.31",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-27",
+        "location": "NIRVANA UNIT OF MK CUI",
+        "credit": "",
+        "debit": "25.46",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-07-03",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-07-04",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-07-04",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "69.64",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-07-04",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "10.50",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-04",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "28.28",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-07-05",
+        "location": "UBER CA JUL04 UWLEW HELP.",
+        "credit": "",
+        "debit": "8.02",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-07-05",
+        "location": "TOWN OF MILTON-LEISURE CN",
+        "credit": "",
+        "debit": "28.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-07-05",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-05",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "5.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-07-06",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.05",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-06",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-06",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "148.02",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-07-07",
+        "location": "TOP OF THE CROC",
+        "credit": "",
+        "debit": "20.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-07-07",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "3.32",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-07",
+        "location": "ESSO 1515 MAIN ST E",
+        "credit": "",
+        "debit": "5.91",
+        "category": "GAS"
+    },
+    {
+        "date": "2017-07-07",
+        "location": "ESSO 1515 MAIN ST E",
+        "credit": "",
+        "debit": "1.20",
+        "category": "GAS"
+    },
+    {
+        "date": "2017-07-08",
+        "location": "CINEPLEX 8030 WEB QPS",
+        "credit": "",
+        "debit": "50.97",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-07-09",
+        "location": "PITA & GRILL",
+        "credit": "",
+        "debit": "25.40",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-09",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "31.97",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-07-10",
+        "location": "SOUP NUTSY",
+        "credit": "",
+        "debit": "12.08",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-10",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-10",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-11",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.05",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-11",
+        "location": "BANH MI BOYS",
+        "credit": "",
+        "debit": "11.87",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-11",
+        "location": "VIRGIN MOBILE",
+        "credit": "",
+        "debit": "103.18",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-07-11",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "8.46",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-07-11",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-11",
+        "location": "LCBO/RAO #0457",
+        "credit": "",
+        "debit": "15.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-07-12",
+        "location": "FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "22.67",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-12",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "5.87",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-13",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "36.25",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-07-14",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-07-14",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.10",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-15",
+        "location": "MTO RUS-SO MILTON",
+        "credit": "",
+        "debit": "84.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-07-15",
+        "location": "MMI*IPVANISH.COM",
+        "credit": "",
+        "debit": "9.80",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-07-15",
+        "location": "UBER CA JUL15 Q2VTH HELP.",
+        "credit": "",
+        "debit": "9.57",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-07-15",
+        "location": "UBER CA JUL15 NTPUV HELP.",
+        "credit": "",
+        "debit": "9.53",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-07-16",
+        "location": "SKYPE.COM/GO/BILL",
+        "credit": "",
+        "debit": "29.93",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-07-16",
+        "location": "UBER CA JUL16 7FRBC HELP.",
+        "credit": "",
+        "debit": "8.06",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-07-16",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "3.92",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-07-16",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "22.09",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-16",
+        "location": "AMSTERDAM BREWHOUSE",
+        "credit": "",
+        "debit": "75.37",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-16",
+        "location": "UBER CA JUL15 O7LYI HELP.",
+        "credit": "",
+        "debit": "7.93",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-07-17",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-07-17",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-17",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-07-17",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "26.75",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-07-17",
+        "location": "CALIFORNIA THAI RESTAURAN",
+        "credit": "",
+        "debit": "9.03",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-18",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-07-18",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "11.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-07-18",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-19",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "30.50",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-07-19",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "10.50",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-20",
+        "location": "BANH MI BOYS",
+        "credit": "",
+        "debit": "10.74",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-20",
+        "location": "FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "13.56",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-20",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "7.09",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-07-20",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "7.35",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-07-21",
+        "location": "INS MARKET",
+        "credit": "",
+        "debit": "3.18",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-07-22",
+        "location": "Spotify P02F55C6D9",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-07-23",
+        "location": "CINEPLEX 7285     QPS",
+        "credit": "",
+        "debit": "29.98",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-07-23",
+        "location": "CHEF SANJEEV KAPOOR'S KHA",
+        "credit": "",
+        "debit": "75.37",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-07-24",
+        "location": "EQUIFAX CONSUMER",
+        "credit": "",
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-05-23",
+        "location": "RCSS MILTON #2810",
+        "credit": "",
+        "debit": "202.95",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-05-23",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "3.99",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-23",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "7.90",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-05-23",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "17.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-05-23",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "23.35",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-05-23",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-24",
+        "location": "EQUIFAX CONSUMER",
+        "credit": "",
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-05-24",
+        "location": "UBER CA MAY23 LU3NX HELP.",
+        "credit": "",
+        "debit": "6.61",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-24",
+        "location": "FETA & OLIVES",
+        "credit": "",
+        "debit": "11.82",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-05-24",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "11.07",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-24",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-24",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "16.83",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-05-25",
+        "location": "UBER CA MAY24 UKUBK HELP.",
+        "credit": "",
+        "debit": "10.99",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-25",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "41.94",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-25",
+        "location": "SHOELESS JOE?S SPORTS GRI",
+        "credit": "",
+        "debit": "52.68",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-05-26",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "7.46",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-27",
+        "location": "COVERNOTES COFFEEHOUSE",
+        "credit": "",
+        "debit": "7.37",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-27",
+        "location": "UBER CA MAY26 MSOIY HELP.",
+        "credit": "",
+        "debit": "10.56",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-29",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "600.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-05-29",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-29",
+        "location": "TIM HORTONS 3599 QPS",
+        "credit": "",
+        "debit": "6.56",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-29",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-29",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "200.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-05-30",
+        "location": "TOWN OF MILTON-LEISURE CN",
+        "credit": "",
+        "debit": "28.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-05-30",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-05-30",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-31",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-05-31",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-01",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-01",
+        "location": "AROMA - WATERPARK PLAC",
+        "credit": "",
+        "debit": "2.36",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-01",
+        "location": "AIRBNB",
+        "credit": "",
+        "debit": "495.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-01",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "147.21",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-02",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-02",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "3.67",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-03",
+        "location": "LOCAL LIBERTY VILLAGE",
+        "credit": "",
+        "debit": "55.24",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-03",
+        "location": "UBER CA JUN02 TT542 HELP.",
+        "credit": "",
+        "debit": "10.85",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-06-03",
+        "location": "TIM HORTONS 3120 QTH",
+        "credit": "",
+        "debit": "6.64",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-03",
+        "location": "BURGER KING #3187",
+        "credit": "",
+        "debit": "5.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-04",
+        "location": "TIM HORTONS 1260 QTH",
+        "credit": "",
+        "debit": "12.01",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-04",
+        "location": "CENTRA FOOD MARKET",
+        "credit": "",
+        "debit": "33.86",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-05",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.06",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-05",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "3.03",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-05",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "18.32",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-05",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "102.29",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-05",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "30.45",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-06-06",
+        "location": "FLIGHT HUB",
+        "credit": "",
+        "debit": "19.99",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2017-06-06",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "7.46",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-06",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "180.79",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-06",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "12.32",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-07",
+        "location": "JET AIR     5894978011674",
+        "credit": "",
+        "debit": "1645.64",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-07",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-07",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "4.97",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-07",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "10.16",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-07",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-07",
+        "location": "LCBO/RAO #0457",
+        "credit": "",
+        "debit": "5.00",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-06-08",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "20.67",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-08",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "7.46",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-08",
+        "location": "SZECHUAN EXPRESS",
+        "credit": "",
+        "debit": "10.74",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-09",
+        "location": "UBER CA JUN08 UNQLP HELP.",
+        "credit": "",
+        "debit": "11.71",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-06-09",
+        "location": "A&W #4362",
+        "credit": "",
+        "debit": "40.63",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-09",
+        "location": "VIRGIN MOBILE",
+        "credit": "",
+        "debit": "95.13",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-06-10",
+        "location": "THE BEER STORE #4109",
+        "credit": "",
+        "debit": "22.05",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2017-06-10",
+        "location": "FRETZ'S VALU-MART #263",
+        "credit": "",
+        "debit": "114.68",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-11",
+        "location": "65061 MACS CONV. STORES",
+        "credit": "",
+        "debit": "18.55",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-11",
+        "location": "TIM HORTONS #1703",
+        "credit": "",
+        "debit": "15.94",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-12",
+        "location": "VILLA MADINA",
+        "credit": "",
+        "debit": "11.65",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-12",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "6.77",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-12",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "23.54",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-12",
+        "location": "TIM HORTONS #4768",
+        "credit": "",
+        "debit": "4.07",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-13",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "750.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-06-14",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "3000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-06-14",
+        "location": "WESTJET BUY ON BOARD",
+        "credit": "",
+        "debit": "15.99",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-14",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "12.32",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "174.97",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "28.22",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "TIM HORTONS #4768",
+        "credit": "",
+        "debit": "3.03",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "BELL CANADA (OB)",
+        "credit": "",
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "PRESTO",
+        "credit": "",
+        "debit": "150.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "THE FOX",
+        "credit": "",
+        "debit": "20.67",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "HOSP FOR SICK CHILDREN",
+        "credit": "",
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "TOWN CRIER PUB-HALFWAY BE",
+        "credit": "",
+        "debit": "23.07",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "MCDONALD'S #40568",
+        "credit": "",
+        "debit": "4.08",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-15",
+        "location": "CIBC",
+        "credit": "463.00",
+        "debit": "",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-16",
+        "location": "UBER TRIP QQTUZ HELP.UBER",
+        "credit": "",
+        "debit": "25.77",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-06-16",
+        "location": "CULTURE RISING MILTON",
+        "credit": "",
+        "debit": "171.76",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-06-17",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "21.44",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-17",
+        "location": "PITA & GRILL",
+        "credit": "",
+        "debit": "22.58",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-18",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "8.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-18",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "49.67",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-19",
+        "location": "NETFLIX.COM",
+        "credit": "",
+        "debit": "11.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-06-19",
+        "location": "JIMMY THE GREEK",
+        "credit": "",
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-19",
+        "location": "JUST EAT",
+        "credit": "",
+        "debit": "23.02",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-19",
+        "location": "LCBO/RAO #0457",
+        "credit": "",
+        "debit": "18.85",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-06-20",
+        "location": "PIZZA NOVA 085",
+        "credit": "",
+        "debit": "5.20",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-20",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-20",
+        "location": "SHANGHAI 360",
+        "credit": "",
+        "debit": "7.78",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-20",
+        "location": "A&W WATER PARK PLACE",
+        "credit": "",
+        "debit": "3.94",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-06-21",
+        "location": "SUBWAY # 39399",
+        "credit": "",
+        "debit": "12.07",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-21",
+        "location": "FIRKIN ON HARBOUR",
+        "credit": "",
+        "debit": "22.09",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-06-21",
+        "location": "PHARMX REXALL STORE #8164",
+        "credit": "",
+        "debit": "5.65",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2017-06-21",
+        "location": "SECOND CUP 9107",
+        "credit": "",
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-06-21",
+        "location": "Amazon.ca",
+        "credit": "147.21",
+        "debit": "",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-06-22",
+        "location": "Spotify P02B5E9C52",
+        "credit": "",
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "MCDONALD'S #4397",
+        "credit": "",
+        "debit": "18.41",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "LUSH HANDMADE COSMETIC",
+        "credit": "",
+        "debit": "45.09",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "GONOE SUSHI - QUEENS QUAY",
+        "credit": "",
+        "debit": "12.64",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "STARBUCKS #23246#",
+        "credit": "",
+        "debit": "2.57",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-22",
+        "location": "DOMINOS PIZZA 10353",
+        "credit": "",
+        "debit": "23.13",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-23",
+        "location": "LCBO/RAO #631",
+        "credit": "",
+        "debit": "62.85",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-12-24",
+        "location": "THE BEER STORE #2020",
+        "credit": "",
+        "debit": "27.75",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2017-12-24",
+        "location": "BEST BUY #990",
+        "credit": "",
+        "debit": "213.45",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-25",
+        "location": "APL* ITUNES.COM/BILL",
+        "credit": "",
+        "debit": "1.46",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-26",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "11.29",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-27",
+        "location": "BOOSTER JUICE",
+        "credit": "",
+        "debit": "7.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-27",
+        "location": "TIM HORTON'S #5556",
+        "credit": "",
+        "debit": "4.94",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-27",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "5.75",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-28",
+        "location": "UBER TRIP SMNY7 HELP.UBER",
+        "credit": "",
+        "debit": "8.20",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-28",
+        "location": "Amazon *Marketplce CA",
+        "credit": "",
+        "debit": "14.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-29",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "1000.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-12-29",
+        "location": "PAYMENT - THANK YOU",
+        "credit": "2500.00",
+        "debit": "",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-12-29",
+        "location": "BEST BUY.CA # 900",
+        "credit": "",
+        "debit": "566.12",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-30",
+        "location": "HAKKA NO.1 RESTAURANT",
+        "credit": "",
+        "debit": "61.53",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-30",
+        "location": "TIM HORTONS 2223 QTH",
+        "credit": "",
+        "debit": "6.74",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-30",
+        "location": "OSMOWS GRILL",
+        "credit": "",
+        "debit": "20.19",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-31",
+        "location": "TIM HORTONS 3120 QTH",
+        "credit": "",
+        "debit": "3.55",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-31",
+        "location": "Amazon.ca",
+        "credit": "",
+        "debit": "45.17",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-03-22",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "1.94",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-23",
+        "location": " INS MARKET #5060 TORONTO ",
+        "credit": null,
+        "debit": "16.25",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-03-24",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-03-23",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "10.68",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-24",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "22.56",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-03-24",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "8.81",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-24",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "6.75",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-24",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "23.05",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-27",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "10.94",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-03-27",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "11.19",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-27",
+        "location": " YORK QUAY FINE FOODS TORONTO ",
+        "credit": null,
+        "debit": "9.32",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-28",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-29",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "16.42",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-28",
+        "location": " ABERCROMBIE & FITCH NEW ALBANY ",
+        "credit": null,
+        "debit": "19.55",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-03-29",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-30",
+        "location": " TOWN OF MILTON-LEISURE CN MILTON ",
+        "credit": null,
+        "debit": "28.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-03-30",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1250.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-03-30",
+        "location": " INS MARKET TORONTO ",
+        "credit": null,
+        "debit": "4.76",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-03-31",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "25.75",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-01",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "34.42",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-01",
+        "location": " MR. DUMPLING MILTON ",
+        "credit": null,
+        "debit": "24.26",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-02",
+        "location": " MARBLE SLAB CREAMERY MILTON ",
+        "credit": null,
+        "debit": "13.54",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-04-03",
+        "location": " DUNK'N DIP MILTON ",
+        "credit": null,
+        "debit": "45.82",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-04-01",
+        "location": " ESSO 624 THIRD LINE OAKVILLE ",
+        "credit": null,
+        "debit": "9.86",
+        "category": "GAS"
+    },
+    {
+        "date": "2017-04-02",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "300.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-04-04",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "24.57",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-03",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-04",
+        "location": " FRESHWEST GRILL WP TORONTO ",
+        "credit": null,
+        "debit": "11.70",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-05",
+        "location": " Amazon.ca AMAZON.CA -",
+        "credit": "4.26",
+        "debit": null,
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-05",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "13.30",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-05",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "11.19",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-06",
+        "location": " THE FOX TORONTO ",
+        "credit": null,
+        "debit": "43.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-06",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "11.20",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-07",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "3.36",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-07",
+        "location": " AROMA - WATERPARK PLAC TORONTO ",
+        "credit": null,
+        "debit": "2.36",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-07",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-07",
+        "location": " PITA & GRILL MILTON ",
+        "credit": null,
+        "debit": "22.58",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-08",
+        "location": " UBER CA APR08 CRK6G HELP. help.uber.co ",
+        "credit": null,
+        "debit": "9.71",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-04-09",
+        "location": " LENSCRAFTERS 0969 TORONTO ",
+        "credit": null,
+        "debit": "150.05",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-04-09",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "12.58",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-09",
+        "location": " ZARA YORKDALE # 3159 TORONTO ",
+        "credit": null,
+        "debit": "78.99",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-04-09",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "23.90",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-09",
+        "location": " ESSO 1515 MAIN ST E MILTON ",
+        "credit": null,
+        "debit": "6.27",
+        "category": "GAS"
+    },
+    {
+        "date": "2017-04-10",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "13.45",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-10",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-10",
+        "location": " PHARMX REXALL STORE #8164 ",
+        "credit": null,
+        "debit": "19.97",
+        "category": "GROCERY"
+    },
+    {
+        "date": "2017-04-11",
+        "location": " VIRGIN MOBILE VERDUN ",
+        "credit": null,
+        "debit": "90.40",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-04-12",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-12",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "750.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-04-12",
+        "location": " WALMART.CA MISSISSAUGA ",
+        "credit": null,
+        "debit": "152.21",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-12",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "23.37",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-13",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "2.78",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-13",
+        "location": " AROMA - WATERPARK PLAC TORONTO ",
+        "credit": null,
+        "debit": "2.36",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-13",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-13",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "26.42",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-14",
+        "location": " AMSTERDAM BREWHOUSE TORONTO ",
+        "credit": null,
+        "debit": "75.34",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-14",
+        "location": " BOOSTER JUICE STORE #4 MILTON ",
+        "credit": null,
+        "debit": "7.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-14",
+        "location": " WENDY'S 6453 Q1R MILTON ",
+        "credit": null,
+        "debit": "6.54",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-15",
+        "location": " MR. DUMPLING MILTON ",
+        "credit": null,
+        "debit": "24.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-16",
+        "location": " SKYPE 4400000000 ",
+        "credit": null,
+        "debit": "29.93",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-16",
+        "location": " PITA & GRILL MILTON ",
+        "credit": null,
+        "debit": "21.44",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-16",
+        "location": " AEROPLAN MONTREAL ",
+        "credit": null,
+        "debit": "77.02",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " TIM HORTONS 3120 QTH MILTON ",
+        "credit": null,
+        "debit": "7.02",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-16",
+        "location": " WestJet*0004903696600 CALGARY ",
+        "credit": null,
+        "debit": "287.90",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-04-16",
+        "location": " AIR CANADA 0142176503538 ",
+        "credit": null,
+        "debit": "37.30",
+        "category": "TRAVEL"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "111.76",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+        "credit": null,
+        "debit": "55.73",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "4.97",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "12.42",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " AROMA - WATERPARK PLAC TORONTO ",
+        "credit": null,
+        "debit": "3.41",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-18",
+        "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+        "credit": null,
+        "debit": "49.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-04-17",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-18",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-04-19",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "20.50",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-18",
+        "location": " ALEXANDROS TORONTO ",
+        "credit": null,
+        "debit": "11.07",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-04-18",
+        "location": " YORK QUAY FINE FOODS TORONTO ",
+        "credit": null,
+        "debit": "9.32",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-18",
+        "location": " INS MARKET TORONTO ",
+        "credit": null,
+        "debit": "3.63",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-04-18",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "24.58",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-19",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "8.53",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-19",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-20",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "5.54",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-20",
+        "location": " AE.COM WEB PURCH 412-432-0842 ",
+        "credit": null,
+        "debit": "135.33",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-04-21",
+        "location": " UBER CA APR20 GMZG4 HELP. help.uber.co ",
+        "credit": null,
+        "debit": "14.89",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-04-20",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "11.20",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-21",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "27.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-04-21",
+        "location": " MR. DUMPLING MILTON ",
+        "credit": null,
+        "debit": "19.19",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-04-22",
+        "location": " Spotify P0232F1C3C Stockholm ",
+        "credit": null,
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-04-22",
+        "location": " TIM HORTONS 2068 QTH MILTON ",
+        "credit": null,
+        "debit": "7.47",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-04-22",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "23.35",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-04-22",
+        "location": " EDDIEO'S MILTON ",
+        "credit": null,
+        "debit": "66.95",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-04-23",
+        "location": " UBER CA APR22 UP74L HELP. help.uber.co ",
+        "credit": null,
+        "debit": "8.57",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-04-24",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-04-24",
+        "location": " ANNUAL FEE ",
+        "credit": null,
+        "debit": "120.00",
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-01-20",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-23",
+        "location": " UBER CA JAN23 W5ZAK HELP. help.uber.co ",
+        "credit": null,
+        "debit": "6.88",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-01-24",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "14.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-01-23",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-24",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "2.31",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-24",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "10.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-25",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "5.48",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-25",
+        "location": " FAST FRESH FOODS - WATER TORONTO ",
+        "credit": null,
+        "debit": "10.75",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-26",
+        "location": " RABBA 125 Q TORONTO ",
+        "credit": null,
+        "debit": "14.36",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-26",
+        "location": " AMSTERDAM BREWHOUSE TORONTO ",
+        "credit": null,
+        "debit": "30.43",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-26",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "200.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-01-27",
+        "location": " SCOTIABANK PAYMENT SCOTIA ONLINE -",
+        "credit": "1400.00",
+        "debit": null,
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-27",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "5.48",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-27",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "11.81",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-30",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "6.92",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-30",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-30",
+        "location": " INS MARKET TORONTO ",
+        "credit": null,
+        "debit": "3.20",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-31",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "10.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-01",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "6.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-02-01",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-01",
+        "location": " WILLOWTV INTERNATIONAL I ",
+        "credit": null,
+        "debit": "7.99",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-03",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "17.94",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-02",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "4.46",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-02-03",
+        "location": " FAST FRESH FOODS - WATER TORONTO ",
+        "credit": null,
+        "debit": "10.75",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-04",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "23.31",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-04",
+        "location": " PIZZA PIZZA # 653 MILTON ",
+        "credit": null,
+        "debit": "15.10",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-05",
+        "location": " PITA & GRILL MILTON ",
+        "credit": null,
+        "debit": "37.24",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-06",
+        "location": " LUIGI'S LASAGNA & PIZZ MILTON ",
+        "credit": null,
+        "debit": "62.42",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-06",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-06",
+        "location": " FACE TO FACE GAMES TORONT ",
+        "credit": null,
+        "debit": "50.79",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-07",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "111.87",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-07",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "5.48",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-02-07",
+        "location": " INS MARKET #5060 TORONTO ",
+        "credit": null,
+        "debit": "12.50",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-07",
+        "location": " MIKU TORONTO TORONTO ",
+        "credit": null,
+        "debit": "36.39",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-08",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-09",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "28.04",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-09",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-02-09",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-09",
+        "location": " YORK QUAY FINE FOODS TORONTO ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-09",
+        "location": " QUICKBOOKS ONLINE LONDON EC4V ",
+        "credit": null,
+        "debit": "10.50",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-10",
+        "location": " THE FOX TORONTO ",
+        "credit": null,
+        "debit": "38.41",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-10",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-13",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "250.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-02-13",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "11.20",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-14",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "6.22",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-02-14",
+        "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+        "credit": null,
+        "debit": "23.97",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-15",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "4.26",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-15",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "6.27",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-15",
+        "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-02-15",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-02-15",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-14",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "10.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-16",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "2.09",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-02-18",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "18.31",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-18",
+        "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+        "credit": null,
+        "debit": "24.99",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-18",
+        "location": " CINEPLEX ENTERTAINMENT 416-323-6600 ",
+        "credit": null,
+        "debit": "24.25",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-02-18",
+        "location": " FRESHLY SQUEEZED - YOR TORONTO ",
+        "credit": null,
+        "debit": "13.54",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-18",
+        "location": " DESI SPICE ETOBICOKE ",
+        "credit": null,
+        "debit": "30.10",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-18",
+        "location": " POPEYE'S LOUSIANA KITCHEN NORTH ",
+        "credit": null,
+        "debit": "6.43",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-20",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "23.21",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-20",
+        "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+        "credit": null,
+        "debit": "14.95",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-20",
+        "location": " INTUIT QB ONLINE LONDON EC4V -",
+        "credit": "7.13",
+        "debit": null,
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-02-21",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "9.03",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-21",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "6.75",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-21",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "500.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-02-22",
+        "location": " Spotify P01BB9A17F Stockholm ",
+        "credit": null,
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    },
+    {
+        "date": "2017-12-22",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "9.58",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-22",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-22",
+        "location": " MR. DUMPLING MILTON ",
+        "credit": null,
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-23",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "3.36",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-23",
+        "location": " TIM HORTONS #4768 MILTON ",
+        "credit": null,
+        "debit": "1.70",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-23",
+        "location": " INS MARKET TORONTO ",
+        "credit": null,
+        "debit": "6.56",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-23",
+        "location": " LCBO/RAO #631 MILTON ",
+        "credit": null,
+        "debit": "76.95",
+        "category": "LCBO"
+    },
+    {
+        "date": "2017-12-23",
+        "location": " THE BEER STORE #2020 MILTON ",
+        "credit": null,
+        "debit": "38.20",
+        "category": "THE BEER STORE"
+    },
+    {
+        "date": "2017-12-23",
+        "location": " PITA & GRILL MILTON ",
+        "credit": null,
+        "debit": "25.11",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-24",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "14.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-12-25",
+        "location": " MCDONALD'S #4190 Q04 TORONTO ",
+        "credit": null,
+        "debit": "9.12",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-26",
+        "location": " APL* ITUNES.COM/BILL 800-676-2775 ",
+        "credit": null,
+        "debit": "4.51",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-26",
+        "location": " BECK TAXI TORONTO ",
+        "credit": null,
+        "debit": "16.10",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-12-26",
+        "location": " ACC CONCESSIONS TORONTO ",
+        "credit": null,
+        "debit": "13.00",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-26",
+        "location": " ACC CONCESSIONS TORONTO ",
+        "credit": null,
+        "debit": "6.50",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-26",
+        "location": " ACC CONCESSIONS TORONTO ",
+        "credit": null,
+        "debit": "16.75",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-12-26",
+        "location": " TIM HORTONS 2743 QTH NORTH YORK ",
+        "credit": null,
+        "debit": "9.44",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-28",
+        "location": " ABERCROMBIE AND FITCH ",
+        "credit": null,
+        "debit": "149.16",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-12-28",
+        "location": " CALLITSPRING.COM MONTREAL ",
+        "credit": null,
+        "debit": "155.56",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-12-28",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "11.20",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-29",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "10.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-12-29",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "5.42",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-30",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "1.90",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-12-30",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "5.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-30",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1300.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-12-31",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "29.99",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-12-31",
+        "location": " BEST BUY #990 MILTON ",
+        "credit": null,
+        "debit": "288.14",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-12-31",
+        "location": " LOUISIANA CHICKEN MILTON ",
+        "credit": null,
+        "debit": "12.97",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-01",
+        "location": " ESH*ESH*MOBILE PROTECT 855-562-1955 ",
+        "credit": null,
+        "debit": "11.29",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-01",
+        "location": " MCDONALD'S #1320 QPS ETOBICOKE ",
+        "credit": null,
+        "debit": "17.26",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-02",
+        "location": " GINO'S PIZZA DELIVERY SCARBOROUGH ",
+        "credit": null,
+        "debit": "33.56",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-02",
+        "location": " TIM HORTONS 1884 QPS WOODBRIDGE ",
+        "credit": null,
+        "debit": "7.54",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-03",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "15.79",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-01-03",
+        "location": " ABERCROMBIE AND FITCH ",
+        "credit": null,
+        "debit": "94.92",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-01-03",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "12.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-04",
+        "location": " ZARA.COM MONTREAL ",
+        "credit": null,
+        "debit": "60.97",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-01-05",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "25.94",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-04",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "11.02",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-04",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "1.75",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-05",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-06",
+        "location": " ESH*ESH*MOBILE PROTEC 855-562-1955 -",
+        "credit": "9.11",
+        "debit": null,
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-06",
+        "location": " FAST FRESH FOODS - WATER TORONTO ",
+        "credit": null,
+        "debit": "10.75",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-07",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "72.51",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-08",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "30.02",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-08",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "29.22",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-01-08",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "200.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-01-09",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-10",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-11",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-11",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "3.21",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-12",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "10.16",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-13",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "20.56",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-12",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "5.20",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-12",
+        "location": " YORK QUAY FINE FOODS TORONTO ",
+        "credit": null,
+        "debit": "11.89",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-13",
+        "location": " WWW.ALIBABA.COM LONDON ",
+        "credit": null,
+        "debit": "346.92",
+        "category": "NOT SO BIG ONLINE"
+    },
+    {
+        "date": "2017-01-13",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-14",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "26.84",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-14",
+        "location": " DAIRY QUEEN #12125 MILTON ",
+        "credit": null,
+        "debit": "13.86",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-15",
+        "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+        "credit": null,
+        "debit": "11.54",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-01-13",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "5.87",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-16",
+        "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-01-16",
+        "location": " BOOSTER JUICE, STORE # TORONTO ",
+        "credit": null,
+        "debit": "6.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-16",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-16",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-01-17",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "2.14",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-01-17",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "3.74",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-01-17",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "4.26",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-01-17",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "79.04",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-01-18",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "23.45",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-01-17",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "11.29",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-18",
+        "location": " SZECHUAN EXPRESS TORONTO ",
+        "credit": null,
+        "debit": "12.43",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-18",
+        "location": " HASTY MARKET #375 MILTON ",
+        "credit": null,
+        "debit": "67.87",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-19",
+        "location": " UBER CA JAN18 PE6SQ HELP. help.uber.co ",
+        "credit": null,
+        "debit": "9.18",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-01-16",
+        "location": " SKYPE SUBSCRIPTION LUXEMBOURG ",
+        "credit": null,
+        "debit": "29.93",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-01-18",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "3.21",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-01-19",
+        "location": " QUIZNO #6383 TORONTO ",
+        "credit": null,
+        "debit": "11.61",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-01-19",
+        "location": " OSMOWS GRILL MILTON ",
+        "credit": null,
+        "debit": "8.54",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-20",
+        "location": " UBER CA JAN20 ZKPQD HELP. help.uber.co ",
+        "credit": null,
+        "debit": "15.23",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-01-20",
+        "location": " UBER CA JAN20 KPMOV HELP. help.uber.co ",
+        "credit": null,
+        "debit": "14.89",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-01-20",
+        "location": " AMSTERDAM BREWHOUSE TORONTO ",
+        "credit": null,
+        "debit": "24.21",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-01-21",
+        "location": " MR. DUMPLING MILTON ",
+        "credit": null,
+        "debit": "26.85",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-21",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "7.51",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-21",
+        "location": " MR. DUMPLING MILTON ",
+        "credit": null,
+        "debit": "33.42",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-22",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "6.22",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-02-22",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "10.40",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-24",
+        "location": " EQUIFAX CONSUMER 800-871-3250 ",
+        "credit": null,
+        "debit": "19.95",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-02-24",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-24",
+        "location": " AMSTERDAM BREWHOUSE TORONTO ",
+        "credit": null,
+        "debit": "61.63",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-24",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "35.65",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-26",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "23.94",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-26",
+        "location": " HOLLISTER NEW ALBANY ",
+        "credit": null,
+        "debit": "82.18",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-02-27",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "6.76",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-27",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "6.75",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-02-27",
+        "location": " TOWN OF MILTON-LEISURE CN MILTON ",
+        "credit": null,
+        "debit": "28.00",
+        "category": "TAX and TOWN"
+    },
+    {
+        "date": "2017-02-27",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "11.20",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-02-28",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-02-28",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-01",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "4.24",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-01",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-03-01",
+        "location": " INS MARKET TORONTO ",
+        "credit": null,
+        "debit": "4.88",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-03-01",
+        "location": " TIM HORTON'S #5556 TORONTO ",
+        "credit": null,
+        "debit": "4.96",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-01",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "33.19",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-02",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-02",
+        "location": " THE FOX TORONTO ",
+        "credit": null,
+        "debit": "49.27",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-03",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "6.73",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-03",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "10.40",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-04",
+        "location": " WILLOWTV INTERNATIONAL I ",
+        "credit": null,
+        "debit": "7.99",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-03-04",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "34.42",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-04",
+        "location": " PITA & GRILL MILTON ",
+        "credit": null,
+        "debit": "23.70",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-05",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "23.04",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-06",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-07",
+        "location": " DOMINOS PIZZA 10287 905-875-3030 ",
+        "credit": null,
+        "debit": "32.37",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-06",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "42.77",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-07",
+        "location": " Amazon *Marketplce CA WWW.AMAZON.C ",
+        "credit": null,
+        "debit": "26.06",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-03-07",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "2.78",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-07",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "372.84",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-03-07",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "28.20",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-03-07",
+        "location": " PRESTO TORONTO ",
+        "credit": null,
+        "debit": "250.00",
+        "category": "TRANSIT"
+    },
+    {
+        "date": "2017-03-07",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-08",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "6.61",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-08",
+        "location": " A&W WATER PARK PLACE TORONTO ",
+        "credit": null,
+        "debit": "6.73",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-09",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "5.54",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-09",
+        "location": " VIRGIN MOBILE VERDUN ",
+        "credit": null,
+        "debit": "65.39",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-03-09",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-10",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "23.97",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-11",
+        "location": " ALDO #1018 ETOBICOKE ",
+        "credit": null,
+        "debit": "68.81",
+        "category": "CLOTHING"
+    },
+    {
+        "date": "2017-03-11",
+        "location": " HUDSON'S BAY #1544 ETOBICOKE ",
+        "credit": null,
+        "debit": "35.71",
+        "category": "OTHER"
+    },
+    {
+        "date": "2017-03-11",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "23.25",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-12",
+        "location": " BANANA REPUBLIC 6730 ETOBICOKE ",
+        "credit": null,
+        "debit": "175.15",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-14",
+        "location": " DOMINOS PIZZA 10287 MILTON ",
+        "credit": null,
+        "debit": "26.08",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-13",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "37.47",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-13",
+        "location": " FAST FRESH FOODS - WATER TORONTO ",
+        "credit": null,
+        "debit": "9.00",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-14",
+        "location": " PAYMENT - THANK YOU -",
+        "credit": "1000.00",
+        "debit": null,
+        "category": "CARD PAYMENT"
+    },
+    {
+        "date": "2017-03-15",
+        "location": " HOSP FOR SICK CHILDREN 416-813-6166 ",
+        "credit": null,
+        "debit": "20.00",
+        "category": "DONATIONS"
+    },
+    {
+        "date": "2017-03-15",
+        "location": " BELL CANADA (OB) MONTREAL ",
+        "credit": null,
+        "debit": "84.69",
+        "category": "PHONE BILL"
+    },
+    {
+        "date": "2017-03-15",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-15",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "23.35",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-16",
+        "location": " Amazon.ca AMAZON.CA ",
+        "credit": null,
+        "debit": "4.26",
+        "category": "BIG ONLINE"
+    },
+    {
+        "date": "2017-03-16",
+        "location": " SHANGHAI 360 TORONTO ",
+        "credit": null,
+        "debit": "9.49",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-16",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "68.03",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-17",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-19",
+        "location": " JUST EAT TORONTO ",
+        "credit": null,
+        "debit": "22.74",
+        "category": "BIG FOOD"
+    },
+    {
+        "date": "2017-03-20",
+        "location": " HOSTGATOR.COM 8669642867 ",
+        "credit": null,
+        "debit": "143.04",
+        "category": "HOSTING"
+    },
+    {
+        "date": "2017-03-20",
+        "location": " SECOND CUP 9107 TORONTO ",
+        "credit": null,
+        "debit": "2.78",
+        "category": "COFFEE"
+    },
+    {
+        "date": "2017-03-20",
+        "location": " VILLA MADINA TORONTO ",
+        "credit": null,
+        "debit": "10.60",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-21",
+        "location": " JIMMY THE GREEK TORONTO ",
+        "credit": null,
+        "debit": "10.72",
+        "category": "NOT SO BIG FOOD"
+    },
+    {
+        "date": "2017-03-22",
+        "location": " Spotify P01F4AFC2E Stockholm ",
+        "credit": null,
+        "debit": "14.99",
+        "category": "ENTERTAINMENT"
+    }
+]
