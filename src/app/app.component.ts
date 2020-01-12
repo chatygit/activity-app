@@ -31,6 +31,7 @@ export class AppComponent implements OnInit {
     this.app.getCreditMapYearLocal().subscribe(
       resp => {
         this.totalByYear = resp.body;
+        this.totalByYear.sort((a,b)=> a.location.localeCompare(b.location));
         this.selectedYear = this.totalByYear[0].location;
         this.totalDebitAmount = this.totalByYear.map(row => row.debitTotal).reduce((a, b) => a + b, 0);
         this.totalCreditAmount = this.totalByYear.map(row => row.creditTotal).reduce((a, b) => a + b, 0);

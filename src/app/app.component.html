@@ -12,14 +12,15 @@
 
   <!-- Some more meta crap-->
   <mat-divider></mat-divider>
-  <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
-      class="head-label"> {{totalByLocation.length}} </span>
-    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
   <div class="year-button-row">
     <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location"
       (click)="changeList(item.location)"> {{item.location}}
     </button>
   </div>
+  <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
+      class="head-label"> {{totalByLocation.length}} </span>
+    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
+  
 
   <div class="year-button-row">
     Sort By
@@ -36,7 +37,7 @@
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
           <h1 mat-line> <span class="select-label">{{tloc.purchaseList.length}}</span>
             times at
-            <span class="location-label">{{tloc.location}}</span></h1>
+            <span class="location-title-label">{{tloc.location}}</span></h1>
           <h3> <span *ngIf="tloc.debitTotal"> Debit : {{tloc.debitTotal | currency}} </span>
             <span *ngIf="tloc.creditTotal"> Credit : {{tloc.creditTotal | currency}} </span>
           </h3>
