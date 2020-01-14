@@ -33,11 +33,9 @@ export class AppComponent implements OnInit {
   /**
    * 
    * CHART DATA VARIABLES
-   * 
-   * 
    */
 
-  // BAR CHART 
+  // BAR CHART
   barChartOptions: ChartOptions = {
     responsive: true,
   };
@@ -95,10 +93,10 @@ export class AppComponent implements OnInit {
         this.totalDebitAmount = this.totalByYear.map(row => row.debitTotal).reduce((a, b) => a + b, 0);
         this.totalCreditAmount = this.totalByYear.map(row => row.creditTotal).reduce((a, b) => a + b, 0);
 
-        this.lineChartData  = [
+        this.lineChartData = [
           { data: this.totalByYear.map(val => val.debitTotal), label: 'Purchases by year' },
         ];
-        this.lineChartLabels =  this.totalByYear.map(val => val.location);
+        this.lineChartLabels = this.totalByYear.map(val => val.location);
         this.changeList(this.totalByYear[0].location);
       }
     );
@@ -116,15 +114,27 @@ export class AppComponent implements OnInit {
     this.selectedCreditAmount = options.map(optn => optn.value.creditTotal).reduce((a, b) => a + b, 0);
   }
 
+  resetColors() {
+
+    this.totalByYear.map(val => val.location).forEach(element => {
+      document.getElementById("button" + element).style.backgroundColor = "blueviolet";
+    });
+
+
+  }
+
   changeList(year) {
     this.app.getCreditCategoryLocal(year).subscribe(
       resp => {
+        this.resetColors();
+        document.getElementById("button" + year).style.backgroundColor = "red";
         this.loadYearTotals(year);
         this.selectedDebitAmount = 0;
         this.selectedDebitAmount = 0;
         this.selectedYear = year;
         this.totalByLocation = resp.body;
         this.loadChartData();
+
       }
     );
   }
@@ -133,20 +143,20 @@ export class AppComponent implements OnInit {
     this.barChartLabels = this.totalByLocation.map(val => val.location);
 
     this.barChartData = [
-      { data: this.totalByLocation.map(val => val.debitTotal), label: 'Purchases by Category' }
+      { data: this.totalByLocation.sort((a, b) => a.debitTotal - b.debitTotal).map(val => val.debitTotal), label: 'Purchases by Category' }
     ];
 
     this.app.getCreditDataMonthly(this.selectedYear).subscribe(
       resp => {
         var monthlyData = resp.body;
-        this.lineChartData  = [
+        this.lineChartData = [
           { data: monthlyData.map(val => val.debitTotal), label: 'Purchases by Month' },
         ];
-        this.lineChartLabels =  monthlyData.sort((a,b)=> a.location.localeCompare(b.location)).map(val => val.location);
+        this.lineChartLabels = monthlyData.sort((a, b) => a.location.localeCompare(b.location)).map(val => val.location);
       }
     );
 
-    
+
 
   }
 

@@ -1,7 +1,7 @@
 <div class="container">
 
   <!--  Header Card  -->
-  <mat-card class="header-card" style="background-color: aquamarine;">
+  <mat-card class="header-card">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
       <mat-card-title>TD VISA</mat-card-title>
@@ -10,8 +10,20 @@
     </mat-card-header>
   </mat-card>
 
+  <!-- MAIN CONTENT-->
+
+  <div class="year-button-row">
+    <span> Years </span>
+    <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
+      (click)="changeList(item.location)"> {{item.location}}
+    </button>
+  </div>
+  <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
+      class="head-label"> {{totalByLocation.length}} </span>
+    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
+
   <!--  Some charts and stuff-->
-  <mat-grid-list cols="2" rowHeight="600px"> 
+  <mat-grid-list cols="2" rowHeight="600px">
 
     <mat-grid-tile>
       <div class="chart-wrapper">
@@ -32,32 +44,22 @@
 
     </mat-grid-tile>
 
-
-
   </mat-grid-list>
 
-
-
-  <!-- Some more meta crap-->
   <mat-divider></mat-divider>
-  <div class="year-button-row">
-    <button mat-flat-button color="primary" *ngFor="let item of totalByYear" value="item.location"
-      (click)="changeList(item.location)"> {{item.location}}
-    </button>
-  </div>
-  <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
-      class="head-label"> {{totalByLocation.length}} </span>
-    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
 
+  <!-- Buttons SORTING-->
 
   <div class="year-button-row">
     Sort By
-    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'location')">Location</button>
-    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'debit')">Debit</button>
-    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'credit')">Credit</button>
-    <button mat-flat-button color="accent" (click)="sortList(totalByLocation,'visits')">Visits</button>
+    <button mat-flat-button (click)="sortList(totalByLocation,'location')">Location</button>
+    <button mat-flat-button (click)="sortList(totalByLocation,'debit')">Debit</button>
+    <button mat-flat-button (click)="sortList(totalByLocation,'credit')">Credit</button>
+    <button mat-flat-button (click)="sortList(totalByLocation,'visits')">Visits</button>
   </div>
 
+
+  <!-- Aggregated List and stuff-->
 
   <mat-grid-list cols="2" rowHeight="750px">
 
@@ -76,7 +78,7 @@
 
     <mat-grid-tile>
 
-      <mat-card class="selected-card" style="background-color: aquamarine;">
+      <mat-card class="selected-card">
         <mat-card-header>
           <mat-card-title mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</mat-card-title>
           <mat-card-subtitle>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}}
@@ -104,11 +106,5 @@
 
 
   </mat-grid-list>
-
-
-
-
-
-
 
 </div>

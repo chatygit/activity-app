@@ -1,54 +1,89 @@
+
+$color-primary: #c8e6c9;
+$primary-light: #fbfffc;
+$primary-dark: #97b498;
+
+$color-secondary: #e8f5e9;
+$secondary-light: #ffffff;
+$secondary-dark: #b6c2b7;
+
+$text-primary: #000000;
+$text-secondary: #000000;
+
+
 mat-selection-list {
   overflow: auto;
   width: 100%;
   height: 750px;
-
 }
 
-mat-list-option{
+mat-card{
+  color: $text-primary;
+}
+
+mat-list-option {
   font-style: italic;
 }
-
 
 mat-card-subtitle {
   font-weight: bold;
   font-size: larger;
   font-style: italic;
-  color: #8a2be2;
   font-size: 20px;
+  color: $text-secondary;
 }
 
-.chart-wrapper{
+.selected-card {
+  width: 100%;
+  height: 750px;
+  background-color: $color-secondary;
+}
+
+.header-card {
+  padding-bottom: 20px;
+  background-color: $primary-dark;
+}
+
+
+.chart-wrapper {
   width: 100%;
 }
 
+.container {
+  background-color: $primary-light;
+  width: 100%;
+  color: $text-primary;
+}
 
-.head-label{
+.head-label {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  background-color: gold;
+  background-color: $primary-dark;
 }
 
-.select-label{
+.select-label {
   font-size: 20px;
-  background-color: gold;
+  background-color:$primary-dark;
 }
 
-.location-label{
+.location-label {
   font-size: 15px;
 }
 
-.purchase-list-label{
-  color: darkorange;
+.purchase-list-label {
+  color: $text-secondary;
 }
-.purchase-location-label{
+
+.purchase-location-label {
   font-style: italic;
 }
-.location-title-label{
-  color: blueviolet;
+
+.location-title-label {
+  color: $text-secondary;
   font-size: 20px;
 }
-.purchase-amount-label{
-  color: deeppink;
+
+.purchase-amount-label {
+  color: $text-secondary;
 }
 
 ul {
@@ -59,17 +94,9 @@ ul {
   padding-inline-start: 0px;
 }
 
-.selected-card {
-  width: 100%;
-  height: 750px;
-}
-
-.header-card {
-  padding-bottom: 20px;
-}
-
 .year-button-row {
-  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: $primary-light;
 }
 
 .year-button-row button,
