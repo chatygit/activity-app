@@ -8,6 +8,7 @@ import { MaterialModule } from './material-module';
 import { HttpClientModule } from '@angular/common/http';
 import { DownstreamService } from './downstream.service';
 import { ChartsModule } from 'ng2-charts';
+import { FlexLayoutModule } from '@angular/flex-layout';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ChartsModule } from 'ng2-charts';
     BrowserAnimationsModule,
     MaterialModule,
     HttpClientModule,
-    ChartsModule
+    ChartsModule,
+    FlexLayoutModule
   ],
   providers: [DownstreamService],
   bootstrap: [AppComponent]

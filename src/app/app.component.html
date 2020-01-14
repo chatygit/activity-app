@@ -1,52 +1,58 @@
 <div class="container">
 
-  <!--  Header Card  -->
-  <mat-card class="header-card">
-    <mat-card-header>
-      <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title>TD VISA</mat-card-title>
-      <mat-card-subtitle>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}
-      </mat-card-subtitle>
-    </mat-card-header>
-  </mat-card>
 
-  <!-- MAIN CONTENT-->
+  <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
 
-  <div class="year-button-row">
-    <span> Years </span>
-    <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
-      (click)="changeList(item.location)"> {{item.location}}
-    </button>
+    <div fxFlex="20%">
+      <!--  Header Card  -->
+      <mat-card class="header-card">
+        <mat-card-header>
+          <mat-card-title>TD VISA</mat-card-title>
+          <mat-card-subtitle>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}
+          </mat-card-subtitle>
+        </mat-card-header>
+      </mat-card>
+    </div>
+
+    <!-- MAIN CONTENT-->
+
+    <div fxFlex="80%">
+      <div class="year-button-row">
+        <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
+          (click)="changeList(item.location)"> {{item.location}}
+        </button>
+      </div>
+      <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
+          class="head-label"> {{totalByLocation.length}} </span>
+        different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
+    </div>
   </div>
-  <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
-      class="head-label"> {{totalByLocation.length}} </span>
-    different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
+
+
 
   <!--  Some charts and stuff-->
-  <mat-grid-list cols="2" rowHeight="600px">
 
-    <mat-grid-tile>
-      <div class="chart-wrapper">
-        <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
-          [plugins]="barChartPlugins" [legend]="barChartLegend" [chartType]="barChartType">
-        </canvas>
-      </div>
+  <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <div fxFlex="50%">
+        <div class="chart-wrapper">
+          <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
+            [plugins]="barChartPlugins" [legend]="barChartLegend" [chartType]="barChartType">
+          </canvas>
+        </div>
+    </div>
+    <div fxFlex="50%">
+        <div class="chart-wrapper">
+          <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
+            [colors]="lineChartColors" [legend]="lineChartLegend" [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+          </canvas>
+        </div>
+    </div>
+  </div>
 
-    </mat-grid-tile>
 
-    <mat-grid-tile>
-      <div class="chart-wrapper">
-        <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
-          [colors]="lineChartColors" [legend]="lineChartLegend" [chartType]="lineChartType"
-          [plugins]="lineChartPlugins">
-        </canvas>
-      </div>
+  <!--  Some charts and stuff-->
 
-    </mat-grid-tile>
-
-  </mat-grid-list>
-
-  <mat-divider></mat-divider>
 
   <!-- Buttons SORTING-->
 
