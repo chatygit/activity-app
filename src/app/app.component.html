@@ -3,20 +3,15 @@
 
   <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
 
-    <div fxFlex="20%">
-      <!--  Header Card  -->
-      <mat-card class="header-card">
-        <mat-card-header>
-          <mat-card-title>TD VISA</mat-card-title>
-          <mat-card-subtitle>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}
-          </mat-card-subtitle>
-        </mat-card-header>
-      </mat-card>
+    <div fxFlex="50%">
+      <h1> TD VISA </h1>
+      <h2>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}</h2>
+      <h2>Total Income : {{totalIncome | currency}}</h2>
     </div>
 
     <!-- MAIN CONTENT-->
 
-    <div fxFlex="80%">
+    <div fxFlex="50%">
       <div class="year-button-row">
         <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
           (click)="changeList(item.location)"> {{item.location}}
@@ -34,19 +29,19 @@
 
   <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
     <div fxFlex="50%">
-        <div class="chart-wrapper">
-          <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
-            [plugins]="barChartPlugins" [legend]="barChartLegend" [chartType]="barChartType">
-          </canvas>
-        </div>
+      <div class="chart-wrapper">
+        <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
+          [plugins]="barChartPlugins" [legend]="barChartLegend" [chartType]="barChartType">
+        </canvas>
+      </div>
     </div>
     <div fxFlex="50%">
-        <div class="chart-wrapper">
-          <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
-            [colors]="lineChartColors" [legend]="lineChartLegend" [chartType]="lineChartType"
-            [plugins]="lineChartPlugins">
-          </canvas>
-        </div>
+      <div class="chart-wrapper">
+        <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
+          [colors]="lineChartColors" [legend]="lineChartLegend" [chartType]="lineChartType"
+          [plugins]="lineChartPlugins">
+        </canvas>
+      </div>
     </div>
   </div>
 
@@ -66,10 +61,9 @@
 
 
   <!-- Aggregated List and stuff-->
+  <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <div fxFlex="50%">
 
-  <mat-grid-list cols="2" rowHeight="750px">
-
-    <mat-grid-tile>
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
           <h1 mat-line> <span class="select-label">{{tloc.purchaseList.length}}</span>
@@ -80,37 +74,31 @@
           </h3>
         </mat-list-option>
       </mat-selection-list>
-    </mat-grid-tile>
+    </div>
 
-    <mat-grid-tile>
+    <div fxFlex="50%">
 
-      <mat-card class="selected-card">
-        <mat-card-header>
-          <mat-card-title mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</mat-card-title>
-          <mat-card-subtitle>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}}
-          </mat-card-subtitle>
-        </mat-card-header>
-        <mat-card-content>
-          <ul>
-            <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
-              <span class="location-title-label"> {{ valSelect.value.location }} </span>
-              <span *ngIf="valSelect.value.debitTotal" class="purchase-amount-label"> Debit
-                {{ valSelect.value.debitTotal | currency}} </span>
-              <span *ngIf="valSelect.value.creditTotal" class="purchase-amount-label"> Credit
-                {{ valSelect.value.creditTotal | currency}} </span>
-              <div *ngFor="let item of valSelect.value.purchaseList">
-                <span class="purchase-list-label"> {{item.date | date}} </span>
-                <span class="purchase-location-label"> {{item.location}} </span>
-                <span *ngIf="item.debit" class="purchase-amount-label"> Debit : {{item.debit | currency}} </span>
-                <span *ngIf="item.credit" class="purchase-amount-label"> Credit : {{item.credit | currency}} </span>
-              </div>
-            </li>
-          </ul>
-        </mat-card-content>
-      </mat-card>
-    </mat-grid-tile>
+      <h3 mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</h3>
+      <h2>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}} </h2>
+      <div class="selected-content">
+        <ul>
+          <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
+            <span class="location-title-label"> {{ valSelect.value.location }} </span>
+            <span *ngIf="valSelect.value.debitTotal" class="purchase-amount-label"> Debit
+              {{ valSelect.value.debitTotal | currency}} </span>
+            <span *ngIf="valSelect.value.creditTotal" class="purchase-amount-label"> Credit
+              {{ valSelect.value.creditTotal | currency}} </span>
+            <div *ngFor="let item of valSelect.value.purchaseList">
+              <span class="purchase-list-label"> {{item.date | date}} </span>
+              <span class="purchase-location-label"> {{item.location}} </span>
+              <span *ngIf="item.debit" class="purchase-amount-label"> Debit : {{item.debit | currency}} </span>
+              <span *ngIf="item.credit" class="purchase-amount-label"> Credit : {{item.credit | currency}} </span>
+            </div>
+          </li>
+        </ul>
+
+      </div>
+    </div>
 
 
-  </mat-grid-list>
-
-</div>
+  </div>

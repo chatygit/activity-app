@@ -7,8 +7,8 @@ $color-secondary: #e8f5e9;
 $secondary-light: #ffffff;
 $secondary-dark: #b6c2b7;
 
-$text-primary: #fff;
-$text-secondary: #000000;
+$text-primary: #c2185b;
+$text-secondary: #bdbdbd;
 
 $font : "Quicksand", sans-serif;
 
@@ -17,27 +17,18 @@ mat-selection-list {
   overflow: auto;
   width: 100%;
   height: 750px;
-}
-
-
-.selected-card {
-  width: 100%;
-  height: 750px;
-}
-
-.header-card {
-  margin-bottom: 5%px;
+  color: $text-secondary;
+  font: $font;
 }
 
 .chart-wrapper {
-  width: 100%;
+  width: 90%;
 }
 
 .container {
   width: 100%;
   font: $font;
   color: $text-primary;
-  //background: linear-gradient(45deg, #796fc1 0%, #838beb 100%);
 }
 
 

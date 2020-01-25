@@ -29,6 +29,8 @@ export class AppComponent implements OnInit {
 
   selectedYear: string;
 
+  totalIncome : number = 132120 + 108300 +  71745 + 71900 + 72332;
+
 
   /**
    * 
