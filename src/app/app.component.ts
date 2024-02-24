@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { DownstreamService } from './downstream.service';
 import { TotalByLocation } from './total-by-location';
 import { MatListOption } from '@angular/material/list';
-import { ChartOptions, ChartType, ChartDataSets } from 'chart.js';
-import { Label, Color } from 'ng2-charts';
+import { ChartOptions, ChartType, ChartDataset } from 'chart.js';
+
 
 
 
@@ -41,29 +41,29 @@ export class AppComponent implements OnInit {
   barChartOptions: ChartOptions = {
     responsive: true,
   };
-  barChartLabels: Label[] = ['Apple', 'Banana', 'Kiwifruit', 'Blueberry', 'Orange', 'Grapes'];
+  barChartLabels: String[] = ['Apple', 'Banana', 'Kiwifruit', 'Blueberry', 'Orange', 'Grapes'];
   barChartType: ChartType = 'bar';
   barChartLegend = true;
   barChartPlugins = [];
 
-  barChartData: ChartDataSets[] = [
+  barChartData: ChartDataset[] = [
     { data: [45, 37, 60, 70, 46, 33], label: 'Best Fruits' }
   ];
 
 
   // LINE CHART
 
-  lineChartData: ChartDataSets[] = [
+  lineChartData: ChartDataset[] = [
     { data: [85, 72, 78, 75, 77, 75], label: 'Crude oil prices' },
   ];
 
-  lineChartLabels: Label[] = ['January', 'February', 'March', 'April', 'May', 'June'];
+  lineChartLabels: String[] = ['January', 'February', 'March', 'April', 'May', 'June'];
 
   lineChartOptions = {
     responsive: true,
   };
 
-  lineChartColors: Color[] = [
+  lineChartColors: object[] = [
     {
       borderColor: 'black',
       backgroundColor: 'rgba(255,255,0,0.28)',

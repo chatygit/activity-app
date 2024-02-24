@@ -29,6 +29,16 @@ mat-selection-list {
   width: 100%;
   font: $font;
   color: $text-primary;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex: 11 auto;
+}
+
+.fifty-wide{
+  flex:50%;
 }
 
 

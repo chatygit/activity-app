@@ -3,7 +3,7 @@
   <h1>Chaty's Expenses</h1>
   <h2> Teja  </h2>
 
-  <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+  <div class="container">
     <div fxFlex="50%">
       <h1> TD VISA </h1>
       <h2>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}</h2>
@@ -28,18 +28,18 @@
 
   <!--  Some charts and stuff-->
 
-  <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
-    <div fxFlex="50%">
+  <div class="container"></div>
+    <div class="fifty-wide">
       <div class="chart-wrapper">
         <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
-          [plugins]="barChartPlugins" [legend]="barChartLegend" [chartType]="barChartType">
+          [plugins]="barChartPlugins" [legend]="barChartLegend" [type]="barChartType">
         </canvas>
       </div>
     </div>
-    <div fxFlex="50%">
+    <div class="fifty-wide">
       <div class="chart-wrapper">
         <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
-          [colors]="lineChartColors" [legend]="lineChartLegend" [chartType]="lineChartType"
+           [legend]="lineChartLegend" [type]="lineChartType"
           [plugins]="lineChartPlugins">
         </canvas>
       </div>
@@ -62,8 +62,8 @@
 
 
   <!-- Aggregated List and stuff-->
-  <div class="container" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
-    <div fxFlex="50%">
+  <div class="container">
+    <div class="fifty-wide">
 
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
@@ -77,7 +77,7 @@
       </mat-selection-list>
     </div>
 
-    <div fxFlex="50%">
+    <div class="fifty-wide">
 
       <h3 mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</h3>
       <h2>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}} </h2>
