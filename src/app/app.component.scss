@@ -16,9 +16,13 @@ $font : "Quicksand", sans-serif;
 mat-selection-list {
   overflow: auto;
   width: 100%;
-  height: 750px;
   color: $text-secondary;
   font: $font;
+  font-size: large;
+}
+
+mat-list-option{
+  padding: 50px;
 }
 
 .chart-wrapper {
@@ -26,28 +30,30 @@ mat-selection-list {
 }
 
 .container {
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
   width: 100%;
   font: $font;
   color: $text-primary;
-  flex-direction:row;
-  flex-wrap:wrap;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   gap: 20px;
-  flex: 11 auto;
 }
 
 .fifty-wide{
-  flex:50%;
+  width: 1250px;
+  display: flex;
 }
 
 
 ul {
-  height: 700px;
   width: 100%;
   overflow: auto;
   list-style: none;
   padding-inline-start: 0px;
+  height: 100%;
+  font-size: 20px;
 }
 
 .year-button-row {

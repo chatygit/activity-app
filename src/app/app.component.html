@@ -4,7 +4,7 @@
   <h2> Teja  </h2>
 
   <div class="container">
-    <div fxFlex="50%">
+    <div class="fifty-wide">
       <h1> TD VISA </h1>
       <h2>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}</h2>
       <h2>Total Income : {{totalIncome | currency}}</h2>
@@ -12,7 +12,7 @@
 
     <!-- MAIN CONTENT-->
 
-    <div fxFlex="50%">
+    <div class="fifty-wide">
       <div class="year-button-row">
         <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
           (click)="changeList(item.location)"> {{item.location}}
@@ -28,7 +28,7 @@
 
   <!--  Some charts and stuff-->
 
-  <div class="container"></div>
+  <div class="container">
     <div class="fifty-wide">
       <div class="chart-wrapper">
         <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
@@ -81,7 +81,6 @@
 
       <h3 mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</h3>
       <h2>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}} </h2>
-      <div class="selected-content">
         <ul>
           <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
             <span class="location-title-label"> {{ valSelect.value.location }} </span>
@@ -97,9 +96,5 @@
             </div>
           </li>
         </ul>
-
-      </div>
     </div>
-
-
   </div>

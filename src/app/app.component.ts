@@ -86,7 +86,7 @@ export class AppComponent implements OnInit {
   constructor(private app: DownstreamService) { }
 
   ngOnInit() {
-    this.app.getCreditMapYearLocal().subscribe(
+    this.app.getCreditMapYear().subscribe(
       resp => {
         this.totalByYear = resp.body;
         this.totalByYear.sort((a, b) => a.location.localeCompare(b.location));
@@ -126,7 +126,7 @@ export class AppComponent implements OnInit {
   }
 
   changeList(year) {
-    this.app.getCreditCategoryLocal(year).subscribe(
+    this.app.getCreditCategory(year).subscribe(
       resp => {
         this.resetColors();
         document.getElementById("button" + year).style.backgroundColor = "red";
