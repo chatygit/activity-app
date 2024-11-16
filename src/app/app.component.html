@@ -1,100 +1,95 @@
+<h1 style="text-align: center;">Chaty's Expenses</h1>
+
 <div class="container">
 
-  <h1>Chaty's Expenses</h1>
-  <h2> Teja  </h2>
+  <!-- BLOCK 1 -->
 
-  <div class="container">
-    <div class="fifty-wide">
-      <h1> TD VISA </h1>
-      <h2>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}</h2>
-      <h2>Total Income : {{totalIncome | currency}}</h2>
+  <div class="fifty-wide">
+    <h1> TD VISA </h1>
+    <h2>Debit : {{totalDebitAmount | currency}} Credit : {{totalCreditAmount | currency}}</h2>
+    <h2>Total Income : {{totalIncome | currency}}</h2>
+  </div>
+
+   <!-- BLOCK 2 -->
+
+  <div class="fifty-wide">
+    <div class="year-button-row">
+      <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
+        (click)="changeList(item.location)"> {{item.location}}
+      </button>
     </div>
+    <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
+        class="head-label"> {{totalByLocation.length}} </span>
+      different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
+  </div>
+   <!-- BLOCK 3 -->
 
-    <!-- MAIN CONTENT-->
-
-    <div class="fifty-wide">
-      <div class="year-button-row">
-        <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
-          (click)="changeList(item.location)"> {{item.location}}
-        </button>
-      </div>
-      <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
-          class="head-label"> {{totalByLocation.length}} </span>
-        different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
+  <div class="fifty-wide">
+    <div class="chart-wrapper">
+      <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
+        [plugins]="barChartPlugins" [legend]="barChartLegend" [type]="barChartType">
+      </canvas>
     </div>
   </div>
 
+    <!-- BLOCK 4 -->
 
-
-  <!--  Some charts and stuff-->
-
-  <div class="container">
-    <div class="fifty-wide">
-      <div class="chart-wrapper">
-        <canvas baseChart [datasets]="barChartData" [labels]="barChartLabels" [options]="barChartOptions"
-          [plugins]="barChartPlugins" [legend]="barChartLegend" [type]="barChartType">
-        </canvas>
-      </div>
-    </div>
-    <div class="fifty-wide">
-      <div class="chart-wrapper">
-        <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
-           [legend]="lineChartLegend" [type]="lineChartType"
-          [plugins]="lineChartPlugins">
-        </canvas>
-      </div>
+  <div class="fifty-wide">
+    <div class="chart-wrapper">
+      <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
+        [legend]="lineChartLegend" [type]="lineChartType" [plugins]="lineChartPlugins">
+      </canvas>
     </div>
   </div>
 
+   <!-- BLOCK 5 -->
+  <div class="fifty-wide">
 
-  <!--  Some charts and stuff-->
+    <div class="year-button-row">
+      Sort By
+      <button mat-flat-button (click)="sortList(totalByLocation,'location')">Location</button>
+      <button mat-flat-button (click)="sortList(totalByLocation,'debit')">Debit</button>
+      <button mat-flat-button (click)="sortList(totalByLocation,'credit')">Credit</button>
+      <button mat-flat-button (click)="sortList(totalByLocation,'visits')">Visits</button>
+    </div>
 
-
-  <!-- Buttons SORTING-->
-
-  <div class="year-button-row">
-    Sort By
-    <button mat-flat-button (click)="sortList(totalByLocation,'location')">Location</button>
-    <button mat-flat-button (click)="sortList(totalByLocation,'debit')">Debit</button>
-    <button mat-flat-button (click)="sortList(totalByLocation,'credit')">Credit</button>
-    <button mat-flat-button (click)="sortList(totalByLocation,'visits')">Visits</button>
-  </div>
-
-
-  <!-- Aggregated List and stuff-->
-  <div class="container">
-    <div class="fifty-wide">
-
+    <div>
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
           <h1 mat-line> <span class="select-label">{{tloc.purchaseList.length}}</span>
             times at
-            <span class="location-title-label">{{tloc.location}}</span></h1>
+            <span class="location-title-label">{{tloc.location}}</span>
+          </h1>
           <h3> <span *ngIf="tloc.debitTotal"> Debit : {{tloc.debitTotal | currency}} </span>
             <span *ngIf="tloc.creditTotal"> Credit : {{tloc.creditTotal | currency}} </span>
           </h3>
         </mat-list-option>
       </mat-selection-list>
     </div>
-
-    <div class="fifty-wide">
-
-      <h3 mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</h3>
-      <h2>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}} </h2>
-        <ul>
-          <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
-            <span class="location-title-label"> {{ valSelect.value.location }} </span>
-            <span *ngIf="valSelect.value.debitTotal" class="purchase-amount-label"> Debit
-              {{ valSelect.value.debitTotal | currency}} </span>
-            <span *ngIf="valSelect.value.creditTotal" class="purchase-amount-label"> Credit
-              {{ valSelect.value.creditTotal | currency}} </span>
-            <div *ngFor="let item of valSelect.value.purchaseList">
-              <span class="purchase-list-label"> {{item.date | date}} </span>
-              <span class="purchase-location-label"> {{item.location}} </span>
-              <span *ngIf="item.debit" class="purchase-amount-label"> Debit : {{item.debit | currency}} </span>
-              <span *ngIf="item.credit" class="purchase-amount-label"> Credit : {{item.credit | currency}} </span>
-            </div>
-          </li>
-        </ul>
-    </div>
+    
   </div>
+
+  <!-- BLOCK 6 -->
+  <div class="fifty-wide">
+
+    <h3 mat-line>Options selected: {{locSelect.selectedOptions.selected.length}}</h3>
+    <h2>Debit: {{selectedDebitAmount | currency}} Credit: {{selectedCreditAmount | currency}} </h2>
+    <ul>
+      <li *ngFor="let valSelect of locSelect.selectedOptions.selected">
+        <span class="location-title-label"> {{ valSelect.value.location }} </span>
+        <span *ngIf="valSelect.value.debitTotal" class="purchase-amount-label"> Debit
+          {{ valSelect.value.debitTotal | currency}} </span>
+        <span *ngIf="valSelect.value.creditTotal" class="purchase-amount-label"> Credit
+          {{ valSelect.value.creditTotal | currency}} </span>
+        <div *ngFor="let item of valSelect.value.purchaseList">
+          <span class="purchase-list-label"> {{item.date | date}} </span>
+          <span class="purchase-location-label"> {{item.location}} </span>
+          <span *ngIf="item.debit" class="purchase-amount-label"> Debit : {{item.debit | currency}} </span>
+          <span *ngIf="item.credit" class="purchase-amount-label"> Credit : {{item.credit | currency}} </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+
+</div>
