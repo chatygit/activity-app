@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Chaty's Expenses</h1>
 
-<div class="container">
+<div class="flex-container">
 
   <!-- BLOCK 1 -->
 
@@ -13,11 +13,11 @@
    <!-- BLOCK 2 -->
 
   <div class="fifty-wide">
-    <div class="year-button-row">
-      <button mat-flat-button *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
+   
+      <button class="yearButton" *ngFor="let item of totalByYear" value="item.location" id="{{'button'+item.location}}"
         (click)="changeList(item.location)"> {{item.location}}
       </button>
-    </div>
+
     <h3> In <span class="head-label"> {{selectedYear}} </span>you have purchased from <span *ngIf="totalByLocation"
         class="head-label"> {{totalByLocation.length}} </span>
       different locations and spent <span class="head-label"> {{yearDebitTotal | currency}} </span></h3>
@@ -36,7 +36,7 @@
 
   <div class="fifty-wide">
     <div class="chart-wrapper">
-      <canvas baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
+      <canvas class="chart-wrapper" baseChart [datasets]="lineChartData" [labels]="lineChartLabels" [options]="lineChartOptions"
         [legend]="lineChartLegend" [type]="lineChartType" [plugins]="lineChartPlugins">
       </canvas>
     </div>
@@ -44,25 +44,22 @@
 
    <!-- BLOCK 5 -->
   <div class="fifty-wide">
-
-    <div class="year-button-row">
       Sort By
-      <button mat-flat-button (click)="sortList(totalByLocation,'location')">Location</button>
-      <button mat-flat-button (click)="sortList(totalByLocation,'debit')">Debit</button>
-      <button mat-flat-button (click)="sortList(totalByLocation,'credit')">Credit</button>
-      <button mat-flat-button (click)="sortList(totalByLocation,'visits')">Visits</button>
-    </div>
+      <button class="sortButton" (click)="sortList(totalByLocation,'location')">Location</button>
+      <button class="sortButton" (click)="sortList(totalByLocation,'debit')">Debit</button>
+      <button class="sortButton" (click)="sortList(totalByLocation,'credit')">Credit</button>
+      <button class="sortButton" (click)="sortList(totalByLocation,'visits')">Visits</button>
 
     <div>
       <mat-selection-list #locSelect (selectionChange)="onLocationSelect(locSelect.selectedOptions.selected)">
         <mat-list-option *ngFor="let tloc of totalByLocation" [value]="tloc">
-          <h1 mat-line> <span class="select-label">{{tloc.purchaseList.length}}</span>
+          <h1> <span class="select-label">{{tloc.purchaseList.length}}</span>
             times at
             <span class="location-title-label">{{tloc.location}}</span>
           </h1>
-          <h3> <span *ngIf="tloc.debitTotal"> Debit : {{tloc.debitTotal | currency}} </span>
+          <h1> <span *ngIf="tloc.debitTotal"> Debit : {{tloc.debitTotal | currency}} </span>
             <span *ngIf="tloc.creditTotal"> Credit : {{tloc.creditTotal | currency}} </span>
-          </h3>
+          </h1>
         </mat-list-option>
       </mat-selection-list>
     </div>

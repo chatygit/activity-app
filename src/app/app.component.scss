@@ -10,37 +10,31 @@ $secondary-dark: #b6c2b7;
 $text-primary: #c2185b;
 $text-secondary: #bdbdbd;
 
-$font : "Quicksand", sans-serif;
-
 
 mat-selection-list {
   overflow: auto;
   width: 100%;
-  color: $text-secondary;
-  font: $font;
-  font-size: large;
 }
 
 mat-list-option{
   padding: 50px;
 }
 
-.chart-wrapper {
-  width: 90%;
-}
 
-.container {
+.flex-container {
   display: flex;
   flex-direction:row;
   flex-wrap: wrap;
-  
+  background-color: #97b498;
 }
 
-.fifty-wide{
-  width: 1250px;
-  display: flex;
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  width: 38%;
 }
-
 
 ul {
   width: 100%;
@@ -48,14 +42,17 @@ ul {
   list-style: none;
   padding-inline-start: 0px;
   height: 100%;
-  font-size: 20px;
 }
 
-.year-button-row {
-  padding-top: 10px;
+.yearButton{
+  font-size: 30px;
 }
 
-.year-button-row button,
-.year-button-row span {
-  margin-right: 8px;
+.sortButton{
+  padding: 20px;
+  margin: 10px;
+  background-color: #c2185b;
+}
+.head-label {
+  color: #c2185b;
 }

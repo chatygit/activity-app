@@ -5,9 +5,6 @@ import { MatListOption } from '@angular/material/list';
 import { ChartOptions, ChartType, ChartDataset } from 'chart.js';
 
 
-
-
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -29,7 +26,7 @@ export class AppComponent implements OnInit {
 
   selectedYear: string;
 
-  totalIncome : number = 132120 + 108300 +  71745 + 71900 + 72332;
+  totalIncome: number = 132120 + 108300 + 71745 + 71900 + 72332;
 
 
   /**
@@ -40,6 +37,33 @@ export class AppComponent implements OnInit {
   // BAR CHART
   barChartOptions: ChartOptions = {
     responsive: true,
+    plugins: {
+      legend: {
+        labels: {
+          font: {
+            size: 50
+          }
+        }
+      }
+    },
+    scales: {
+      x: {
+        ticks: {
+          font: {
+            size: 20,
+            family: 'vazir'
+          }
+        }
+      },
+      y: {
+        ticks: {
+          font: {
+            size: 40,
+            family: 'vazir'
+          }
+        }
+      }
+    }
   };
   barChartLabels: String[] = ['Apple', 'Banana', 'Kiwifruit', 'Blueberry', 'Orange', 'Grapes'];
   barChartType: ChartType = 'bar';
@@ -61,6 +85,33 @@ export class AppComponent implements OnInit {
 
   lineChartOptions = {
     responsive: true,
+    plugins: {
+      legend: {
+        labels: {
+          font: {
+            size: 50
+          }
+        }
+      }
+    },
+    scales: {
+      x: {
+        ticks: {
+          font: {
+            size: 40,
+            family: 'vazir'
+          }
+        }
+      },
+      y: {
+        ticks: {
+          font: {
+            size: 40,
+            family: 'vazir'
+          }
+        }
+      }
+    }
   };
 
   lineChartColors: object[] = [
@@ -145,7 +196,7 @@ export class AppComponent implements OnInit {
     this.barChartLabels = this.totalByLocation.map(val => val.location);
 
     this.barChartData = [
-      { data: this.totalByLocation.sort((a, b) => a.debitTotal - b.debitTotal).map(val => val.debitTotal), label: 'Purchases by Category' }
+      { data: this.totalByLocation.sort((a, b) => a.debitTotal - b.debitTotal).map(val => val.debitTotal), label: 'Purchases by Category' },
     ];
 
     this.app.getCreditDataMonthly(this.selectedYear).subscribe(
@@ -158,12 +209,7 @@ export class AppComponent implements OnInit {
       }
     );
 
-
-
   }
-
-
-
 
 
   sortList(list: TotalByLocation[], key: string) {
